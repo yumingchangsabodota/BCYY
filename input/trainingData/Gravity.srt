@@ -1,0 +1,4214 @@
+﻿1
+00:00:13,680 --> 00:00:22,310
+距離地球600公里處  溫度波動在125℃至-100℃
+
+2
+00:00:22,640 --> 00:00:30,190
+聲音不能傳播
+
+3
+00:00:25,150 --> 00:00:30,190
+沒有氣壓
+
+4
+00:00:26,940 --> 00:00:30,190
+沒有氧氣
+
+5
+00:00:31,400 --> 00:00:34,950
+太空中生命無法存活
+
+6
+00:00:36,530 --> 00:00:39,870
+地      心      引      力
+
+7
+00:01:04,640 --> 00:01:07,100
+請確認置換蓋第一和第二部分
+Please verify that the P-one ATA removal
+
+8
+00:01:07,100 --> 00:01:10,580
+P1 ATA資料已刪除
+on replacement cap part one and two are complete.
+
+9
+00:01:10,930 --> 00:01:14,580
+記憶體中M1  M2  M3  M4均已刪除
+DMA M-one, M-two, M-three and M-four are complete.
+
+10
+00:01:14,580 --> 00:01:17,100
+收到  探索者
+Okay. Copy that, Explorer.
+
+11
+00:01:18,300 --> 00:01:19,260
+斯通博士  這裡是休士頓
+Dr. Stone, Houston.
+
+12
+00:01:19,260 --> 00:01:23,260
+醫護組擔心你的心電數值
+Medical is concerned about your ECG readings.
+
+13
+00:01:23,260 --> 00:01:25,110
+我很好  休士頓
+I'm fine, Houston.
+
+14
+00:01:25,110 --> 00:01:27,100
+醫護組可不這麼想  博士
+Well, Medical doesn't agree, Doc.
+
+15
+00:01:27,100 --> 00:01:28,120
+感到噁心嗎
+Are you feeling nauseous?
+
+16
+00:01:28,120 --> 00:01:31,020
+和平時一樣  休士頓
+Not any more than usual, Houston.
+
+17
+00:01:31,020 --> 00:01:32,650
+體征檢測正常
+Diagnostics are green.
+
+18
+00:01:33,160 --> 00:01:36,000
+聯接通信卡  準備資料接收
+Link to communications card ready for data reception.
+
+19
+00:01:37,380 --> 00:01:39,050
+如果一切順利  我明天回去
+If this works, when we touch down tomorrow,
+
+20
+00:01:39,050 --> 00:01:41,160
+請你們大家喝酒
+I'll buying all you guys a round of drinks.
+
+21
+00:01:41,630 --> 00:01:43,180
+說定了  博士
+That's a date, Doctor.
+
+22
+00:01:43,230 --> 00:01:46,290
+記住  休士頓最愛瑪格麗塔
+Just remember, Houston's partial to margaritas.
+
+23
+00:01:47,720 --> 00:01:49,320
+啟動通信卡
+Booting comms card now.
+
+24
+00:01:50,370 --> 00:01:51,600
+請確認
+Please confirm link.
+
+25
+00:01:52,620 --> 00:01:55,200
+通信失敗  我們沒收到資料
+That's a negative, we're not seeing any data.
+
+26
+00:01:56,280 --> 00:01:58,790
+稍等  休士頓  我重啟一下通信卡
+Standby, Houston, I'll gonna reboot the comms card.
+
+27
+00:01:58,960 --> 00:02:00,030
+待命
+Standing by.
+
+28
+00:02:00,580 --> 00:02:03,170
+休士頓  我對這次任務有種不祥的預感
+Houston, I have a bad feeling about this mission.
+
+29
+00:02:03,330 --> 00:02:04,940
+仔細說說
+Please expand.
+
+30
+00:02:05,070 --> 00:02:06,710
+好的  我給你講個事
+Okay, let me tell you a story.
+
+31
+00:02:06,990 --> 00:02:08,130
+96年時候
+It was ninety-six.
+
+32
+00:02:08,130 --> 00:02:10,600
+我在太空已經待了42天
+I'd been up here for forty-two days.
+
+33
+00:02:10,610 --> 00:02:13,590
+每次路過德克薩斯  都會俯視地球
+Every time I passed over Texas, I looked down
+
+34
+00:02:13,590 --> 00:02:17,520
+以為我太太也在仰望我  思念我
+knowing that Mrs. Kowalski was looking up, thinking of me.
+
+35
+00:02:17,940 --> 00:02:20,480
+整整六周我都向那女人飛吻
+Six weeks I was blowing kisses at that woman.
+
+36
+00:02:20,650 --> 00:02:22,220
+等我回到愛德華茲基地卻發現
+Then we land at Edwards and I find out
+
+37
+00:02:22,220 --> 00:02:24,240
+她跟一個律師跑了
+that she's run off with this lawyer.
+
+38
+00:02:24,290 --> 00:02:27,350
+-我把行李裝上車  去了...-提華納
+- So, I packed my car, and I headed to... - Tijuana.
+
+39
+00:02:24,290 --> 00:02:27,350
+{\an8}墨西哥西北部城市
+
+40
+00:02:27,350 --> 00:02:29,250
+這事你講過了  庫沃斯基
+You've told this story, Kowalski.
+
+41
+00:02:29,250 --> 00:02:30,720
+休士頓記得
+As Houston recalls,
+
+42
+00:02:30,730 --> 00:02:33,340
+她還開走了你那輛74年的GTO
+she, uh, took off in your seventy-four GTO.
+
+43
+00:02:33,570 --> 00:02:37,150
+工程組詢問噴氣背包燃料狀況
+Engineering requests fuel status on the jetpack prototype.
+
+44
+00:02:37,150 --> 00:02:41,000
+出艙5小時  顯示消耗30%
+Five hours off the reservation and I show thirty percent drain.
+
+45
+00:02:41,000 --> 00:02:42,610
+請替我讚美工程組
+Give my compliments to Engineering.
+
+46
+00:02:42,610 --> 00:02:45,490
+除滾軸重定有點小故障外
+Except for a slight malfunction in the nulling of the roll axis,
+
+47
+00:02:45,490 --> 00:02:48,430
+這噴氣背包還真給力
+this jetpack is one prime piece of thrust.
+
+48
+00:02:49,090 --> 00:02:50,650
+工程組說謝謝你
+Engineering says thank you.
+
+49
+00:02:50,650 --> 00:02:51,930
+告訴他們我還是更喜歡
+Tell 'em I still prefer
+
+50
+00:02:51,930 --> 00:02:53,340
+我那輛67年的克爾維特跑車
+my sixty-seven Corvette, though.
+
+51
+00:02:53,690 --> 00:02:54,690
+說到這個  我有沒有講過...
+Speaking of which, did I ever tell you...
+
+52
+00:02:54,690 --> 00:02:56,710
+大家都瞭解你跑車那事  馬特
+We know the Corvette story, Matt.
+
+53
+00:02:56,930 --> 00:02:58,470
+工程組也瞭解嗎
+Even Engineering?
+
+54
+00:02:58,470 --> 00:03:00,190
+他們最瞭解
+Especially Engineering.
+
+55
+00:03:01,480 --> 00:03:02,880
+我們會想念你的  馬特
+We're going to miss you, Matt.
+
+56
+00:03:03,410 --> 00:03:07,210
+-通信卡正在重啟  -謝謝你  博士
+- Comms card reboot in progress. - Thank you, Doctor.
+
+57
+00:03:07,450 --> 00:03:09,110
+謝裡夫  你那怎麼樣
+Shariff, what's your status?
+
+58
+00:03:09,580 --> 00:03:13,600
+差不多了  正在更換電池組件A1和C
+Nearly there. Replacing battery module A-one and C.
+
+59
+00:03:15,290 --> 00:03:17,080
+能確定些嗎
+Could you be a little more specific?
+
+60
+00:03:17,080 --> 00:03:19,710
+休士頓最怕這種模糊估計
+Indeterminate estimates make Houston anxious.
+
+61
+00:03:19,910 --> 00:03:22,650
+休士頓  請不用擔心
+No, no, no. Houston. Don't be anxious.
+
+62
+00:03:22,670 --> 00:03:24,700
+焦慮對心臟不好
+Anxiety's not good for the heart.
+
+63
+00:03:25,290 --> 00:03:27,310
+系統已做好重啟準備
+System is ready to reactivate.
+
+64
+00:03:28,440 --> 00:03:31,700
+哈勃望遠鏡已啟動  完成升級
+Hubble telescope engaged. Upgrade fully functional.
+
+65
+00:03:32,150 --> 00:03:34,690
+掌聲是送給你的  謝裡夫
+That applause you hear is for you, Shariff.
+
+66
+00:03:34,800 --> 00:03:36,270
+恭喜你  放鬆一下
+Congratulations. Kick back,
+
+67
+00:03:36,270 --> 00:03:38,050
+今天可以好好休息了
+take the rest of the day off.
+
+68
+00:03:42,810 --> 00:03:44,330
+馬特  你能看得到
+Matt, do you have a visual on just
+
+69
+00:03:44,330 --> 00:03:47,200
+任務專員謝裡夫在搞什麼嗎
+what Mission Specialist Shariff is doing up there?
+
+70
+00:03:47,680 --> 00:03:50,660
+他好像在跳某種慶祝舞
+He appears to be doing some form of the Macarena.
+
+71
+00:03:50,930 --> 00:03:54,470
+我也只能猜出這些了
+But that would be just a best-guess scenario on my part.
+
+72
+00:03:54,680 --> 00:03:56,350
+斯通博士  這是休士頓
+Dr. Stone, Houston.
+
+73
+00:03:56,690 --> 00:03:58,600
+醫護組發現你體溫已降到35.9
+Medical now have you with a temperature drop to
+
+74
+00:03:58,610 --> 00:04:01,720
+心率升到70了
+thirty-five-point-nine and a heart-rate rise to seventy.
+
+75
+00:04:02,930 --> 00:04:06,030
+-你有什麼感覺  -休士頓  我很好
+- How are you feeling? - Houston, I'm fine.
+
+76
+00:04:06,360 --> 00:04:07,420
+只是零重力下
+It's just keeping your lunch down
+
+77
+00:04:07,420 --> 00:04:09,700
+讓午飯待在胃裡可不容易
+in zero-G is harder than it looks.
+
+78
+00:04:10,650 --> 00:04:14,630
+斯通博士  醫護組問你要不要回探索者號
+Dr. Stone, Medical is asking if you want to return to Explorer.
+
+79
+00:04:14,630 --> 00:04:16,590
+不用  我們都來一周了  休士頓
+Negative. We're been here a week, Houston.
+
+80
+00:04:16,590 --> 00:04:17,930
+趕快弄完吧
+Let's just finish this.
+
+81
+00:04:18,270 --> 00:04:21,900
+-通信卡已啟動  -通信失敗
+- Card is up. - No, that's a negative.
+
+82
+00:04:21,910 --> 00:04:24,820
+這邊沒有顯示  博士
+I'll afraid we're getting nothing on this end, Doctor.
+
+83
+00:04:26,020 --> 00:04:29,260
+-重試  -還是沒有
+- Try again. - No, still nothing.
+
+84
+00:04:31,840 --> 00:04:33,880
+休士頓  能把音樂關掉嗎
+Houston, can you please turn that music off?
+
+85
+00:04:33,880 --> 00:04:35,130
+庫沃斯基
+Kowalski.
+
+86
+00:04:35,820 --> 00:04:36,970
+沒問題
+Not a problem.
+
+87
+00:04:37,420 --> 00:04:38,810
+謝謝  庫沃斯基
+Thank you, Kowalski.
+
+88
+00:04:42,390 --> 00:04:45,230
+-現在呢  -還是不行
+- Now, Houston? - That's a negative.
+
+89
+00:04:46,000 --> 00:04:48,090
+是不是休士頓讀取資料有誤
+Could Houston be misinterpreting the data?
+
+90
+00:04:48,850 --> 00:04:51,040
+我們沒有收到任何資料
+Well, we're not receiving any data.
+
+91
+00:04:52,070 --> 00:04:55,720
+工程組建議目測一下元件是否受損
+Engineering is recommending a vis-check for component damage.
+
+92
+00:04:57,120 --> 00:04:58,600
+我來看看
+Let me see what's going on.
+
+93
+00:05:00,010 --> 00:05:01,210
+怎麼回事
+What have we got?
+
+94
+00:05:09,450 --> 00:05:12,120
+目測未發現組件受損
+Visual examination doesn't reveal any damaged components.
+
+95
+00:05:12,120 --> 00:05:14,430
+問題一定出在通信面板
+The problem must be originating from the comms panel.
+
+96
+00:05:15,110 --> 00:05:17,070
+是的  看來如此
+Yeah, that seems to be the case.
+
+97
+00:05:17,450 --> 00:05:20,780
+工程組承認你之前警告過這種可能
+Engineering admits that you warned us that this could happen.
+
+98
+00:05:21,360 --> 00:05:23,930
+就當作他們的道歉吧
+That's as close to an apology as you're going to get from them.
+
+99
+00:05:23,930 --> 00:05:25,370
+我們該聽取你的意見  博士
+We should have listened to you, Doc.
+
+100
+00:05:25,380 --> 00:05:28,650
+-開始吧  -看來得臨場發揮了
+- Get working. - Well, looks like we're going to have to improvise.
+
+101
+00:05:28,650 --> 00:05:32,700
+-在試了  -你覺得要多久
+- I'm on it. - How long do you think it'll take you?
+
+102
+00:05:32,870 --> 00:05:36,220
+-一小時  -很好
+- One hour. - Outstanding.
+
+103
+00:05:36,220 --> 00:05:37,040
+在哈勃望遠鏡裡
+Installing your system
+
+104
+00:05:37,040 --> 00:05:38,980
+安裝你的系統  是本次任務的目標
+in the Hubble is the purpose of this mission
+
+105
+00:05:38,980 --> 00:05:41,620
+感謝你的耐心工作  博士
+and so we appreciate your patience, Doctor.
+
+106
+00:05:42,150 --> 00:05:45,280
+庫沃斯基  我們知道你不在意這個
+Kowalski, we... we know you don't care about things like this,
+
+107
+00:05:45,280 --> 00:05:46,590
+也就告訴你一聲
+but, uh, for your information,
+
+108
+00:05:46,590 --> 00:05:48,390
+這次延遲還是不足以讓你打破
+this delay is not gonna be long enough
+
+109
+00:05:48,390 --> 00:05:51,490
+阿納托利•索洛維約夫的太空行走紀錄
+for you to break Anatoly Solovyev's spacewalking record.
+
+110
+00:05:51,490 --> 00:05:54,670
+-看來還得有...-不就75分鐘嗎
+- It seems like you're gonna be left... - Seventy-five minutes shy?
+
+111
+00:05:55,130 --> 00:05:56,850
+誰稀罕這個啊
+Never crossed my mind.
+
+112
+00:05:57,530 --> 00:06:00,820
+馬特  和你合作真好
+Matt... it's been a privilege.
+
+113
+00:06:00,820 --> 00:06:03,150
+彼此彼此  休士頓
+Right back at you, Houston.
+
+114
+00:06:03,730 --> 00:06:05,330
+享受你最後一次太空行走吧
+Enjoy your last walk.
+
+115
+00:06:06,130 --> 00:06:09,390
+我可以幫助斯通博士拆下通信板嗎
+Am I a go to assist Dr. Stone in removing the panel?
+
+116
+00:06:09,500 --> 00:06:12,220
+-感謝幫助  -准許
+- Assistance appreciated. - Permission granted.
+
+117
+00:06:12,220 --> 00:06:13,630
+謝謝  休士頓
+Thank you, Houston.
+
+118
+00:06:14,480 --> 00:06:16,930
+-可以搭把手嗎  -當然
+- Mind if I join the fun? - Certainly.
+
+119
+00:06:17,010 --> 00:06:18,200
+感覺怎麼樣
+How you feeling?
+
+120
+00:06:19,730 --> 00:06:22,040
+就像吉娃娃被丟進甩幹桶
+Like a Chihuahua that's being tumble-dried.
+
+121
+00:06:22,760 --> 00:06:24,410
+很難熬的一周
+Well, it's been a rough week.
+
+122
+00:06:25,540 --> 00:06:26,410
+這麼說你可能感覺好點
+If it makes you feel any better,
+
+123
+00:06:26,410 --> 00:06:27,450
+我第一次來太空時
+I coughed up everything
+
+124
+00:06:27,450 --> 00:06:30,050
+差點把腎都吐出來
+but my kidneys on my first ride.
+
+125
+00:06:30,930 --> 00:06:31,900
+糟糕
+Shit.
+
+126
+00:06:38,260 --> 00:06:39,320
+不好意思
+Sorry.
+
+127
+00:06:40,780 --> 00:06:42,560
+我更習慣在醫院的地下實驗室
+I'll used to a basement lab in a hospital
+
+128
+00:06:42,570 --> 00:06:45,760
+東西都會掉在地上  謝謝
+where things fall to the floor. Thank you.
+
+129
+00:06:46,440 --> 00:06:50,140
+你可是這裡的天才  我只是個開車的
+Well, you're the genius up here. I only drive the bus.
+
+130
+00:06:50,140 --> 00:06:52,560
+別急著叫我天才
+Yeah, well, call me a genius
+
+131
+00:06:52,560 --> 00:06:55,030
+先看我一小時能不能把面板初始化吧
+if I can get this board initialized in the next hour.
+
+132
+00:06:55,030 --> 00:06:56,790
+探索者  我是休士頓
+Explorer, this is Houston.
+
+133
+00:06:56,790 --> 00:06:58,430
+請講  休士頓
+Go ahead, Houston.
+
+134
+00:06:58,430 --> 00:06:59,570
+北美防空司令部稱
+NORAD reports
+
+135
+00:06:59,570 --> 00:07:02,440
+一顆俄羅斯衛星遭導彈攻擊
+a Russian satellite has incurred a missile strike.
+
+136
+00:07:02,440 --> 00:07:04,570
+爆炸造成大量殘片
+The impact has created a cloud of debris
+
+137
+00:07:04,570 --> 00:07:07,900
+正以時速兩萬英里運動
+orbiting at twenty thousand miles per hour.
+
+138
+00:07:08,120 --> 00:07:11,610
+目前殘片與你方軌道無重疊
+Current debris orbit does not overlap with your trajectory.
+
+139
+00:07:11,610 --> 00:07:13,260
+有情況會及時通知
+We'll keep you posted on any developments.
+
+140
+00:07:13,260 --> 00:07:15,360
+收到  休士頓
+Copy that, Houston.
+
+141
+00:07:15,870 --> 00:07:17,960
+我們...用擔心嗎
+Should we... should we be worried?
+
+142
+00:07:17,960 --> 00:07:20,910
+不用  讓指揮中心擔心去吧
+No, let's let the boys down there worry for us.
+
+143
+00:07:22,420 --> 00:07:25,260
+探索者  請將機械臂伸向酬載艙
+Explorer, engage arm and pivot to cargo bay.
+
+144
+00:07:25,260 --> 00:07:26,970
+機械臂已就緒
+Stand by for arm maneuver.
+
+145
+00:07:28,150 --> 00:07:30,730
+博士  給宇航局幹活
+So, doc, now that you work for NASA,
+
+146
+00:07:30,730 --> 00:07:31,790
+覺得我們怎麼樣
+how do you like us?
+
+147
+00:07:31,790 --> 00:07:33,830
+是不是像中頭彩了
+Kind of like winning the lottery, huh?
+
+148
+00:07:34,130 --> 00:07:37,290
+我只是慶倖他們沒有削減我研究經費
+I was just happy that they didn't cut the funding to my research.
+
+149
+00:07:37,290 --> 00:07:39,750
+-你訓練了多久  -六個月
+- How long was your training? - Six months.
+
+150
+00:07:39,750 --> 00:07:40,970
+包括假期嗎
+Including holidays?
+
+151
+00:07:41,510 --> 00:07:44,680
+這掃描系統做什麼的
+So, what is this scanning system?
+
+152
+00:07:44,680 --> 00:07:45,850
+沒大用  馬特
+Oh, nothing Matt.
+
+153
+00:07:45,850 --> 00:07:48,630
+只是瞭望宇宙邊緣的新眼睛
+It's just a new set of eyes to scan the edge of the universe.
+
+154
+00:07:48,630 --> 00:07:52,050
+本來醫用的  但這是樣機
+It's designed for hospital use, but this one's a prototype.
+
+155
+00:07:52,500 --> 00:07:53,950
+等待鎖合
+Stand by for locking.
+
+156
+00:07:54,170 --> 00:07:57,250
+他們才不會為樣機提供經費
+Listen, they don't bankroll prototypes.
+
+157
+00:07:57,620 --> 00:07:59,750
+哪怕你有湛藍迷人的眼睛
+Even for your pretty blue eyes.
+
+158
+00:08:00,710 --> 00:08:03,150
+我眼睛棕色的
+Well, my eyes are brown.
+
+159
+00:08:04,980 --> 00:08:07,010
+現在你眼睛是血紅色的
+Right now, your eyes are bloodshot.
+
+160
+00:08:07,810 --> 00:08:08,940
+庫沃斯基
+Kowalski!
+
+161
+00:08:09,230 --> 00:08:10,870
+我厲害吧
+Is this great, or what?
+
+162
+00:08:16,720 --> 00:08:18,450
+就這還念過哈佛呢
+And to think he went to Harvard.
+
+163
+00:08:21,200 --> 00:08:22,640
+不得不承認
+You gotta admit one thing:
+
+164
+00:08:24,310 --> 00:08:25,540
+美輪美奐
+can't beat the view.
+
+165
+00:08:30,020 --> 00:08:32,020
+你喜歡這裡的什麼
+So, what do you like about being up here?
+
+166
+00:08:34,310 --> 00:08:35,590
+靜謐
+The silence.
+
+167
+00:08:37,480 --> 00:08:39,060
+恐怕會喜歡上
+I could get used to it.
+
+168
+00:09:00,330 --> 00:09:01,300
+真美
+Terrific.
+
+169
+00:09:01,420 --> 00:09:04,830
+休士頓  初步看來  通信板已損壞
+Houston, from first inspection, comms panel appears to be dead.
+
+170
+00:09:04,830 --> 00:09:06,950
+需要切換至輔助板嗎
+Am I a go to cut link to auxiliary?
+
+171
+00:09:07,640 --> 00:09:10,100
+你是專家  博士  你定
+You're the expert, doctor. It's your call.
+
+172
+00:09:10,100 --> 00:09:12,520
+休士頓  我對這次任務有種不祥的預感
+Houston, I have a bad feeling about this mission.
+
+173
+00:09:13,060 --> 00:09:15,550
+-詳說  -感覺就像
+- Please elaborate. - It's the same feeling
+
+174
+00:09:15,550 --> 00:09:18,040
+1987年的狂歡節
+I had about Mardi Gras in 1987.
+
+175
+00:09:19,320 --> 00:09:20,640
+這個不錯
+That is affirmative.
+
+176
+00:09:20,640 --> 00:09:21,490
+真沒想到
+Surprisingly,
+
+177
+00:09:21,490 --> 00:09:23,780
+中心還沒過你狂歡節的故事
+control hasn't heard the Mardi Gras story.
+
+178
+00:09:24,270 --> 00:09:25,380
+請繼續
+Please proceed.
+
+179
+00:09:25,610 --> 00:09:28,800
+狂歡節第一天  我百轉千回開到波旁大街
+Well, it's day one, and I'm bumping my way down Bourbon Street
+
+180
+00:09:28,800 --> 00:09:31,230
+尋找一個朋友的妹妹
+looking for a sister of a friend of mine.
+
+181
+00:09:32,040 --> 00:09:33,110
+街上人山人海
+Streets are full of people.
+
+182
+00:09:33,110 --> 00:09:35,180
+我想肯定找不到那女孩了
+I'm thinking there's no way I'm  gonna find this girl.
+
+183
+00:09:35,180 --> 00:09:37,520
+-開始手控  -突然間
+- Proceeding to override. - Then all of the sudden,
+
+184
+00:09:37,520 --> 00:09:39,520
+我一看  她就在那
+I look up, and there she is,
+
+185
+00:09:39,520 --> 00:09:41,830
+我正要喊她  就看見她
+and I'm about to yell out, and I see she's holding hands
+
+186
+00:09:41,830 --> 00:09:43,220
+手牽著一個毛茸茸的矮矬男
+with some short, hairy guy
+
+187
+00:09:43,220 --> 00:09:45,520
+還穿著沙灘褲和花襯衫
+in board shorts and a Margaritaville shirt.
+
+188
+00:09:45,770 --> 00:09:49,150
+然後我意識到那根本不是男的
+And then I realize that this guy is not a guy.
+
+189
+00:09:49,220 --> 00:09:51,230
+那女孩兒正牽著一個...
+That my girl is holding hands with a...
+
+190
+00:09:51,230 --> 00:09:52,490
+國際空間站  這是休士頓
+ISS, this is Houston.
+
+191
+00:09:52,490 --> 00:09:53,520
+請講  休士頓
+Proceed, Houston.
+
+192
+00:09:53,520 --> 00:09:54,790
+探索者  這是休士頓
+Explorer, this is Houston.
+
+193
+00:09:54,790 --> 00:09:55,960
+請講  休士頓
+Go ahead, Houston.
+
+194
+00:09:55,960 --> 00:09:58,980
+任務中止  重複  任務中止
+Mission abort. Repeat. Mission abort.
+
+195
+00:09:58,980 --> 00:10:00,890
+立即撤離哈勃
+Initiate emergency disconnect from Hubble.
+
+196
+00:10:00,890 --> 00:10:02,670
+開始返航
+Begin reentry procedure.
+
+197
+00:10:02,670 --> 00:10:05,000
+國際空間站  啟動緊急撤離程式
+ISS, initiate emergency evacuation.
+
+198
+00:10:05,000 --> 00:10:06,660
+收到  休士頓  馬上行動
+Copy all, Houston, and in work.
+
+199
+00:10:06,660 --> 00:10:08,430
+馬特  立即返回探索者
+Matt, immediate return to Explorer.
+
+200
+00:10:08,430 --> 00:10:10,460
+重複  立即回艙
+Repeat, immediate return to Explorer.
+
+201
+00:10:10,460 --> 00:10:11,180
+收到
+Copy.
+
+202
+00:10:11,190 --> 00:10:12,720
+探索者  準備開啟氣閘
+Explorer, prep airlock.
+
+203
+00:10:12,730 --> 00:10:13,750
+氣閘就緒
+Airlock engaged,
+
+204
+00:10:13,750 --> 00:10:15,590
+-可以進入  -休士頓  請明示
+- ready to receive. - Houston, elaborate.
+
+205
+00:10:15,590 --> 00:10:18,530
+導彈擊中的殘片引起連鎖反應
+Debris from the missile strike has caused a chain reaction,
+
+206
+00:10:18,530 --> 00:10:21,380
+撞擊到其他衛星  形成更多殘片
+hitting other satellites and creating new debris.
+
+207
+00:10:21,380 --> 00:10:23,470
+正以超過子彈的速度
+Traveling faster than a high-speed bullet
+
+208
+00:10:23,480 --> 00:10:25,090
+向你們的軌道飛去
+up towards your altitude.
+
+209
+00:10:25,090 --> 00:10:26,850
+-是否收到  -收到
+- All copy? - Copy all.
+
+210
+00:10:26,910 --> 00:10:29,670
+-關閉  斯通博士  -不行
+- Put a bow on it, Dr. Stone. - I can't.
+
+211
+00:10:29,980 --> 00:10:31,640
+通信板正在初始化
+The board is still initializing.
+
+212
+00:10:31,640 --> 00:10:33,480
+別讓我說第二遍
+I'll not gonna ask you again.
+
+213
+00:10:33,480 --> 00:10:36,660
+-稍等  -不能等  快
+- One second. - Not one second. Now.
+
+214
+00:10:36,670 --> 00:10:37,870
+關掉
+Shut it down.
+
+215
+00:10:38,500 --> 00:10:39,380
+這是命令
+That's an order.
+
+216
+00:10:39,380 --> 00:10:42,000
+對不起  真對不起
+Okay, I'm sorry. I'm sorry.
+
+217
+00:10:42,010 --> 00:10:43,030
+好了  就好了
+I'm done. I'm done.
+
+218
+00:10:43,030 --> 00:10:45,760
+庫沃斯基  請立即撤離哈勃
+Kowalski, initiate emergency disconnect from the Hubble.
+
+219
+00:10:45,760 --> 00:10:47,240
+好吧  謝裡夫  我們走
+All right, Shariff, let's do this.
+
+220
+00:10:47,240 --> 00:10:48,200
+收到  馬特
+Roger, Matt.
+
+221
+00:10:48,370 --> 00:10:49,530
+休士頓  怎麼樣了
+Houston, update.
+
+222
+00:10:49,530 --> 00:10:51,750
+已引起強烈連鎖反應
+Well, we have a full-on chain reaction.
+
+223
+00:10:51,770 --> 00:10:54,440
+經證實  俄羅斯擊毀一枚己方衛星
+It's been confirmed that it's the unintentional side effect
+
+224
+00:10:54,440 --> 00:10:57,080
+引發了意外後果
+of the Russians striking one of their own satellites.
+
+225
+00:10:57,080 --> 00:10:59,920
+-他們打了自己的衛星  -人家自己事
+- They shot down their own satellite? - Right of disposal.
+
+226
+00:10:59,920 --> 00:11:03,090
+可能是棄用的間諜衛星  這下變開花彈了
+Most likely a spy sat gone bad. Now it's shrapnel.
+
+227
+00:11:03,090 --> 00:11:05,040
+探索者  準備脫離哈勃望遠鏡
+Explorer, ready to disengage HST.
+
+228
+00:11:05,040 --> 00:11:08,270
+解鎖倒計時  3  2  1
+Locks releasing in three... two... one.
+
+229
+00:11:09,200 --> 00:11:11,230
+探索者  有新資料
+Explorer, new data coming through.
+
+230
+00:11:11,800 --> 00:11:14,490
+-什麼情況  休士頓  -不太妙
+- What's the blowback, Houston? - It's not good.
+
+231
+00:11:14,500 --> 00:11:16,250
+大部分系統已癱瘓
+Most of our systems are gone.
+
+232
+00:11:16,490 --> 00:11:20,090
+殘片連鎖反應失控並飛速擴散
+Debris chain reaction is out of control and rapidly expanding.
+
+233
+00:11:20,120 --> 00:11:22,990
+多顆衛星受波及墜毀
+Multiple satellites are down, and they keep on falling.
+
+234
+00:11:22,990 --> 00:11:26,100
+-多顆是指幾個  -基本都完了
+- Define "Multiple satellites." - Most of them are gone.
+
+235
+00:11:26,120 --> 00:11:28,390
+通信系統也已癱瘓
+Telecommunication systems are dead.
+
+236
+00:11:28,400 --> 00:11:30,810
+信號隨時可能中斷
+Expect a communication blackout at any moment.
+
+237
+00:11:30,810 --> 00:11:32,950
+庫沃斯基  九點鐘方向發現殘片
+Kowalski, visual of debris at nine o'clock.
+
+238
+00:11:32,950 --> 00:11:35,090
+半個北美都上不去臉書了
+Half of North America just lost their Facebook.
+
+239
+00:11:35,560 --> 00:11:38,530
+探索者號  重複  通訊信號隨時可能
+Explorer, repeat, expect a communication blackout
+
+240
+00:11:38,530 --> 00:11:39,850
+全面中斷
+at any moment.
+
+241
+00:11:40,070 --> 00:11:43,140
+-收到  休斯頓  -探索者號  這裡是庫沃斯基
+- Copy that, Houston. - Explorer, this is Kowalski,
+
+242
+00:11:43,140 --> 00:11:45,490
+目擊確認殘片飛來
+confirming visual contact with debris.
+
+243
+00:11:45,490 --> 00:11:47,550
+-殘片來自某廣播衛星  -當心
+- Debris is from a BSE sat. - Heads up!
+
+244
+00:11:47,550 --> 00:11:51,300
+-重複  我看到...-斯通博士請求快速返艙
+- To repeat, I have... - Dr. Stone requesting faster transport.
+
+245
+00:11:51,340 --> 00:11:52,980
+我們得趕快撤離  快  快
+We have to go. We have to go, go, go!
+
+246
+00:11:52,980 --> 00:11:56,360
+甘迺迪中心報告氣象條件不適宜返回地球
+Kennedy reports meteorological conditions no-go for re-entry.
+
+247
+00:11:56,870 --> 00:11:58,700
+休斯頓  這裡是探索者號  請回復
+Houston, Explorer. Copy.
+
+248
+00:11:58,700 --> 00:12:01,840
+探索者號  斯通博士請求快速返艙
+Explorer, Dr. Stone requesting faster transport to bay area.
+
+249
+00:12:01,840 --> 00:12:03,080
+探索者號  聽到嗎
+Explorer, do you copy?
+
+250
+00:12:03,080 --> 00:12:05,090
+探索者號  請求帶回斯通博士
+Explorer, permission to retrieve Dr. Stone.
+
+251
+00:12:05,090 --> 00:12:06,370
+批准執行  庫沃斯基
+You're a go, Kowalski.
+
+252
+00:12:07,070 --> 00:12:09,420
+休斯頓  這裡是探索者號  請回復
+Houston, this is Explorer, copy.
+
+253
+00:12:09,840 --> 00:12:13,640
+-我來了  -休斯頓失去聯絡  休斯頓失去聯絡
+- All right. - We've lost Houston. We're lost Houston.
+
+254
+00:12:13,690 --> 00:12:16,850
+-解開臍帶  我們得馬上撤離  -明白
+- Unstrap. Look, we need to get the hell out of here. - All right.
+
+255
+00:12:16,850 --> 00:12:17,560
+馬特  要幫忙嗎
+Need some help there, Matt?
+
+256
+00:12:17,560 --> 00:12:19,710
+-不  別等我們  -卡住了
+- No, don't wait for us. - It's stuck!
+
+257
+00:12:20,240 --> 00:12:23,010
+-人員傷亡  人員傷亡  -休斯頓  這裡是探索者號  請回復
+- Man down! Man down! - Houston, this is Explorer, copy.
+
+258
+00:12:23,380 --> 00:12:27,280
+休斯頓  這裡是探索者號  請回復  庫沃斯基  報...
+Houston, this is Explorer, copy. Kowalski, repor...
+
+259
+00:12:29,210 --> 00:12:31,790
+探索者號被撞擊  探索者號  聽到嗎
+Explorer's been hit! Explorer, do you read?
+
+260
+00:12:32,530 --> 00:12:34,750
+探索者號  探索者
+Explorer! Explorer!
+
+261
+00:12:36,870 --> 00:12:40,840
+宇航員和機體脫離  斯通博士脫離
+Astronaut is off structure! Dr. Stone is off structure!
+
+262
+00:12:40,840 --> 00:12:42,590
+-斯通博士  解開搭扣  -不
+- Dr. Stone, detach! - No!
+
+263
+00:12:42,590 --> 00:12:43,700
+你必須解開
+You must detach!
+
+264
+00:12:43,700 --> 00:12:46,500
+再不解開會被機械臂帶走
+If you don't detach, that arm's gonna carry you too far!
+
+265
+00:12:46,500 --> 00:12:48,880
+聽我說  集中精神
+Listen to my voice! You need to focus!
+
+266
+00:12:48,880 --> 00:12:50,120
+我快看不到你了
+I'm losing visual of you.
+
+267
+00:12:50,120 --> 00:12:52,130
+再過一會兒我就找不到你了
+In a few seconds, I won't be able to track you.
+
+268
+00:12:52,130 --> 00:12:55,140
+快解開搭扣  看不見你了
+You need to detach! I can't see you anymore!
+
+269
+00:12:55,140 --> 00:12:59,280
+-快動手  -我在弄  正在弄
+- Do it now! - I'll trying! I'll trying! I'll trying!
+
+270
+00:12:59,290 --> 00:13:01,910
+休斯頓  斯通博士脫離視野範圍
+Houston, I've lost visual of Dr. Stone.
+
+271
+00:13:03,300 --> 00:13:05,830
+休斯頓  斯通博士脫離視野範圍
+Houston, I've lost visual of Dr. Stone.
+
+272
+00:13:14,020 --> 00:13:17,760
+斯通博士  聽到嗎  重複  聽到嗎
+Dr. Stone, do you copy? Repeat, do you copy?
+
+273
+00:13:17,760 --> 00:13:20,270
+-能  能聽到  我解開了  -報告位置
+- Yes, yes, yes. I copy! I'm detached! - Give me your position.
+
+274
+00:13:20,270 --> 00:13:24,330
+我不知道  不知道  我在旋轉  沒辦法  沒辦...
+I don't know! I don't know! I'll spinning! I can't... I can't...
+
+275
+00:13:24,330 --> 00:13:28,240
+-報告位置  -GPS失靈  無法使用
+- Report your position. - GPS is down. It's down, I can't...
+
+276
+00:13:28,550 --> 00:13:31,780
+-報告視野  -跟你說了不知道  什麼都看不見
+- Give me a visual. - I told you, nothing. I see nothing!
+
+277
+00:13:31,780 --> 00:13:33,390
+能看見探索者號嗎
+Do you have a visual of Explorer?
+
+278
+00:13:33,390 --> 00:13:35,900
+-不能  -國際空間站呢  -看不見
+- No. No. - Do you have a visual of ISS? - No.
+
+279
+00:13:35,900 --> 00:13:36,730
+集中精神
+You need to focus.
+
+280
+00:13:36,730 --> 00:13:38,990
+什麼都行  太陽  地球  給我一個參照物
+Anything, use the sun and the Earth, give me coordinates.
+
+281
+00:13:38,990 --> 00:13:41,870
+-我喘不過氣了  -快給我參照物
+- I can't breathe! I can't breathe! - Give me coordinates!
+
+282
+00:13:42,690 --> 00:13:44,590
+斯通博士  聽到嗎
+Dr. Stone, do you copy?
+
+283
+00:13:45,370 --> 00:13:46,620
+重複  能聽到嗎
+Repeat, do you copy?
+
+284
+00:13:47,850 --> 00:13:51,380
+報告位置  快報告你的位置
+Give me your position! Report your position.
+
+285
+00:13:52,080 --> 00:13:53,770
+你能否看見探索者號
+Do you have a visual of Explorer?
+
+286
+00:13:54,930 --> 00:13:56,540
+或者國際空間站
+Do you have a visual of ISS?
+
+287
+00:13:57,430 --> 00:13:59,080
+請集中精神  任何參照物都行
+I need you to focus. Anything.
+
+288
+00:13:59,650 --> 00:14:02,470
+太陽或者地球  請報告參照物
+Use the sun and the Earth, give me coordinates.
+
+289
+00:14:02,470 --> 00:14:03,740
+報告參照物
+Give me coordinates.
+
+290
+00:14:39,390 --> 00:14:41,510
+庫沃斯基  庫沃斯基  聽到嗎
+Kowalski? Kowalski, do you copy?
+
+291
+00:14:43,450 --> 00:14:46,870
+庫沃斯基  我...庫沃斯基  我看到了
+Kowalski... I have... have a vis... Kowalski, I have a visual.
+
+292
+00:14:47,400 --> 00:14:49,650
+視野範圍內...可見探索者號
+I have... have a visual of Explorer.
+
+293
+00:14:50,350 --> 00:14:53,730
+在我的北...正北方向
+With north at... twelve o'clock
+
+294
+00:14:54,380 --> 00:14:57,540
+太空艙位於我和探索者號的中點
+and the shuttle is at the center of the dial.
+
+295
+00:14:59,900 --> 00:15:02,120
+還能看到...中國空間站
+I can see... I can see the Chinese station.
+
+296
+00:15:02,720 --> 00:15:05,570
+不對  是國際空間站
+No, it's the International Space Station.
+
+297
+00:15:06,550 --> 00:15:07,860
+空間站位於
+ISS is at...
+
+298
+00:15:09,450 --> 00:15:11,300
+我七點鐘方向
+ISS is at seven o'clock.
+
+299
+00:15:19,860 --> 00:15:21,530
+庫沃斯基中尉  能聽到嗎
+Lieutenant Kowalski, do you copy?
+
+300
+00:15:27,660 --> 00:15:29,740
+探索者號  能...能聽到嗎
+Explorer, do you... do you copy?
+
+301
+00:15:38,730 --> 00:15:40,470
+休斯頓  能聽到嗎
+Houston, do you copy?
+
+302
+00:15:45,300 --> 00:15:48,430
+休斯頓  這裡是任務專員萊恩•斯通
+Houston, this is Mission Specialist Ryan Stone.
+
+303
+00:15:48,430 --> 00:15:50,890
+我已脫離船體  正在飄浮
+I am off structure and I am drifting.
+
+304
+00:15:50,900 --> 00:15:52,120
+請回復
+Do you copy?
+
+305
+00:15:58,780 --> 00:15:59,770
+聽到嗎
+Anyone?
+
+306
+00:16:04,360 --> 00:16:05,350
+有人聽到嗎
+Anybody?
+
+307
+00:16:08,280 --> 00:16:09,460
+有人在嗎
+Do you copy?
+
+308
+00:16:13,870 --> 00:16:14,920
+請求回復
+Please copy.
+
+309
+00:16:17,740 --> 00:16:18,670
+拜託了
+Please.
+
+310
+00:16:38,830 --> 00:16:42,160
+-斯通博士  聽到嗎  -能  庫沃斯基中尉  聽到了
+- Dr. Stone, do you copy? - Yeah, Lieutenant Kowalski, yes.
+
+311
+00:16:42,160 --> 00:16:43,470
+喂喂  庫沃斯基中尉  我在這兒
+Yes, Lieutenant Kowalski, I'm here,
+
+312
+00:16:43,470 --> 00:16:44,410
+-在這兒  -重複  聽到嗎
+- I'm here. - Repeat, do you copy?
+
+313
+00:16:44,410 --> 00:16:47,970
+-聽到  我在這兒  這兒啊  -快閃燈
+- Yes, yes, I copy, I'm here! I'm here. - Flash your light.
+
+314
+00:16:48,540 --> 00:16:50,810
+-燈  什麼燈  -閃燈讓我看到你
+- My light... my light? - Flash it so I can see you.
+
+315
+00:16:51,170 --> 00:16:52,870
+好的
+Okay. Uh...
+
+316
+00:16:54,060 --> 00:16:54,910
+我的燈
+I...
+
+317
+00:16:54,920 --> 00:16:59,400
+-閃了  我在閃  這裡這裡  -看到你了
+- Okay, okay. Here, here! I'll here! - There you are.
+
+318
+00:16:59,420 --> 00:17:02,340
+保持閃爍  報告狀態
+Hang on tight. Report your status.
+
+319
+00:17:02,830 --> 00:17:05,030
+沒事  沒事  我很好
+I'll fine, I'll fine. I'll all right.
+
+320
+00:17:05,030 --> 00:17:06,960
+報告你的狀態  體征數值
+Your status. Give me your readings.
+
+321
+00:17:07,300 --> 00:17:10,850
+{\an8}PSI指"磅/平方吋"  太空服健康內壓應不大於4.3
+
+322
+00:17:07,300 --> 00:17:10,850
+PSI數值是3...3.6
+Three... three... three point six PSI.
+
+323
+00:17:11,690 --> 00:17:13,610
+剩餘氧量  氧量還有多少
+Your O2, give me your O2.
+
+324
+00:17:13,890 --> 00:17:16,550
+在下降  下降很快
+Oxygen is going down. It's going down fast.
+
+325
+00:17:16,550 --> 00:17:17,690
+非常快  9
+It's going down fast. Nine...
+
+326
+00:17:18,570 --> 00:17:19,860
+不  只有8%了
+No. No, eight-eight percent.
+
+327
+00:17:19,860 --> 00:17:21,380
+-你呼吸太急促  -8  降到8%了
+- Okay, you're breathing too fast. - Eight... it's going down eight percent.
+
+328
+00:17:21,390 --> 00:17:23,810
+你耗氧太快  得減緩
+You're burning oxygen, and we don't want to do that.
+
+329
+00:17:23,810 --> 00:17:27,870
+-放輕鬆明白嗎  -抱歉  明白了
+- We want to relax. Copy? - Okay, sorry. Yes, copy, copy.
+
+330
+00:17:27,870 --> 00:17:29,960
+-離你很近了  -請快點
+- All right. Nearly there. - Please hurry.
+
+331
+00:17:31,600 --> 00:17:35,690
+-燈可以插好了  斯通博士  -抱歉  抱歉
+- You can holster that torch, Dr. Stone. - Sorry. Sorry.
+
+332
+00:17:40,370 --> 00:17:44,450
+抓住你了  好嘞  我得把你拴上
+Gotcha. All right, now I'll gonna tether you to me.
+
+333
+00:17:46,670 --> 00:17:49,890
+沒發現我其實這麼玉樹臨風瀟灑帥氣吧
+I know, you never realized how devastatingly good-looking I am.
+
+334
+00:17:50,250 --> 00:17:53,710
+別盯著我看了  搭把手讓我把你拴起來
+But I need you to stop staring and help me with the tether.
+
+335
+00:17:54,240 --> 00:17:57,220
+-明白了嗎  -明白  明白
+- Okay? - Okay, okay.
+
+336
+00:17:58,340 --> 00:17:59,330
+明白了
+I got it.
+
+337
+00:18:00,250 --> 00:18:03,020
+好  這就行了
+All right, here we go. All right.
+
+338
+00:18:03,030 --> 00:18:04,560
+為了避免你被氣噴到
+Now, to clear you from the jets...
+
+339
+00:18:04,560 --> 00:18:05,660
+得把你推開一段距離
+I'll gonna give you a little push.
+
+340
+00:18:05,660 --> 00:18:07,120
+-別  不要  -我不使勁
+- No, no, no, no. No, no, no. - Not a push.
+
+341
+00:18:07,120 --> 00:18:08,290
+-別  別推  -輕輕一下
+- No, no. - A nudge.
+
+342
+00:18:08,290 --> 00:18:11,580
+別  別  不要啊  混蛋  別推  別推我
+No, no, no, no, no, no, no, no, no! Damn it, no! No!
+
+343
+00:18:19,320 --> 00:18:21,870
+瞧  丟不了你吧
+See? Where you go, I go.
+
+344
+00:18:27,640 --> 00:18:28,650
+好多了
+Better.
+
+345
+00:18:29,980 --> 00:18:31,070
+撤離吧
+Let's get outta here.
+
+346
+00:18:33,570 --> 00:18:35,980
+-真是該死  -我理解你的心情
+- Goddamn it. - I know what you mean.
+
+347
+00:18:36,880 --> 00:18:39,460
+-該死  -你耗氧又快了
+- Damn it. - You're burning oxygen.
+
+348
+00:18:40,370 --> 00:18:44,040
+先返回太空艙如何  請回復
+We're going back to the shuttle. How's that for a plan? Copy?
+
+349
+00:18:44,110 --> 00:18:46,850
+-操  -好滴  收到
+- Fuck! - Right. Copy that.
+
+350
+00:18:47,620 --> 00:18:49,390
+休斯頓  能否通聯  這裡是庫沃斯基
+Houston, in the blind. This is Kowalski.
+
+351
+00:18:49,400 --> 00:18:51,740
+斯通博士和我準備返回基地
+Dr. Stone and I are gonna make our way back to base.
+
+352
+00:18:51,740 --> 00:18:54,880
+請求探索者號打開氣閘  能聽到嗎
+Can you get the Explorer to prepare the airlock for arrival? Copy?
+
+353
+00:18:56,320 --> 00:18:58,750
+休斯頓  這裡是庫沃斯基  能否聽到
+Houston, this is... Kowalski. How do you copy?
+
+354
+00:18:59,920 --> 00:19:02,030
+休斯頓  能否通聯  這裡是庫沃斯基
+Houston, in the blind. This is Kowalski.
+
+355
+00:19:02,590 --> 00:19:04,420
+-他們聽不到的  -這可說不準
+- They can't hear us. - We don't know that.
+
+356
+00:19:04,420 --> 00:19:05,930
+所以要不斷嘗試
+That's why we keep talking.
+
+357
+00:19:06,090 --> 00:19:08,990
+萬一有人收到信號  你就能得救
+If somebody is listening, they might just save your life.
+
+358
+00:19:09,630 --> 00:19:13,550
+-設置倒計時90分鐘  -為什麼是90
+- Set your watch for ninety minutes. - Why ninety?
+
+359
+00:19:13,560 --> 00:19:14,640
+休斯頓測出
+Well, Houston clocked
+
+360
+00:19:14,640 --> 00:19:17,030
+殘片時速為5萬英里
+that debris at fifty thousand miles an hour.
+
+361
+00:19:17,220 --> 00:19:18,650
+以我們現處的軌道計算
+If you factor in our current orbit,
+
+362
+00:19:18,650 --> 00:19:20,450
+大約再過90分鐘
+then I figure we got about ninety minutes
+
+363
+00:19:20,450 --> 00:19:22,420
+就會再次遭到殘片襲擊
+before we get our asses kicked again.
+
+364
+00:19:22,460 --> 00:19:26,270
+-氧氣含量降到6%了  -收到
+- O2 down to six percent. - Okay.
+
+365
+00:19:26,430 --> 00:19:29,150
+沒了臍帶飄在太空很嚇人吧
+Pretty scary shit being untethered up here, isn't it?
+
+366
+00:19:30,810 --> 00:19:35,150
+-沒錯  嚇到死  -你表現很出色
+- Yeah, pretty scary shit. - Well, you did all right.
+
+367
+00:19:38,290 --> 00:19:40,090
+其實你也不賴
+Well, you weren't so bad yourself.
+
+368
+00:19:44,210 --> 00:19:46,500
+休斯頓  能否通聯  這裡是庫沃斯基
+Houston, in the blind. This is Kowalski.
+
+369
+00:19:46,850 --> 00:19:49,520
+我們當前位置大約
+Our current location is approximately
+
+370
+00:19:49,520 --> 00:19:52,310
+距離探索者號900米
+nine hundred meters out from the Explorer.
+
+371
+00:19:52,870 --> 00:19:54,020
+斯通博士和我準備
+Dr. Stone and I would like to
+
+372
+00:19:54,020 --> 00:19:57,410
+搜尋任務專員謝裡夫的遺體
+retrieve the body of Mission Specialist Shariff
+
+373
+00:19:57,590 --> 00:20:01,230
+帶回太空艙  可以執行嗎
+and return it to the shuttle. Am I a go to retrieve?
+
+374
+00:20:04,060 --> 00:20:07,410
+-收到  -他在哪兒
+- Roger that. - Where is he? Where is he?
+
+375
+00:20:34,980 --> 00:20:36,710
+天啊  天啊
+Oh, my God. Oh, my God.
+
+376
+00:20:41,530 --> 00:20:42,480
+抓住他
+Grab him!
+
+377
+00:20:45,990 --> 00:20:48,810
+-快抓住他  -我在抓  在抓
+- Grab him! - I'll trying, I'll trying!
+
+378
+00:20:53,830 --> 00:20:55,960
+-你把我帶開了  -抓...抓著他了
+- You're pulling me away. - Got... I got him!
+
+379
+00:20:56,170 --> 00:20:57,430
+像情人那樣抱住他
+Clutch him like he's your Valentine.
+
+380
+00:20:57,430 --> 00:20:58,370
+抓住了  抓住他了
+I got him. Okay. I got him.
+
+381
+00:20:58,380 --> 00:21:01,410
+你們這麼晃蕩我沒法推進
+I can't engage my thrust with you two yo-yoing around.
+
+382
+00:21:31,950 --> 00:21:33,410
+上帝啊
+Jesus Christ.
+
+383
+00:21:34,280 --> 00:21:37,000
+希望你們買夠了保險  休斯頓
+Here's hoping you have a hell of an insurance policy, Houston.
+
+384
+00:21:37,400 --> 00:21:41,640
+探索者號毀壞十分嚴重
+The damages to Explorer are catastrophic.
+
+385
+00:21:42,160 --> 00:21:43,980
+準備搜尋倖存者
+Will commence search for survivors.
+
+386
+00:21:43,980 --> 00:21:45,910
+氧量降至5%
+O2 down to five percent.
+
+387
+00:21:46,780 --> 00:21:48,610
+要撞上了  當心艙沿
+All right, here we go. Careful of the edges!
+
+388
+00:21:57,800 --> 00:21:59,110
+抓住我
+Here. Here!
+
+389
+00:22:51,140 --> 00:22:53,010
+休斯頓  能否通聯  請確認
+Houston, in the blind. To confirm.
+
+390
+00:22:53,790 --> 00:22:55,620
+任務專員斯通博士
+Mission Specialist Dr. Stone
+
+391
+00:22:55,620 --> 00:22:57,320
+以及任務指揮官馬修•庫沃斯基
+and Mission Commander Matthew Kowalski
+
+392
+00:22:57,320 --> 00:23:00,720
+是STS-157僅有的倖存者
+are the sole survivors of the STS-one-five-seven.
+
+393
+00:23:03,370 --> 00:23:05,010
+之前沒聽你的很抱歉
+I apologize for not complying.
+
+394
+00:23:05,010 --> 00:23:07,420
+你下令時我就該放手的
+I should're stopped working as soon as you instructed me to.
+
+395
+00:23:07,420 --> 00:23:09,240
+我們終究躲不過殘片撞擊
+We were gonna get hit no matter what.
+
+396
+00:23:09,440 --> 00:23:11,280
+你怎麼做都無濟於事
+There was nothing you could do to change that.
+
+397
+00:23:15,950 --> 00:23:16,470
+嘿
+Hey.
+
+398
+00:23:17,250 --> 00:23:18,370
+怎麼
+Yes?
+
+399
+00:23:18,800 --> 00:23:22,600
+我們得想辦法去空間站
+All right, we have to make our way to the Space Station.
+
+400
+00:23:24,080 --> 00:23:25,060
+那邊
+Over there.
+
+401
+00:23:26,910 --> 00:23:30,220
+這路有點遠  但必須借助那邊的逃生艙
+It's a bit of a hike, but we need to use their escape pod,
+
+402
+00:23:30,220 --> 00:23:32,240
+聯盟號  才能返回地球
+the Soyuz, to get back to Earth.
+
+403
+00:23:32,630 --> 00:23:33,620
+可以嗎
+Agreed?
+
+404
+00:23:35,450 --> 00:23:38,460
+斯通博士  行嗎
+Dr. Stone, agreed?
+
+405
+00:23:39,870 --> 00:23:43,830
+-好的  -請吧
+- Agreed. - All right. After you.
+
+406
+00:23:46,050 --> 00:23:47,040
+天啊
+Oh, God.
+
+407
+00:23:57,120 --> 00:23:59,300
+休斯頓  能否通聯  這裡是庫沃斯基
+Houston, in the blind. This is Kowalski.
+
+408
+00:23:59,810 --> 00:24:03,430
+斯通博士和我決定前往國際空間站
+Dr. Stone and I have determined to proceed to ISS
+
+409
+00:24:03,560 --> 00:24:06,420
+利用聯盟號飛船重返地球
+and use one of their Soyuz for re-entry.
+
+410
+00:24:07,340 --> 00:24:09,290
+空間站  能收到嗎
+ISS, if you hear us...
+
+411
+00:24:10,360 --> 00:24:12,080
+我們亟需救援
+we could sure use a rescue mission.
+
+412
+00:24:26,470 --> 00:24:30,120
+-氧量2%了  -快到了
+- O2 down to two percent. - We're getting there.
+
+413
+00:24:31,800 --> 00:24:33,230
+很美  你覺得呢
+Beautiful, don't you think?
+
+414
+00:24:34,980 --> 00:24:36,000
+什麼
+What?
+
+415
+00:24:36,600 --> 00:24:37,770
+日出
+The sunrise.
+
+416
+00:24:39,740 --> 00:24:41,610
+最懷念這個了
+That's what I'll gonna miss the most.
+
+417
+00:24:46,930 --> 00:24:49,020
+你哪兒的人  斯通博士
+So where's home, Dr. Stone?
+
+418
+00:24:52,300 --> 00:24:54,180
+萊恩  你家在哪兒
+Ryan, where's home?
+
+419
+00:24:56,300 --> 00:24:57,300
+家
+Home?
+
+420
+00:24:58,460 --> 00:25:01,210
+下面  地球那個家
+Down there. Mother Earth.
+
+421
+00:25:02,320 --> 00:25:03,730
+你住哪兒
+Where do you pitch you tent?
+
+422
+00:25:07,270 --> 00:25:10,640
+-蘇黎世湖區  -那是什麼地方
+- Lake Zurich. - Where the hell is that?
+
+423
+00:25:14,060 --> 00:25:16,460
+-伊利諾斯州  -伊州啊
+- Illinois. - Illinois.
+
+424
+00:25:16,530 --> 00:25:17,900
+中部時區
+Central Time Zone.
+
+425
+00:25:19,350 --> 00:25:20,980
+那就差不多是晚上
+That would make it roughly...
+
+426
+00:25:22,020 --> 00:25:23,180
+八點樣子
+eight PM.
+
+427
+00:25:23,710 --> 00:25:26,800
+那邊人們晚上八點都幹嘛呢
+What are the good people of Lake Zurich doing at eight o'clock?
+
+428
+00:25:28,410 --> 00:25:29,460
+不知道
+I don't know.
+
+429
+00:25:30,330 --> 00:25:32,610
+我過不去了  會拖累你的
+I'm not gonna make it. I'm slowing you down.
+
+430
+00:25:32,960 --> 00:25:34,280
+你平時這會兒都幹嘛
+What would you be doing?
+
+431
+00:25:37,330 --> 00:25:40,870
+跟我說說  萊恩  八點鐘
+Come on, Ryan. It's eight o'clock.
+
+432
+00:25:41,570 --> 00:25:44,540
+是不是醫院18小時的班終於結束了
+You've just left the hospital after an eighteen-hour shift.
+
+433
+00:25:45,560 --> 00:25:46,790
+開車回家
+Driving home.
+
+434
+00:25:50,480 --> 00:25:51,460
+廣播
+The radio.
+
+435
+00:25:53,740 --> 00:25:57,410
+-我在聽廣播  -這就對了
+- I listen to the radio. - There we go.
+
+436
+00:25:57,510 --> 00:25:58,480
+我猜猜
+Let me guess.
+
+437
+00:25:58,480 --> 00:26:02,840
+聽國廣  古典音樂  還是爬行榜
+NPR? Classical? Top forty?
+
+438
+00:26:06,420 --> 00:26:09,860
+無所謂  只要主持人不廢話  我只管開車
+Anything. I don't care, as long as they don't talk. I just drive.
+
+439
+00:26:12,600 --> 00:26:14,270
+開車去哪兒呢
+And where are you driving to?
+
+440
+00:26:17,210 --> 00:26:21,080
+-就是開車而已  -下面有你想念的東西嗎
+- I just drive. - What do you miss down there?
+
+441
+00:26:23,080 --> 00:26:24,560
+結婚了嗎
+Is there a Mr. Stone?
+
+442
+00:26:26,470 --> 00:26:29,260
+-沒  -沒特別的人嗎
+- No. - Nobody special?
+
+443
+00:26:32,640 --> 00:26:36,190
+沒人在地球上仰望天空  想著你嗎
+Somebody down there looking up, thinking about you?
+
+444
+00:26:38,970 --> 00:26:39,950
+萊恩
+Ryan?
+
+445
+00:26:47,280 --> 00:26:48,540
+我曾有個女兒
+I had a daughter.
+
+446
+00:26:59,680 --> 00:27:00,830
+那年她四歲
+She was four.
+
+447
+00:27:03,810 --> 00:27:05,890
+在學校捉迷藏
+She was at school playing tag.
+
+448
+00:27:05,890 --> 00:27:08,190
+滑倒撞了頭  就走了
+Slipped, hit her head, and that was it.
+
+449
+00:27:11,030 --> 00:27:12,420
+不堪回首
+Stupidest thing.
+
+450
+00:27:19,120 --> 00:27:21,430
+我開車時接的電話
+I was driving when I got the call, so...
+
+451
+00:27:23,000 --> 00:27:25,020
+從那以後  我就成這樣了
+Ever since then, that's what I do.
+
+452
+00:27:26,500 --> 00:27:27,390
+起床
+I wake up,
+
+453
+00:27:29,050 --> 00:27:30,100
+上班
+I go to work,
+
+454
+00:27:30,980 --> 00:27:32,340
+開車
+and I just drive.
+
+455
+00:27:59,820 --> 00:28:01,890
+氧氣降到1%了
+O2 down to one percent.
+
+456
+00:28:14,320 --> 00:28:16,370
+我有個好消息  有個壞消息
+Well, I've got good news and bad news.
+
+457
+00:28:16,570 --> 00:28:19,120
+好消息是五分鐘就到空間站
+The good news is, we're about five minutes from the ISS
+
+458
+00:28:19,120 --> 00:28:21,460
+我還知道老俄的伏特加藏在哪裡
+and I know where the Russians stash their vodka.
+
+459
+00:28:21,790 --> 00:28:24,630
+真好  我正缺杯酒提提神呢
+And that is good, because I'm running on fumes here.
+
+460
+00:28:25,400 --> 00:28:26,670
+壞消息是  我還差十分鐘
+The bad news is, I'm gonna be
+
+461
+00:28:26,670 --> 00:28:29,430
+就打破阿納托利的紀錄了
+about ten minutes short of breaking Anatoly's record,
+
+462
+00:28:26,670 --> 00:28:29,430
+{\an8}俄太空行走紀錄保持者
+
+463
+00:28:29,430 --> 00:28:30,580
+而我
+and I...
+
+464
+00:28:31,630 --> 00:28:33,670
+-怎麼了  -我這裡報警了
+- What? - I'm redlining.
+
+465
+00:28:33,670 --> 00:28:35,940
+氧壓不夠
+My O2 tank pressure is low.
+
+466
+00:28:35,990 --> 00:28:37,450
+氧氣罐裡沒有了
+Your tank is out of oxygen
+
+467
+00:28:37,450 --> 00:28:39,690
+-但太空服裡還有  -好吧
+- but you still have it in your suit. - Got it.
+
+468
+00:28:39,690 --> 00:28:41,350
+慢慢呼吸  不要大口喘氣
+So you have to sip, not gulp.
+
+469
+00:28:41,130 --> 00:28:42,920
+{\an8}氧氣含量低
+
+470
+00:28:42,370 --> 00:28:43,770
+當喝紅酒  不是啤酒
+Wine, not beer.
+
+471
+00:28:43,770 --> 00:28:45,830
+慢慢抿  萊恩
+Sip, Ryan.
+
+472
+00:28:46,720 --> 00:28:49,690
+休士頓  能否通聯  我們已看到空間站
+Houston, in the blind, we have a visual of the ISS.
+
+473
+00:28:49,690 --> 00:28:51,260
+但人員肯定已撤離
+The station must have been evacuated
+
+474
+00:28:51,260 --> 00:28:53,500
+因為聯盟一號不見了
+because the first Soyuz is missing.
+
+475
+00:28:53,570 --> 00:28:56,020
+聯盟二號的表面嚴重受損
+The second Soyuz exhibits surface damage,
+
+476
+00:28:56,020 --> 00:28:57,900
+減速傘也打開了
+and its chute has been deployed.
+
+477
+00:28:58,030 --> 00:29:02,100
+無法用作返回逃生艙
+Any use as an escape pod for re-entry is impossible.
+
+478
+00:29:02,100 --> 00:29:04,480
+該變向了吧  又在漂了
+Shouldn't we be turning? We're drifting again.
+
+479
+00:29:04,480 --> 00:29:07,430
+還不行  推進氣體我可沒開玩笑
+Not yet. I wasn't kidding about those fumes.
+
+480
+00:29:07,430 --> 00:29:09,870
+這罐還夠我們噴它一兩次
+This can has one or two good thrusts left...
+
+481
+00:29:10,140 --> 00:29:11,270
+如果走運的話
+if we're lucky.
+
+482
+00:29:24,100 --> 00:29:25,120
+穩住
+Steady.
+
+483
+00:29:35,050 --> 00:29:36,010
+看准
+Aim.
+
+484
+00:29:37,170 --> 00:29:38,100
+噴射
+Fire!
+
+485
+00:29:44,180 --> 00:29:47,920
+-減速  快減速  -不行  氣罐空了
+Brake! Brake! You have to brake! - I can't, the can's empty.
+
+486
+00:29:48,170 --> 00:29:50,610
+會狠狠撞上去  能抓什麼就抓什麼
+We're gonna hit hard! Grab a hold of anything you can!
+
+487
+00:30:02,480 --> 00:30:06,030
+怎麼辦  我該怎麼辦
+What do I do? What do I do?!
+
+488
+00:30:15,700 --> 00:30:16,620
+萊恩
+Ryan!
+
+489
+00:30:21,470 --> 00:30:25,150
+連接索斷裂  我脫離了  脫離了
+The tether broke, I'm detached! I'm detached!
+
+490
+00:30:25,150 --> 00:30:26,270
+快抓東西
+Grab a hold!
+
+491
+00:30:28,980 --> 00:30:29,970
+隨便抓個東西
+Grab anything!
+
+492
+00:30:46,380 --> 00:30:47,280
+萊恩
+Ryan!
+
+493
+00:30:49,490 --> 00:30:52,110
+-伸手  -會抓住你的
+- Give me five! - I've got you.
+
+494
+00:30:52,140 --> 00:30:53,950
+一定能抓住  這裡  這邊啊
+I've got you. Right here, right here.
+
+495
+00:30:57,620 --> 00:31:01,350
+-媽的  -不  不要
+- Shit! - No. No, no, no
+
+496
+00:31:02,810 --> 00:31:03,750
+抓到了
+Got ya.
+
+497
+00:31:13,010 --> 00:31:13,860
+謝天謝地
+Got ya.
+
+498
+00:31:17,150 --> 00:31:19,860
+堅持住  我拉你過來
+You just... hold on and I'm gonna start pulling you in.
+
+499
+00:31:20,300 --> 00:31:21,110
+-我要拉了  -博士
+- I'm gonna start... - Hey, Doc.
+
+500
+00:31:21,110 --> 00:31:23,870
+堅持住  堅持  我會拉你回來的
+Just hold on. Hang on. I am gonna pull you in.
+
+501
+00:31:23,870 --> 00:31:25,440
+-萊恩  聽我說  -我要拉了
+- Ryan, listen. - I'll gonna pull you in.
+
+502
+00:31:25,620 --> 00:31:26,990
+你必須放手
+You have to let me go.
+
+503
+00:31:27,000 --> 00:31:29,660
+繩子不行  會把你帶過來的
+The ropes are too loose. I'll pulling you with me.
+
+504
+00:31:29,660 --> 00:31:31,680
+你必須鬆手  不然我們都會死
+You have to let me go, or we both die.
+
+505
+00:31:31,680 --> 00:31:35,160
+我不會放開你的  我們可以
+I'll not letting you go! We're fine!
+
+506
+00:31:40,770 --> 00:31:43,500
+萊恩  放開我吧
+Ryan, let me go.
+
+507
+00:31:43,960 --> 00:31:46,760
+你哪裡也不能去  哪裡都不能去
+You're not going anywhere. You're not going anywhere.
+
+508
+00:31:46,760 --> 00:31:50,910
+-你說了不算  -不  不要  別這樣
+- It's not up to you. - No, no, no, no... Please don't do this.
+
+509
+00:31:51,490 --> 00:31:53,590
+求你了  拜託你  不要這樣做
+Please, please, please, please don't do this.
+
+510
+00:31:53,590 --> 00:31:55,600
+求你別這樣啊  不  不要啊
+Please don't do this. No, no, no.
+
+511
+00:31:56,130 --> 00:31:58,170
+別這樣  馬特  不要這樣做
+Please don't, Matt. Please don't do this.
+
+512
+00:32:01,190 --> 00:32:02,450
+你會回去的  萊恩
+You're gonna make it, Ryan.
+
+513
+00:32:04,190 --> 00:32:04,650
+不要啊
+No.
+
+514
+00:32:26,730 --> 00:32:30,060
+我都抓住你了  都抓住了啊
+I had you. I had you! I had you.
+
+515
+00:32:45,840 --> 00:32:47,190
+萊恩  能聽到嗎
+Ryan, do you hear me?
+
+516
+00:32:50,290 --> 00:32:54,050
+-收到請回  -我的二氧化碳報警了
+- Do you copy? - My CO2 alarm went off.
+
+517
+00:32:54,100 --> 00:32:55,710
+二氧化碳濃度報警
+My CO2 alarm went off.
+
+518
+00:32:55,710 --> 00:32:57,620
+聽著  你要進入空間站
+Look, you need to board the station.
+
+519
+00:32:58,460 --> 00:32:59,790
+看到氣閘了嗎
+Do you see the airlock?
+
+520
+00:33:09,380 --> 00:33:12,600
+萊恩  收到嗎
+Hey, Ryan, you copy?
+
+521
+00:33:14,810 --> 00:33:16,110
+先找到氣閘
+Look for the airlock.
+
+522
+00:33:19,330 --> 00:33:21,750
+在你上方  曙光艙旁邊
+It's above you, next to the Zarya module.
+
+523
+00:33:19,330 --> 00:33:21,750
+{\an8}國際空間站一功能艙
+
+524
+00:33:25,560 --> 00:33:26,870
+看到了嗎
+You see it?
+
+525
+00:33:26,870 --> 00:33:29,850
+我看到了  看到了
+Yes, yes, I see it. I see it.
+
+526
+00:33:30,740 --> 00:33:33,140
+很好  你就是要去那裡
+Good. That's where you want to go.
+
+527
+00:33:34,000 --> 00:33:35,790
+感覺現在有點頭暈吧
+Now you're getting lightheaded, right?
+
+528
+00:33:36,270 --> 00:33:40,600
+-對  -因為你在吸入二氧化碳
+- Yes. - That's because you're breathing CO2.
+
+529
+00:33:40,600 --> 00:33:42,430
+正在失去意識
+You're losing consciousness.
+
+530
+00:33:42,490 --> 00:33:45,210
+現在必須進入空間站
+You need to board the station.
+
+531
+00:33:46,180 --> 00:33:49,030
+聯盟二號受損嚴重  無法返回地球
+That second Soyuz is too damaged for re-entry,
+
+532
+00:33:49,030 --> 00:33:51,890
+不過開著玩玩很不錯
+but it's perfectly fine for a little Sunday drive.
+
+533
+00:33:52,180 --> 00:33:53,400
+開著玩玩
+Sunday drive?
+
+534
+00:33:54,210 --> 00:33:59,000
+往西邊看  看到遠處那個亮點了嗎
+Look to the west. You see that dot in the distance?
+
+535
+00:33:59,350 --> 00:34:01,990
+-看到了  -那是中國空間站
+- Yes. - That's a Chinese station.
+
+536
+00:34:01,990 --> 00:34:04,790
+你要開著聯盟號溜達到那裡
+You're gonna take the Soyuz, and you're gonna cruise over there.
+
+537
+00:34:06,360 --> 00:34:08,590
+中方救生艙叫神舟
+Chinese lifeboat is a Shenzhou.
+
+538
+00:34:09,530 --> 00:34:12,310
+-我可沒碰過神舟  -沒關係
+- I've never flown a Shenzhou. - It doesn't matter.
+
+539
+00:34:12,580 --> 00:34:15,470
+返地規程和聯盟號一樣
+Its re-entry protocol is identical to the Soyuz.
+
+540
+00:34:20,010 --> 00:34:24,020
+-聯盟號也沒開過嗎  -就上過模擬器
+- You never flown the Soyuz either? - Only a simulator.
+
+541
+00:34:24,840 --> 00:34:26,260
+那就行
+Well, then you know.
+
+542
+00:34:28,980 --> 00:34:30,160
+可我墜毀了
+But I crashed it.
+
+543
+00:34:30,540 --> 00:34:33,020
+模擬器可不就用來撞毀嘛
+It's a simulator, that's what it's designed for.
+
+544
+00:34:36,170 --> 00:34:39,430
+可是  我每次都墜毀
+Every time. I crashed it every time.
+
+545
+00:34:39,620 --> 00:34:41,230
+把那玩意對準地球就行了
+You point the damn thing at Earth.
+
+546
+00:34:41,230 --> 00:34:42,780
+一點不複雜
+It's not rocket science.
+
+547
+00:34:43,960 --> 00:34:44,880
+明天這個時候
+And by this time tomorrow,
+
+548
+00:34:44,880 --> 00:34:46,120
+你就能回到蘇黎世湖
+you're gonna be back in Lake Zurich
+
+549
+00:34:46,120 --> 00:34:47,800
+跟他們講這番驚心動魄了
+with a hell of a story to tell.
+
+550
+00:34:48,940 --> 00:34:49,950
+能收到嗎
+You copy?
+
+551
+00:34:51,970 --> 00:34:53,250
+萊恩  收到嗎
+Ryan, you copy?
+
+552
+00:34:53,930 --> 00:34:55,840
+我要駕駛聯盟號去找你
+I'm gonna take the Soyuz and come get you.
+
+553
+00:34:55,850 --> 00:34:57,810
+-不行  -我要去接你
+- No, you're not. - I'm coming to get you.
+
+554
+00:34:57,810 --> 00:34:59,280
+我已經離你太遠了
+No, I've got too much of a head start on you.
+
+555
+00:34:59,280 --> 00:35:00,260
+我會去救你的
+I'm coming to get you.
+
+556
+00:35:00,260 --> 00:35:02,420
+你這趟車我真趕不上了
+I'm afraid that ship already sailed.
+
+557
+00:35:03,810 --> 00:35:06,110
+萊恩  你要學會放手
+Ryan, you're gonna have to learn to let go.
+
+558
+00:35:07,250 --> 00:35:09,390
+-但我...-我想聽你說  你可以回去
+- But I... - I want to hear you say you're gonna make it...
+
+559
+00:35:11,940 --> 00:35:13,540
+快  萊恩  說給我聽
+Come on, Ryan, say it.
+
+560
+00:35:15,540 --> 00:35:19,030
+-我可以回去  -真乖  繼續前行
+- I'm gonna make it. - All right. Keep going.
+
+561
+00:35:20,340 --> 00:35:23,260
+女孩子家怎麼叫萊恩呢
+What kind of name is Ryan for a girl?
+
+562
+00:35:24,910 --> 00:35:26,550
+我爸爸想要個男孩
+Dad wanted a boy.
+
+563
+00:35:26,550 --> 00:35:28,460
+到氣閘了嗎
+Are you close to the airlock?
+
+564
+00:35:30,000 --> 00:35:32,330
+-還沒  -那繼續
+- Not yet. - Keep going.
+
+565
+00:35:33,210 --> 00:35:35,670
+現在你我也算保持了一定距離
+So now that we have some distance between us.
+
+566
+00:35:36,100 --> 00:35:38,930
+-你喜歡我對吧  -什麼
+- You're attracted to me, right? - What?
+
+567
+00:35:38,930 --> 00:35:42,520
+大家都說我有雙迷人的藍眼睛
+Well, people say I have beautiful blue eyes.
+
+568
+00:35:46,900 --> 00:35:50,740
+你的確有一雙...迷人的藍眼睛
+You have beautiful... you have beautiful blue eyes.
+
+569
+00:35:50,870 --> 00:35:52,230
+我眼睛是棕色的
+I have brown eyes.
+
+570
+00:35:55,850 --> 00:35:58,790
+-想聽好消息嗎  -什麼
+- You want to know the good news? - What?
+
+571
+00:35:58,790 --> 00:36:00,770
+我要打破阿納托利的紀錄了
+I'm gonna break Anatoly's record,
+
+572
+00:36:00,810 --> 00:36:03,230
+而且這紀錄可能得保持很久
+and I think mine's gonna stand for a long, long time.
+
+573
+00:36:03,230 --> 00:36:05,950
+不  我會去救你
+No. I'm coming to get you.
+
+574
+00:36:09,090 --> 00:36:12,150
+-天啊  -怎麼了
+- Oh, my God. - What? What?
+
+575
+00:36:15,280 --> 00:36:17,810
+-萊恩  -什麼
+- Hey, Ryan? - Yeah?
+
+576
+00:36:18,280 --> 00:36:20,410
+你該看看陽光灑在恒河的美景
+You should see the sun on the Ganges.
+
+577
+00:36:23,220 --> 00:36:24,270
+太震撼了
+It's amazing.
+
+578
+00:40:50,770 --> 00:40:52,540
+在哪呢  到底在哪裡
+Where are you? Where are you?
+
+579
+00:40:52,540 --> 00:40:55,160
+通信室  通信室  終於找到你了
+Comms. Comms. There you are. Okay.
+
+580
+00:41:06,370 --> 00:41:08,050
+馬特  我是萊恩  收到回話
+Matt, this is Ryan, copy.
+
+581
+00:41:11,240 --> 00:41:13,560
+馬特  我是萊恩  收到請回
+Matt, this is Ryan, copy.
+
+582
+00:41:16,910 --> 00:41:20,400
+馬特  我到空間站了  能收到嗎
+Matt, I made it, I'm here, I'm on the station. Do you copy?
+
+583
+00:41:26,710 --> 00:41:28,300
+馬特  快回答我
+Come on, Matt, talk to me.
+
+584
+00:41:29,020 --> 00:41:31,250
+你在哪裡  報告你的位置
+Tell me where you are, give me your position.
+
+585
+00:41:32,590 --> 00:41:35,930
+你在哪裡  視野  報告你的視野
+Where are you? Give me a visual. Just tell me what you see.
+
+586
+00:41:41,030 --> 00:41:43,840
+離開卡納維拉爾角後  你不是話很多嗎
+Come on. You've been yammering since we left Cape Canaveral,
+
+587
+00:41:43,840 --> 00:41:45,140
+現在怎麼不出聲了
+and now you decide to shut up?
+
+588
+00:41:45,140 --> 00:41:48,990
+快說句話  什麼都可以  什麼都行
+Talk to me. Just say something, say anything! I don't care!
+
+589
+00:41:55,170 --> 00:41:59,300
+跟我說說狂歡節的事
+Hey, tell me about, uh, Mardi Gras.
+
+590
+00:41:59,300 --> 00:42:01,650
+跟我說說那個毛茸茸的矬男
+Tell me about the hairy guy. Huh?
+
+591
+00:42:01,650 --> 00:42:02,900
+給我講講下文
+Tell me what happened.
+
+592
+00:42:03,510 --> 00:42:05,410
+那毛茸矬男最後怎麼了
+What happened to the hairy guy?
+
+593
+00:42:11,890 --> 00:42:13,220
+快回答我啊
+Please talk to me.
+
+594
+00:42:18,080 --> 00:42:19,070
+求你了
+Please.
+
+595
+00:42:35,210 --> 00:42:36,610
+休士頓  能否通聯
+Houston, in the blind...
+
+596
+00:42:39,240 --> 00:42:40,990
+這裡是任務專員萊恩•斯通
+this is Mission Specialist Ryan Stone
+
+597
+00:42:40,990 --> 00:42:43,150
+從國際空間站呼叫
+reporting from the ISS.
+
+598
+00:42:45,180 --> 00:42:48,120
+與任務指揮官馬修•庫沃斯基
+All communications with Mission Commander Matthew Kowalski
+
+599
+00:42:48,120 --> 00:42:49,400
+通信徹底中斷
+have been lost.
+
+600
+00:42:52,890 --> 00:42:54,920
+無線電通信已中斷
+Radio transmission absent.
+
+601
+00:42:57,200 --> 00:42:58,810
+視野範圍均不可見
+Visuals nonexistent.
+
+602
+00:43:01,620 --> 00:43:03,000
+請求確認
+To confirm,
+
+603
+00:43:03,210 --> 00:43:06,740
+本人萊恩•斯通
+I, Ryan Stone, am the sole survivor
+
+604
+00:43:07,210 --> 00:43:09,550
+STS-157唯一倖存者
+of STS-one-five-seven.
+
+605
+00:43:23,200 --> 00:43:24,190
+又怎麼了
+What now?
+
+606
+00:43:34,060 --> 00:43:38,320
+{\an8}火警
+
+607
+00:45:05,130 --> 00:45:08,070
+在哪呢  動力開關在哪呢
+Okay. Where is it, where is it? Where is the power?
+
+608
+00:45:08,070 --> 00:45:09,030
+是這個了
+Here you are.
+
+609
+00:45:12,670 --> 00:45:16,800
+很好  像訓練時那樣  分離船艙
+Great, just like training. Undocking, undocking.
+
+610
+00:45:17,330 --> 00:45:20,460
+離艙手冊  紅色
+Undocking. Red.
+
+611
+00:45:29,510 --> 00:45:32,560
+在哪呢  在哪呢
+Okay, where is it? Where is it?
+
+612
+00:45:33,270 --> 00:45:34,230
+快啊
+Come on.
+
+613
+00:45:39,900 --> 00:45:42,220
+很好  這個我記得  我記得
+Okay, I remember this, I remember this.
+
+614
+00:45:56,950 --> 00:45:58,010
+不夠四分鐘了
+You don't have four minutes.
+
+615
+00:45:58,010 --> 00:45:59,050
+得人工作業
+We're going manual.
+
+616
+00:46:01,130 --> 00:46:02,070
+快啊
+Come on.
+
+617
+00:46:02,710 --> 00:46:07,680
+有了  啟動  脫離
+Okay. Active-Activate, undock.
+
+618
+00:46:35,790 --> 00:46:37,760
+七分鐘逃離這裡
+Seven minutes to get out of here.
+
+619
+00:46:44,580 --> 00:46:46,210
+好了  開始吧
+All right, okay.
+
+620
+00:47:02,460 --> 00:47:03,740
+這又怎麼了
+What... what?
+
+621
+00:47:13,630 --> 00:47:15,490
+不  不要  不要啊
+No, no, no, no, no, no, no, no, no!
+
+622
+00:47:45,200 --> 00:47:46,740
+停  停  停下來
+Stop! Stop! Stop! Stop! Stop!
+
+623
+00:48:03,390 --> 00:48:03,900
+這就對了
+That's right, that's right.
+
+624
+00:48:03,910 --> 00:48:05,140
+慢慢來  慢慢來
+Come on, Come on, Come on.
+
+625
+00:48:05,580 --> 00:48:08,100
+對  這就對了
+That's right, that's right, that's right.
+
+626
+00:48:11,210 --> 00:48:12,110
+來吧
+Come on.
+
+627
+00:48:48,140 --> 00:48:49,110
+這下好了
+Great.
+
+628
+00:49:35,320 --> 00:49:38,410
+晴空萬里  有可能碰上衛星殘片
+Clear skies with a chance of satellite debris.
+
+629
+00:50:51,960 --> 00:50:55,590
+先弄開  然後回家  小菜一碟
+Okay, we detach this, and we go home. Piece of cake.
+
+630
+00:51:27,160 --> 00:51:28,450
+怎麼做呢
+Okay, what do we have?
+
+631
+00:51:29,390 --> 00:51:30,680
+就它了
+Okay, all right.
+
+632
+00:51:41,720 --> 00:51:42,790
+該死
+Shit.
+
+633
+00:51:51,000 --> 00:51:52,090
+得趕緊了
+Okay, come on.
+
+634
+00:51:52,510 --> 00:51:53,560
+快  快
+Come on, come on.
+
+635
+00:51:54,180 --> 00:51:55,150
+好了
+All right.
+
+636
+00:53:26,360 --> 00:53:27,550
+我討厭太空
+I hate space.
+
+637
+00:53:48,020 --> 00:53:49,110
+別叫了
+Shut up.
+
+638
+00:54:08,860 --> 00:54:09,830
+終於好了
+That's good.
+
+639
+00:54:14,440 --> 00:54:16,050
+要穩住啊
+Let's stabilize you.
+
+640
+00:54:31,700 --> 00:54:32,030
+不錯
+Okay.
+
+641
+00:54:34,300 --> 00:54:36,530
+咱們去逛逛中國站
+Let's go visit the Chinese station.
+
+642
+00:54:38,020 --> 00:54:39,360
+休士頓  能否通聯
+Houston, in the blind,
+
+643
+00:54:39,570 --> 00:54:45,400
+天宮一號位於西側100公里附近
+Tiangong is approximately one hundred kilometers to the west,
+
+644
+00:54:45,630 --> 00:54:51,040
+我偏離了約13度
+and I am off its course by about thirteen degrees.
+
+645
+00:54:51,040 --> 00:54:52,980
+即將修正軌道
+I will correct trajectory.
+
+646
+00:55:19,110 --> 00:55:20,030
+好了
+Okay.
+
+647
+00:55:22,060 --> 00:55:23,990
+準備與SKD對接
+I will engage S-Ka-Dae in
+
+648
+00:55:23,990 --> 00:55:28,130
+5  4  3  2  1
+five... four... three... two... one.
+
+649
+00:55:42,940 --> 00:55:45,060
+又發生什麼事了
+What's happening, what's happening? Come on, come on.
+
+650
+00:56:03,450 --> 00:56:05,040
+啟動啊  啟動啊
+Come on, come on.
+
+651
+00:56:09,840 --> 00:56:11,160
+開什麼玩笑
+You gotta be kidding me.
+
+652
+00:56:12,050 --> 00:56:13,890
+不要開玩笑啊
+You gotta be kidding me!
+
+653
+00:56:18,370 --> 00:56:20,610
+你去死吧
+No! Don't you fuck...
+
+654
+00:56:30,240 --> 00:56:31,690
+休斯頓  能否通聯
+Houston, in the blind.
+
+655
+00:56:32,380 --> 00:56:34,960
+休斯頓  能否通聯  這裡萊恩•斯通博士
+Houston, in the blind, this is Dr. Ryan Stone.
+
+656
+00:56:35,430 --> 00:56:39,250
+從聯盟TMA-14M號呼叫
+I'm calling from the Soyuz TMA-one-four-M.
+
+657
+00:56:39,850 --> 00:56:42,810
+飛船燃料耗盡  飄浮中  收到嗎
+I'm currently out of fuel and adrift, do you copy?
+
+658
+00:56:45,620 --> 00:56:49,190
+休斯頓  我是萊恩•斯通博士
+Houston. This is Dr. Ryan Stone.
+
+659
+00:56:49,990 --> 00:56:51,060
+收到嗎
+Do you copy?
+
+660
+00:56:55,630 --> 00:57:00,920
+休斯頓  我是萊恩•斯通  收到嗎
+Houston. This is Ryan Stone. Do you copy?
+
+661
+00:57:03,770 --> 00:57:05,350
+休斯頓  我是...
+Houston, this is Mission...
+
+662
+00:57:05,620 --> 00:57:08,080
+我是航太任務專員萊恩•斯通  收到嗎
+Mission Specialist Ryan Stone, do you copy?
+
+663
+00:57:10,200 --> 00:57:13,340
+休斯頓  休斯頓  請確認身份
+Houston, Houston, please confirm identity.
+
+664
+00:57:13,550 --> 00:57:16,890
+休斯頓  調幅波段收到你的回應  請講話
+Houston, you're coming in over an AM Frequency. Copy.
+
+665
+00:57:18,560 --> 00:57:19,560
+收到嗎
+Do you copy?
+
+666
+00:57:20,390 --> 00:57:23,770
+你是中國站天宮一號嗎  完畢
+Is this the Chinese station? Is this Tiangong? Copy.
+
+667
+00:57:25,420 --> 00:57:30,110
+求救  收到嗎  求救  緊急求救
+Mayday, can you copy? Mayday, mayday, mayday.
+
+668
+00:57:31,070 --> 00:57:35,780
+是的  求救  求救
+Yes, yes. Mayday, mayday. Mayday, mayday.
+
+669
+00:57:36,930 --> 00:57:39,050
+安寧剛
+Aningaaq.
+
+670
+00:57:41,610 --> 00:57:44,800
+那是...是你的名字嗎
+Is that... is that your... is that your name?
+
+671
+00:57:44,800 --> 00:57:47,500
+安寧剛是你的名字嗎  你叫這個嗎
+Aningaaq is your... is your name? Is that your name?
+
+672
+00:57:49,100 --> 00:57:50,660
+梅迪
+Mayday!
+
+673
+00:57:50,660 --> 00:57:53,960
+不  不  我不叫梅迪  我叫斯通
+No, no, no. No, my name is not Mayday. I'm Stone.
+
+674
+00:57:53,960 --> 00:57:57,870
+我是萊恩•斯通博士  需要救援
+Dr. Ryan Stone, I need help. I am...
+
+675
+00:58:01,190 --> 00:58:02,330
+狗叫聲
+Those are dogs.
+
+676
+00:58:04,060 --> 00:58:05,380
+地球信號
+They're calling from Earth.
+
+677
+00:58:08,860 --> 00:58:10,180
+是地球的信號
+They're calling from Earth.
+
+678
+00:58:23,510 --> 00:58:28,480
+安寧剛  能讓狗狗再叫幾聲嗎  可以嗎
+Aningaaq, make your dogs bark again for me, would you please?
+
+679
+00:58:30,460 --> 00:58:35,510
+狗狗  狗叫聲  汪汪  狗狗
+Your dogs. Dogs, you know. Woof, woof. Dogs.
+
+680
+00:59:19,360 --> 00:59:21,430
+我快要死了  安寧剛
+Oh, I'm gonna die, Aningaaq.
+
+681
+00:59:24,280 --> 00:59:27,400
+大家知道  人總有一死
+I know, we're all gonna die. Everybody knows that.
+
+682
+00:59:28,180 --> 00:59:30,090
+但我今天就要死了
+But I'm gonna die today.
+
+683
+00:59:33,040 --> 00:59:36,050
+挺搞笑吧  但...
+Funny, that. You know, to know...
+
+684
+00:59:39,510 --> 00:59:42,030
+但我很害怕
+but the thing is, it's that I'm still scared.
+
+685
+00:59:43,080 --> 00:59:44,450
+非常非常怕
+I'm really scared.
+
+686
+00:59:47,550 --> 00:59:49,060
+沒人會悼念我
+Nobody will mourn for me,
+
+687
+00:59:49,060 --> 00:59:50,930
+沒人會為我祈禱了
+no one will pray for my soul.
+
+688
+00:59:54,350 --> 00:59:55,650
+你會嗎
+Will you mourn for me?
+
+689
+00:59:57,640 --> 00:59:59,100
+你會為我祈禱嗎
+Will you say a prayer for me?
+
+690
+01:00:00,310 --> 01:00:01,580
+會不會太晚了
+Or is it too late?
+
+691
+01:00:06,500 --> 01:00:09,490
+我想為自己祈禱  但從沒祈禱過
+I mean, I'd say one for myself, but I'm never prayed in my life,
+
+692
+01:00:09,490 --> 01:00:10,440
+而且
+so...
+
+693
+01:00:11,730 --> 01:00:13,320
+從來沒人教過我如何祈禱
+Nobody ever taught me how.
+
+694
+01:00:17,950 --> 01:00:19,360
+從來沒人教過我如何祈禱
+Nobody ever taught me how.
+
+695
+01:00:31,330 --> 01:00:32,410
+是寶寶
+A baby.
+
+696
+01:00:45,510 --> 01:00:47,500
+你抱著寶寶  是嗎
+There's a baby with you, huh?
+
+697
+01:00:50,420 --> 01:00:52,080
+你在唱搖籃曲嗎
+Is that a lullaby you're singing?
+
+698
+01:00:55,490 --> 01:00:56,660
+好溫馨啊
+That's so sweet.
+
+699
+01:00:59,550 --> 01:01:01,240
+我以前也常唱給寶寶聽
+I used to sing to my baby.
+
+700
+01:01:05,520 --> 01:01:07,160
+馬上就能見到她了
+I hope I see her soon.
+
+701
+01:02:05,740 --> 01:02:14,840
+{\an8}氧氣
+
+702
+01:02:17,840 --> 01:02:20,870
+很好聽  安寧剛  別停  唱下去
+That's nice, Aningaaq. Keep singing, just like that.
+
+703
+01:02:22,900 --> 01:02:24,980
+唱到我睡著  讓我睡去吧
+Sing me to sleep, and I'll sleep.
+
+704
+01:02:27,220 --> 01:02:30,450
+別停  繼續  繼續
+Keep singing. And sing, and sing.
+
+705
+01:03:01,130 --> 01:03:02,310
+不  不要
+No, no, don't!
+
+706
+01:03:45,760 --> 01:03:48,610
+看看表  13小時11分鐘
+Check your watch. Thirteen hours and eleven minutes.
+
+707
+01:03:48,610 --> 01:03:51,130
+告訴阿納托利  我破他紀錄了
+Call Anatoly and tell him he's been bumped.
+
+708
+01:03:51,730 --> 01:03:54,050
+-這裡挺暗的  -你怎麼...
+- It's a little gloomy in here, isn't it? - How did you...?
+
+709
+01:03:54,050 --> 01:03:56,600
+-相信我  一言難盡  -你怎麼...
+- Trust me, it's a hell of a story. - But how did...?
+
+710
+01:03:59,460 --> 01:04:00,480
+這樣好多了
+That's better.
+
+711
+01:04:01,530 --> 01:04:04,980
+我找到一塊備用電池
+I found a little extra... a little extra battery power.
+
+712
+01:04:05,200 --> 01:04:07,600
+還好你沒在邊上分散我注意力
+It helps that I didn't have you around to distract me.
+
+713
+01:04:07,920 --> 01:04:10,700
+不得不說  很高興再見到你
+I have to say, I'm glad to see ya.
+
+714
+01:04:10,700 --> 01:04:12,090
+我以為你早去天堂了呢
+I didn't think you were gonna make it.
+
+715
+01:04:12,570 --> 01:04:15,330
+-找到伏特加了嗎  -你...
+- Did you find the vodka? - You...
+
+716
+01:04:15,650 --> 01:04:18,710
+你沒有告訴我藏哪了
+You never told me where... where it was, so...
+
+717
+01:04:24,460 --> 01:04:27,750
+敬阿納托利  乾杯[波蘭語]
+To Anatoly. Na zdorovje.
+
+718
+01:04:33,390 --> 01:04:35,300
+-不了  -不嗎  那算了
+- No. - No? All right.
+
+719
+01:04:36,400 --> 01:04:37,540
+我們離開這鬼地方吧
+Let's get out of here.
+
+720
+01:04:39,740 --> 01:04:41,820
+中國站離著大約100英里
+The Chinese station's about a hundred miles.
+
+721
+01:04:41,860 --> 01:04:44,210
+咱們來個陽光之旅吧
+Just a little Sunday drive.
+
+722
+01:04:44,470 --> 01:04:46,060
+-飛不了了  -飛的了
+- We can't. - Sure we can.
+
+723
+01:04:46,210 --> 01:04:47,800
+沒燃料了  都試過了
+There's no fuel, I tried everything.
+
+724
+01:04:47,800 --> 01:04:51,480
+-總有能派上用場的  -什麼都用不了
+- Well, there's always something we can do. - I tried everything.
+
+725
+01:04:51,480 --> 01:04:53,450
+軟著陸推進你沒試吧
+Did you try the soft landing jets?
+
+726
+01:04:53,450 --> 01:04:55,750
+-那個著陸才用的到  -著陸也要推進呢
+- They're for landing. So... - Well, landing is launching.
+
+727
+01:04:55,750 --> 01:04:58,100
+反正都一樣  訓練課沒教嗎
+It's the same thing. Didn't you learn about that in training?
+
+728
+01:04:58,110 --> 01:05:00,150
+都告訴過你  模擬器我都沒成功著陸過
+I never got to land the simulator. I told you that.
+
+729
+01:05:00,150 --> 01:05:02,190
+-但你知道操作  -我每次都墜毀
+- But you know about it. - And I crashed it every time.
+
+730
+01:05:02,190 --> 01:05:04,890
+那你是想回家還是想待在這
+Listen, do you want to go back, or do you want to stay here?
+
+731
+01:05:08,270 --> 01:05:09,800
+我懂了  太空很漂亮
+I get it, it's nice up here.
+
+732
+01:05:13,560 --> 01:05:17,460
+你可以關掉所有系統
+You can just shut down all the systems,
+
+733
+01:05:18,430 --> 01:05:19,790
+關掉所有燈光
+turn out all the lights...
+
+734
+01:05:21,230 --> 01:05:23,530
+閉上眼睛  忽略世人
+and just close your eyes and tune out everybody.
+
+735
+01:05:24,570 --> 01:05:26,190
+在太空沒人可以傷害你
+There's nobody up here that can hurt you.
+
+736
+01:05:27,240 --> 01:05:28,250
+很安全
+It's safe.
+
+737
+01:05:32,010 --> 01:05:34,290
+為什麼要堅持  為什麼要活下去
+I mean, what's the point of going on? What's the point of living?
+
+738
+01:05:39,460 --> 01:05:42,930
+有什麼能比孩子的死還痛呢
+Your kid died. Doesn't get any rougher than that.
+
+739
+01:05:45,760 --> 01:05:47,800
+關鍵看你現在怎麼做
+But still, it's a matter of what you do now.
+
+740
+01:05:49,790 --> 01:05:52,840
+若決定回去  那就行動起來
+If you decide to go, then you gotta just get on with it.
+
+741
+01:05:53,980 --> 01:05:56,020
+坐穩扶好  享受旅程
+Sit back, enjoy the ride.
+
+742
+01:05:57,020 --> 01:05:59,190
+你要站在地球上
+You gotta plant both your feet on the ground
+
+743
+01:05:59,190 --> 01:06:00,510
+開始新生活
+and start livin' life.
+
+744
+01:06:00,520 --> 01:06:04,150
+-你怎麼回來的  -說過了  一言難盡
+- How did you get here? - I'll telling you, it's a hell of a story.
+
+745
+01:06:05,010 --> 01:06:07,360
+-萊恩  -怎麼了
+- Hey, Ryan? - What?
+
+746
+01:06:08,080 --> 01:06:09,470
+該回家了
+It's time to go home.
+
+747
+01:06:32,070 --> 01:06:40,490
+{\an8}氧氣
+
+748
+01:06:53,480 --> 01:06:54,530
+著陸
+Landing...
+
+749
+01:06:57,150 --> 01:06:59,940
+著陸  著陸也可以推進
+Landing... landing is launching.
+
+750
+01:07:01,760 --> 01:07:02,770
+我還說...
+I said...
+
+751
+01:07:16,900 --> 01:07:20,030
+對  著陸  著陸手冊是綠色的
+Okay, landing, landing. Landing is green.
+
+752
+01:07:34,090 --> 01:07:36,960
+沒錯  就這本
+Okay, landing. All right.
+
+753
+01:07:38,020 --> 01:07:40,040
+軟著陸推進器開關
+Okay. Soft landing jets trigger
+
+754
+01:07:40,050 --> 01:07:42,840
+會在距地面三米自動開啟
+automatically at three meters before landing, so...
+
+755
+01:07:45,970 --> 01:07:47,850
+馬特  你他媽可真聰明
+You're a clever son of a bitch, Matt.
+
+756
+01:07:48,110 --> 01:07:52,010
+我需要...需要讓軌道艙
+I need to... I need to get rid of the B.O...
+
+757
+01:07:52,010 --> 01:07:54,110
+與推進器分離
+and the engine module.
+
+758
+01:07:55,710 --> 01:07:57,040
+對  沒錯
+Right. Okay.
+
+759
+01:07:58,010 --> 01:07:58,910
+來吧
+Okay.
+
+760
+01:08:04,940 --> 01:08:06,650
+三艙分離
+Tri-module separation.
+
+761
+01:08:08,030 --> 01:08:08,950
+啟動
+Go.
+
+762
+01:08:23,470 --> 01:08:24,540
+好了
+Okay.
+
+763
+01:08:25,790 --> 01:08:27,560
+休斯頓  到最棘手的部分了
+Houston, here's the tricky part.
+
+764
+01:08:28,430 --> 01:08:30,040
+得讓聯盟號認為
+Soyuz has to think
+
+765
+01:08:30,660 --> 01:08:34,050
+我們距地面已是三米
+we are three meters off the Earth.
+
+766
+01:08:35,370 --> 01:08:38,060
+好吧
+All right. Okay.
+
+767
+01:08:38,090 --> 01:08:40,720
+馬特  看在這周
+Hey, Matt? Since I had to listen
+
+768
+01:08:40,720 --> 01:08:43,510
+聽你嘮叨的份上
+to endless hours of your storytelling this week,
+
+769
+01:08:43,960 --> 01:08:45,650
+給你個機會幫幫我
+I need for you to do me a favor.
+
+770
+01:08:47,030 --> 01:08:49,820
+你將會看到一個棕發女孩
+You are gonna see a little girl with brown hair,
+
+771
+01:08:50,190 --> 01:08:52,380
+頭髮像個鳥窩
+very messy, lots of knots.
+
+772
+01:08:53,120 --> 01:08:56,690
+她不喜歡梳頭  沒關係的
+She doesn't like to brush it. That's okay.
+
+773
+01:08:57,510 --> 01:08:58,740
+她叫薩拉
+Her name is Sarah.
+
+774
+01:08:59,890 --> 01:09:01,630
+能拜託你轉告她嗎
+Can you please tell her
+
+775
+01:09:02,630 --> 01:09:04,550
+告訴她  媽媽找到她紅鞋子了
+that Mama found her red shoe?
+
+776
+01:09:05,790 --> 01:09:08,070
+馬特  她總是惦記那只鞋子
+She was so worried about that shoe, Matt.
+
+777
+01:09:08,910 --> 01:09:10,520
+其實就在床底下
+But it was just right under the bed.
+
+778
+01:09:15,220 --> 01:09:17,270
+替我好好抱抱她  親親她
+Give her a big hug and a big kiss for me,
+
+779
+01:09:17,270 --> 01:09:18,890
+告訴她我想死她了
+and tell her that Mama misses her.
+
+780
+01:09:19,880 --> 01:09:21,960
+她是我的心肝寶貝
+You tell her that she is my angel.
+
+781
+01:09:23,020 --> 01:09:26,360
+她讓我驕傲  特驕傲
+And she makes me so proud. So, so proud.
+
+782
+01:09:31,470 --> 01:09:33,290
+告訴她我沒有放棄
+And you tell her that I'm not quitting.
+
+783
+01:09:40,920 --> 01:09:42,660
+告訴她我很愛她
+You tell her that I love her, Matt.
+
+784
+01:09:44,050 --> 01:09:46,160
+告訴她我很愛很愛她
+You tell her that I love her so much.
+
+785
+01:09:48,890 --> 01:09:50,210
+這個忙能幫我嗎
+Can you do that for me?
+
+786
+01:09:53,440 --> 01:09:54,470
+收到
+Roger that.
+
+787
+01:09:57,010 --> 01:09:58,000
+啟程
+Here we go.
+
+788
+01:10:35,180 --> 01:10:37,060
+天宮  你也在下降啊
+You're losing altitude, Tiangong.
+
+789
+01:10:40,480 --> 01:10:43,350
+這麼下降就要和氣層激情四射了
+You keep dropping and you're gonna kiss the atmosphere.
+
+790
+01:10:44,560 --> 01:10:47,360
+你是最後一班車  別丟下我
+But not without me, because you're my last ride.
+
+791
+01:10:48,900 --> 01:10:49,850
+好吧
+Okay.
+
+792
+01:10:51,160 --> 01:10:52,030
+等等
+Wait.
+
+793
+01:11:06,770 --> 01:11:08,100
+不就開車嘛
+No more just driving.
+
+794
+01:11:10,060 --> 01:11:11,300
+回家吧
+Let's go home.
+
+795
+01:11:16,330 --> 01:11:19,410
+穩住  別晃  別晃
+Steady. Okay, come on, come on.
+
+796
+01:11:20,530 --> 01:11:21,550
+穩住  穩住
+Steady, steady.
+
+797
+01:11:22,550 --> 01:11:24,450
+別晃  別晃
+Come on. Come on.
+
+798
+01:11:28,890 --> 01:11:30,600
+在哪呢  你在哪呢  四十五度
+Where are you? Where are you? Forty-five,
+
+799
+01:11:30,600 --> 01:11:32,950
+九十度  背後  在背後
+ninety, one-eighty, one-eighty.
+
+800
+01:11:40,970 --> 01:11:41,930
+加油
+Come on.
+
+801
+01:11:51,710 --> 01:11:52,650
+就這樣
+Okay.
+
+802
+01:12:05,120 --> 01:12:06,020
+就到了
+All right.
+
+803
+01:12:10,020 --> 01:12:10,930
+媽的
+Damn it.
+
+804
+01:12:12,970 --> 01:12:17,590
+近點  近點  媽媽抱
+Down, down, down. Come to Mama.
+
+805
+01:13:39,770 --> 01:13:40,770
+媽的
+Shit!
+
+806
+01:13:50,650 --> 01:13:54,140
+到了  神舟呢  神舟呢
+Come on. Shenzhou, come on. Shenzhou. Shenzhou.
+
+807
+01:13:55,050 --> 01:13:59,050
+媽的  是這邊  神舟我來了
+Fuck! Okay, this way. Shenzhou.
+
+808
+01:14:09,200 --> 01:14:10,200
+這是什麼
+What's this?
+
+809
+01:14:57,840 --> 01:15:01,040
+聯盟號的動力開關在這裡
+In the Soyuz, the power button is here.
+
+810
+01:15:04,310 --> 01:15:06,620
+好的  要脫離對接  脫離對接
+Okay, undocking, undocking.
+
+811
+01:15:08,330 --> 01:15:09,400
+"咦呢  咪呢"
+Eeni, meeni...
+
+812
+01:15:10,430 --> 01:15:15,160
+對  就是這個聲音 "麥呢  嚜"
+Okay, that doesn't sound good. Miny... moe.
+
+813
+01:15:16,820 --> 01:15:18,010
+聽不懂中文
+No hablo chino.
+
+814
+01:15:19,780 --> 01:15:21,810
+"麥呢  嚜"
+Miny... moe.
+
+815
+01:15:23,700 --> 01:15:25,610
+對了  對了  太棒了
+Okay. Okay, good.
+
+816
+01:15:34,570 --> 01:15:36,360
+休斯頓  休斯頓  能否通聯
+Houston. Houston, in the blind.
+
+817
+01:15:36,730 --> 01:15:38,880
+我是航太任務專員萊恩•斯通
+This is Mission Specialist Ryan Stone
+
+818
+01:15:38,880 --> 01:15:40,600
+正從神舟上呼叫你
+reporting from the Shenzhou.
+
+819
+01:15:40,610 --> 01:15:42,980
+我馬上要脫開天宮一號了
+I'll about to undock from Tiangong...
+
+820
+01:15:47,530 --> 01:15:49,830
+我對這次任務有不祥的預感
+And I have a bad feeling about this mission.
+
+821
+01:15:52,720 --> 01:15:54,580
+讓我想起一個故事  休斯頓...
+Reminds me of a story, Houston...
+
+822
+01:15:57,260 --> 01:16:01,470
+算了  休斯頓  不說了
+Never... Never mind the story, Houston. Never mind the story.
+
+823
+01:16:03,750 --> 01:16:06,910
+這裡越來越熱了  會沒事的
+It's getting hot in here. Okay. All right.
+
+824
+01:16:09,720 --> 01:16:13,750
+依我看來  只有兩個結果
+All right, the way I see it, there's only two possible outcomes.
+
+825
+01:16:14,020 --> 01:16:16,330
+要麼安全降落
+Either I make it down there in one piece
+
+826
+01:16:16,330 --> 01:16:18,400
+帶回一段傳奇經歷
+and I have one hell of a story to tell,
+
+827
+01:16:19,180 --> 01:16:21,300
+要麼在十分鐘內化為灰燼
+or I burn up in the next ten minutes.
+
+828
+01:16:23,240 --> 01:16:27,270
+管他哪種結果  一切隨緣
+Either way, whichever way... no harm, no foul!
+
+829
+01:16:35,120 --> 01:16:36,280
+因為不管哪種結果
+Because either way...
+
+830
+01:16:38,980 --> 01:16:40,720
+這段旅程都充滿意義
+it'll be one hell of a ride.
+
+831
+01:16:43,650 --> 01:16:44,600
+我準備好了
+I'm ready.
+
+832
+01:18:51,490 --> 01:18:55,060
+神舟  能否通聯  這裡是休斯頓
+Shenzhou, in the blind, this is Houston.
+
+833
+01:18:55,060 --> 01:18:56,490
+請告知調頻波段
+Indicate FM frequency.
+
+834
+01:18:58,070 --> 01:19:00,700
+雷達監測你處於返回軌道
+Our radars detect you on a re-entry trajectory.
+
+835
+01:19:00,700 --> 01:19:03,280
+若能收到  請確認身份
+If you copy, please confirm identity.
+
+836
+01:19:24,060 --> 01:19:29,100
+這裡是休斯頓[伴無線電干擾]
+This is Houston.
+
+837
+01:19:29,970 --> 01:19:31,700
+沒錢
+No money down!
+
+838
+01:19:32,470 --> 01:19:35,660
+-一切安好...-請立即表明身份
+- ...messages, we'll be right... - Please confirm identity.
+
+839
+01:19:35,660 --> 01:19:37,510
+中西部天氣晴朗無雲
+Skies over the Midwest are completely clear...
+
+840
+01:19:37,510 --> 01:19:39,930
+已部署救援隊前去搜救
+We're deployed a rescue mission to retrieve you.
+
+841
+01:19:40,470 --> 01:19:42,540
+救援隊在途中
+Rescue mission is on the way.
+
+842
+01:19:46,650 --> 01:19:48,880
+神舟  能否通聯  這裡是休斯頓
+Shenzhou, in the blind, this is Houston.
+
+843
+01:19:51,030 --> 01:19:54,390
+已部署救援隊前去搜救
+We're deployed a rescue mission to retrieve you.
+
+844
+01:22:44,810 --> 01:22:45,830
+謝謝你
+Thank you.
+
+845
+01:22:53,830 --> 01:22:54,740
+沒事的
+No.
+
+846
+01:23:50,520 --> 01:23:53,730
+地      心      引      力

@@ -1,0 +1,4286 @@
+﻿1
+00:02:54,760 --> 00:02:57,760
+注意有海盜
+{\rE}Attention, pirates alongside!
+
+2
+00:02:58,790 --> 00:03:02,790
+注意有海盜 進入船艙躲避
+{\rE}Pirates alongside! Take cover. All crew below deck!
+
+3
+00:03:02,810 --> 00:03:05,710
+再說一遍 注意有海盜
+{\rE}I repeat Pirates alongside!
+
+4
+00:03:06,740 --> 00:03:08,740
+執行緊急措施
+{\rE}Initiate emergency procedure!
+
+5
+00:03:09,760 --> 00:03:11,760
+所有船員到船艙躲避
+{\rE}All crew below deck!
+
+6
+00:03:52,780 --> 00:03:55,780
+緊急措施 紅色警報
+{\rE}Emergency positions! Code red! Code red!
+
+7
+00:03:56,710 --> 00:03:58,710
+所有船員到船艙躲避
+{\rE}Get everybody below deck, now!
+
+8
+00:04:00,730 --> 00:04:02,730
+所有人趴下
+{\rE}Everyone, get down!
+
+9
+00:04:04,760 --> 00:04:06,760
+傑克 聯合國護衛艦在哪?
+{\rE}Jack, where's that UN convoy?
+
+10
+00:04:06,780 --> 00:04:09,780
+直升機起飛了 三十分鐘到
+{\rE}The chopper's on its way,sir. ETA 30 minutes!
+
+11
+00:04:09,800 --> 00:04:11,800
+所有人躲避到艙裡
+{\rE}Get everybody below deck
+
+12
+00:06:57,850 --> 00:07:00,850
+我在等俺兒子啊
+{\rE}I'm waiting for my son
+
+13
+00:07:00,880 --> 00:07:04,880
+我不能讓他回來找不著家啊
+{\rE}I need our home for his return!
+
+14
+00:07:05,800 --> 00:07:08,800
+等員警來了 我看你們還敢不敢拆
+{\rE}Wait till police get here! Let's see how you're going to tear our houses!
+
+15
+00:07:09,820 --> 00:07:11,820
+想死就別攔著
+{\rE}If they wanna die, then let 'em
+
+16
+00:07:25,850 --> 00:07:27,850
+嬸 嫂子
+{\rE}Mrs. Yu, Mrs.Fei.
+
+17
+00:07:28,870 --> 00:07:30,870
+我們把小飛送回來了
+{\rE}We brought Xiao Fei home
+
+18
+00:07:31,800 --> 00:07:33,800
+敬禮
+{\rE}Salute!
+
+19
+00:07:49,520 --> 00:07:52,520
+告訴新來的 俺們中隊的座右銘是啥啊?
+{\rE}Tell these rookies what our motto is
+
+20
+00:07:52,540 --> 00:07:54,540
+謙虛
+{\rE}Be humble
+
+21
+00:07:54,570 --> 00:07:56,570
+我來當兵就是為了打仗
+{\rE}I became a soldier because I wanted to be in battles
+
+22
+00:07:56,590 --> 00:07:58,590
+現在呢 打啥仗啊打仗?
+{\rE}and now, what about the battles?
+
+23
+00:07:58,620 --> 00:08:00,620
+在家都陪陪老婆孩子多好啊
+{\rE}Much better to be at home with wife and kids instead
+
+24
+00:08:06,040 --> 00:08:08,040
+我閨女 漂亮吧?
+{\rE}My daughter, she's beautiful, huh?
+
+25
+00:08:32,660 --> 00:08:34,660
+一個個驢球馬蛋的啊
+{\rE}You gang of sumbags!
+
+26
+00:08:34,690 --> 00:08:36,690
+還真拿自己當回事了 是吧?
+{\rE}You think you're tough, huh?
+
+27
+00:08:43,610 --> 00:08:45,610
+給我打 都上
+{\rE}Go get them! Get them!
+
+28
+00:09:04,640 --> 00:09:06,640
+員警同志他有槍
+{\rE}Officer see! He's got a gun!
+
+29
+00:09:06,660 --> 00:09:08,660
+有槍
+{\rE}a gun!
+
+30
+00:09:09,680 --> 00:09:11,680
+解放軍同志 請你把槍放下
+{\rE}Comrade, put down your weapon!
+
+31
+00:09:22,610 --> 00:09:24,610
+挺能打是吧?
+{\rE}You're pretty lethal, huh?
+
+32
+00:09:24,630 --> 00:09:26,630
+咋不弄死我呢?
+{\rE}Well you'd better kill me now,
+
+33
+00:09:26,660 --> 00:09:28,660
+有不在的時候吧
+{\rE}because you're gone,
+
+34
+00:09:29,680 --> 00:09:31,680
+你看我怎麼弄死他們
+{\rE}I'm gonna make them wish they were dead
+
+35
+00:09:53,600 --> 00:09:55,600
+嘿
+{\rE}Hey!
+
+36
+00:10:00,630 --> 00:10:02,630
+冷鋒
+{\rE}Leng Feng!
+
+37
+00:10:31,850 --> 00:10:33,850
+軍人 之所以被人尊重
+{\rE}The reason a soldier is respected
+
+38
+00:10:34,880 --> 00:10:36,880
+不是因為軍人兩個字
+{\rE}is not because of the uniform he wears,
+
+39
+00:10:37,800 --> 00:10:40,800
+而是因為軍人擔負的責任
+{\rE}but is because of the sense of duty he carries
+
+40
+00:10:41,820 --> 00:10:44,820
+即使脫了軍裝 職責還在
+{\rE}With or without the uniform, the duty remains
+
+41
+00:10:44,850 --> 00:10:46,850
+一樣會被人尊重
+{\rE}And he continues to be respected
+
+42
+00:11:14,820 --> 00:11:16,820
+快點
+{\rE}Hey, hurry up!
+
+43
+00:11:19,840 --> 00:11:21,840
+嘿 冷 我們的英雄
+{\rE}Hey, Leng. There's our hero
+
+44
+00:11:21,870 --> 00:11:23,870
+感謝你救了我們大家
+{\rE}Thanks for saving the lives of everyone
+
+45
+00:11:23,890 --> 00:11:25,890
+- 我們合個影唄?- 沒問題
+{\rE}- Let's take a picture together - No problem!
+
+46
+00:11:27,820 --> 00:11:29,220
+- 謝謝 - 好的 再見
+{\rE}- Thank you! - Ok, see you!
+
+47
+00:11:29,220 --> 00:11:31,220
+再見 保重
+{\rE}Take care, see you!
+
+48
+00:11:35,840 --> 00:11:37,840
+嘿 老闆
+{\rE}Hey, boss!
+
+49
+00:11:37,860 --> 00:11:40,860
+- 買點吧 這是好東西 - 上次塔曼村疫情爆發
+{\rE}- Buy some, it's good stuff - There was an outbreak in Taman recently
+
+50
+00:11:40,890 --> 00:11:43,890
+就因為萬吃了這個藥材 有四個人活下來呢
+{\rE}Because of consuming this herbs, there were 4 survivors
+
+51
+00:11:43,910 --> 00:11:45,910
+- 拜託 - 不了 謝謝
+{\rE}- Please! - No, thank you!
+
+52
+00:11:45,940 --> 00:11:47,940
+幫幫忙吧 考慮一下
+{\rE}Please help please consider
+
+53
+00:11:47,960 --> 00:11:49,960
+老闆
+{\rE}Boss.
+
+54
+00:11:51,880 --> 00:11:53,880
+中國酒來了
+{\rE}Chinese wine.
+
+55
+00:11:54,810 --> 00:11:56,810
+這兒
+{\rE}This
+
+56
+00:11:56,830 --> 00:11:58,830
+- 嘿 - 別這樣兄弟
+{\rE}- Hey, hey. - Come on man
+
+57
+00:11:58,860 --> 00:12:00,860
+好吧 這次就算了
+{\rE}Ok, this one is okay
+
+58
+00:12:01,880 --> 00:12:04,880
+合作愉快 下次見
+{\rE}Nice one. See you next time.
+
+59
+00:12:08,800 --> 00:12:10,800
+上來
+{\rE}Get up here!
+
+60
+00:12:11,830 --> 00:12:13,830
+歡迎回來
+{\rE}Welcome back!
+
+61
+00:12:21,850 --> 00:12:23,850
+再見
+{\rE}Bye
+
+62
+00:12:24,880 --> 00:12:26,880
+這個 好東西
+{\rE}This, good for you
+
+63
+00:12:27,800 --> 00:12:29,800
+能讓你不再孤單
+{\rE}You're not alone
+
+64
+00:12:29,820 --> 00:12:33,820
+20美元 買一送一
+{\rE}20 dollars. Buy one get one free
+
+65
+00:12:35,850 --> 00:12:37,850
+- 我是誰 - 我的乾爹
+{\rE}- Who am I? - My godfather
+
+66
+00:12:37,870 --> 00:12:40,870
+如果乾爹把這個告訴你媽媽
+{\rE}If your godfather tells your mother about this,
+
+67
+00:12:40,900 --> 00:12:43,800
+她會怎麼想? 沒收了
+{\rE}what would she think? Confiscated!
+
+68
+00:12:52,840 --> 00:12:54,840
+開始
+{\rE}Begin!
+
+69
+00:12:55,870 --> 00:13:00,870
+乾爹 乾爹 乾爹
+{\rE}Godfather! Godfather! Godfather!
+
+70
+00:13:02,890 --> 00:13:09,890
+哈裡 哈裡 哈裡
+{\rE}Harry! Harry! Harry!
+
+71
+00:13:09,920 --> 00:13:11,920
+乾爹 乾爹 乾爹
+{\rE}Godfather! Godfather! Godfather!
+
+72
+00:13:24,840 --> 00:13:29,840
+阿冷 阿冷 阿冷
+{\rE}Leng! Leng! Leng!
+
+73
+00:13:37,860 --> 00:13:39,860
+誰?
+{\rE}Who?
+
+74
+00:13:42,890 --> 00:13:44,890
+誰?
+{\rE}Who?
+
+75
+00:13:45,810 --> 00:13:48,810
+還有誰? 還有誰?
+{\rE}Who else? Who else?
+
+76
+00:13:48,840 --> 00:13:50,840
+你上
+{\rE}Do it, do it
+
+77
+00:13:51,860 --> 00:13:53,860
+去你的
+{\rE}Fuck it!
+
+78
+00:13:53,880 --> 00:13:55,880
+你以為你是誰啊?
+{\rE}Who the fuck you think you are?
+
+79
+00:13:55,910 --> 00:13:57,910
+來吧
+{\rE}Come on!
+
+80
+00:13:57,930 --> 00:13:59,930
+好啊
+{\rE}Yeah
+
+81
+00:14:13,860 --> 00:14:16,860
+派翠克 派翠克 派翠克
+{\rE}Patrick! Patrick! Patrick!
+
+82
+00:14:54,880 --> 00:14:56,880
+我要去邊境執行一項任務
+{\rE}I've been sent to the border for a mission
+
+83
+00:14:57,800 --> 00:14:59,800
+等我回來的時候
+{\rE}When I get back,
+
+84
+00:14:59,830 --> 00:15:02,830
+希望你能在這個檔上簽字
+{\rE}this had better be signed
+
+85
+00:15:14,350 --> 00:15:16,350
+{\an8}結婚申請
+
+86
+00:15:17,380 --> 00:15:19,380
+為什麼當兵?
+{\rE}Why did you join the army?
+
+87
+00:15:19,400 --> 00:15:21,400
+當兵後悔兩年 不當兵後悔一輩子
+{\rE}Join the army, you regret it for two years. Don't join the army, regret it for life.
+
+88
+00:15:23,320 --> 00:15:25,320
+- 真話?- 真話
+{\rE}- The truth? - That's the truth.
+
+89
+00:15:26,350 --> 00:15:28,350
+再喝
+{\rE}Drink! again!
+
+90
+00:15:33,500 --> 00:15:35,500
+龍小雲同志
+{\rE}Comrade Long Xiao Yun.
+
+91
+00:15:35,520 --> 00:15:37,520
+在邊境執行任務時不幸遇襲
+{\rE}was attacked while carrying her mission at the border.
+
+92
+00:15:38,540 --> 00:15:41,540
+在現場 我們發現了這枚子彈
+{\rE}We found this bullet.
+
+93
+00:15:44,870 --> 00:15:46,870
+再喝
+{\rE}Drink again.
+
+94
+00:15:53,890 --> 00:15:55,890
+你想聽什麼?
+{\rE}What do you want to hear?
+
+95
+00:15:55,920 --> 00:15:57,820
+你想聽什麼?
+{\rE}What do you want to hear?
+
+96
+00:15:57,840 --> 00:15:59,840
+再喝
+{\rE}Drink!
+
+97
+00:16:11,560 --> 00:16:13,560
+再喝
+{\rE}Again!
+
+98
+00:16:31,590 --> 00:16:33,490
+你贏了
+{\rE}You win.
+
+99
+00:16:33,510 --> 00:16:35,510
+你贏了
+{\rE}You win.
+
+100
+00:16:36,540 --> 00:16:38,540
+我輸了...
+{\rE}But I lost...
+
+101
+00:16:38,560 --> 00:16:40,560
+徹徹底底的輸了
+{\rE}I've lost completely.
+
+102
+00:16:41,580 --> 00:16:43,580
+你跟船已經有一年多了
+{\rE}It's been more than a year since you came on board
+
+103
+00:16:43,610 --> 00:16:47,510
+從傑爾巴到藻拉納魯
+{\rE}During that time, from Djerba to Tolanaro,
+
+104
+00:16:47,530 --> 00:16:51,530
+大半個非洲的部落長老我都問過
+{\rE}I've asked all the chiefs. More than half of Africa,
+
+105
+00:16:51,560 --> 00:16:55,560
+都沒有見過你的這顆子彈
+{\rE}And nobody has seen that bullet before. peluru itu sebelumnya.
+
+106
+00:16:55,580 --> 00:16:58,580
+我一定會找到的
+{\rE}I will find it,
+
+107
+00:16:58,600 --> 00:17:00,600
+哪伯走遍整個非洲
+{\rE}even if I have to scour the entire continent.
+
+108
+00:17:19,530 --> 00:17:21,530
+親愛的祖國同胞們
+{\rE}Dear fellow countrymen,
+
+109
+00:17:21,550 --> 00:17:26,550
+首先我對貝卡村受難的同胞表示沉痛哀悼
+{\rE}my deepest condolences to the families their loved ones during Batchka Village incident
+
+110
+00:17:27,580 --> 00:17:30,580
+今日早些時候 非法武裝組織紅巾軍表示對貝其卡滅村行動負責
+{\rE}Early today, the red scarf rebel army claimed responsibility for the Batchka Village
+
+111
+00:17:30,600 --> 00:17:32,600
+我們對這種慘絕人寰的行為強烈譴責
+{\rE}Our government condemns their barbaric behavior.
+
+112
+00:17:32,620 --> 00:17:35,520
+我們的家園 正在遭受一連串的傷害
+{\rE}Our homeland has been attacked on multiple occasions.
+
+113
+00:17:35,550 --> 00:17:38,550
+不幸的事接二連三發生
+{\rE}These are great tragedies.
+
+114
+00:17:40,570 --> 00:17:46,570
+紅巾軍的恐怖勢力如同疫情一樣蔓延
+{\rE}The rebels continue to advance as the country grapples with the Lamanla outbreak.
+
+115
+00:17:46,600 --> 00:17:50,500
+政府不會坐以待斃 偉大的人民軍隊誓為家園奮戰到底
+{\rE}As your government, we will not back down. The great people's army will fight to the very end.
+
+116
+00:17:50,520 --> 00:17:54,520
+另外國家設立了疫情隔離區
+{\rE}Quarantine have been set up across the country,
+
+117
+00:17:54,540 --> 00:17:56,540
+最大範圍內控制了疫情造成的傷害
+{\rE}in an attempt to contain the Lamanla outbreak.
+
+118
+00:17:56,570 --> 00:18:03,570
+國家已經把醫療救助級別和緊急程度設為最高
+{\rE}We have declared a state of emergency.
+
+119
+00:18:11,590 --> 00:18:13,590
+哎 哥們
+{\rE}Hey, brother
+
+120
+00:18:13,620 --> 00:18:15,620
+少三張
+{\rE}You shorted me 300 bucks.
+
+121
+00:18:16,540 --> 00:18:18,540
+輕點兒
+{\rE}Be careful with that.
+
+122
+00:18:20,560 --> 00:18:22,560
+大家都是中國人
+{\rE}Look, we're both Chinese.
+
+123
+00:18:22,590 --> 00:18:24,590
+這樣好麼?
+{\rE}You do this to your own people?
+
+124
+00:18:24,610 --> 00:18:27,510
+我從上個月14號下午三點開始
+{\rE}Since 3 pm on the 14th of last month,
+
+125
+00:18:27,540 --> 00:18:29,540
+就不是中國人了
+{\rE}I am no longer officailly Chinese.
+
+126
+00:18:31,560 --> 00:18:33,560
+怎麼著?剛從國內來啊?
+{\rE}What? Fresh off the boat?
+
+127
+00:18:37,580 --> 00:18:40,580
+看見了麼? 現在這局勢
+{\rE}Hear that? In times like this,
+
+128
+00:18:40,610 --> 00:18:42,610
+就是這個價
+{\rE}that's the price you get.
+
+129
+00:18:47,530 --> 00:18:49,530
+見過這個麼?
+{\rE}Seen this before?
+
+130
+00:18:52,560 --> 00:18:54,560
+沒見過
+{\rE}Nope
+
+131
+00:18:56,580 --> 00:18:58,580
+有人說在這個國家出現過
+{\rE}I've been told that it came from these parts.
+
+132
+00:19:00,500 --> 00:19:02,500
+我真沒見過
+{\rE}Definitely never seen it.
+
+133
+00:19:02,530 --> 00:19:04,530
+老闆
+{\rE}Hey boss.
+
+134
+00:19:05,550 --> 00:19:07,550
+你怎麼樣了?來根煙?
+{\rE}How are you? Smoking?
+
+135
+00:20:39,580 --> 00:20:41,580
+土豆
+{\rE}Tundu!
+
+136
+00:20:52,500 --> 00:20:54,500
+走 走
+{\rE}Go! Go!
+
+137
+00:21:00,520 --> 00:21:02,520
+別開槍
+{\rE}Don't shoot!
+
+138
+00:21:02,550 --> 00:21:04,550
+別開槍
+{\rE}Don't shoot!
+
+139
+00:21:04,570 --> 00:21:05,670
+- 別開槍 - 他們是好人
+{\rE}- Don't shoot! - Good people
+
+140
+00:21:05,700 --> 00:21:07,700
+過去 過去
+{\rE}Go, go, go!
+
+141
+00:21:14,720 --> 00:21:16,720
+想活的就給我趴下
+{\rE}Get the fuck down or you die!
+
+142
+00:21:16,740 --> 00:21:19,540
+- 紅巾軍必勝 - 你知道你在跟誰說話嗎
+{\rE}- Hail the revolution! - You're now talking to rebels!
+
+143
+00:21:19,570 --> 00:21:21,570
+不要騙我 你倒楣了
+{\rE}Don't lie to me. Your luck is down!
+
+144
+00:21:21,590 --> 00:21:23,590
+紅巾軍必勝
+{\rE}Hail the revolution!
+
+145
+00:21:26,520 --> 00:21:27,920
+不不不 快看
+{\rE}No, no, no Guys, look!
+
+146
+00:21:27,940 --> 00:21:29,940
+必勝
+{\rE}Revolution!
+
+147
+00:21:31,560 --> 00:21:33,560
+- 這他媽的是什麼? - 不不不
+{\rE}- What the fuck is this?! - No, no, no
+
+148
+00:21:33,590 --> 00:21:35,590
+他是政府軍的走狗
+{\rE}He's a pro-government rat!
+
+149
+00:21:35,610 --> 00:21:37,510
+- 不不不 - 你在騙我
+{\rE}- NO! - You lied to me!
+
+150
+00:21:37,540 --> 00:21:39,540
+不不不 紅巾軍必勝 紅巾軍必勝
+{\rE}No! Hail the rebels! Hail the rebels!
+
+151
+00:22:26,560 --> 00:22:28,560
+媽的
+{\rE}Shit!
+
+152
+00:22:35,580 --> 00:22:37,580
+土豆
+{\rE}Tundu!
+
+153
+00:22:48,510 --> 00:22:50,510
+- 中國大使館 - 去大使館
+{\rE}- Chinese embassy - Let's go to the Chinese embassy.
+
+154
+00:22:50,530 --> 00:22:52,530
+他們會收留我們的 我們是中國人
+{\rE}They'll take us in. We're Chinese.
+
+155
+00:22:54,560 --> 00:22:56,560
+那我們怎麼辦? 我們該怎麼辦?
+{\rE}What about us? What're we suppose to do?
+
+156
+00:22:56,580 --> 00:22:58,580
+- 他們會收留我們嗎?- 很難說
+{\rE}- Will they accept us? - Hard to say.
+
+157
+00:22:58,600 --> 00:23:01,500
+- 那是我們的國家 - 所有人跟我走
+{\rE}- That's our country. - Everybody follow me.
+
+158
+00:23:06,530 --> 00:23:08,530
+走
+{\rE}Go!
+
+159
+00:23:09,550 --> 00:23:11,550
+走
+{\rE}Go!
+
+160
+00:23:23,580 --> 00:23:25,580
+走
+{\rE}Go!
+
+161
+00:23:32,500 --> 00:23:34,500
+走
+{\rE}Go!
+
+162
+00:23:39,020 --> 00:23:41,020
+快走
+{\rE}Come on!
+
+163
+00:23:54,550 --> 00:23:56,550
+不
+{\rE}No!
+
+164
+00:23:58,070 --> 00:24:00,070
+這邊
+{\rE}Here
+
+165
+00:26:30,500 --> 00:26:33,500
+慢著 慢著 不不 中國人 中國人
+{\rE}Slow down! No, no! We're Chinese
+
+166
+00:26:33,520 --> 00:26:35,520
+- 快走 - 土豆
+{\rE}- Go, go! - Tundu!
+
+167
+00:26:35,540 --> 00:26:37,540
+走 走
+{\rE}Go, go, go!
+
+168
+00:26:38,570 --> 00:26:40,570
+走狗去死 紅巾軍必勝
+{\rE}Die! Scum! Hail the revolution!
+
+169
+00:26:40,590 --> 00:26:42,590
+走狗該死
+{\rE}Die! Scum!
+
+170
+00:26:44,520 --> 00:26:46,520
+去死
+{\rE}Die! Scum!
+
+171
+00:26:50,540 --> 00:26:52,540
+- 去死吧 - 把槍放下
+{\rE}- Die! - Lower your guns!
+
+172
+00:26:52,560 --> 00:26:54,560
+放下武器
+{\rE}Put down your weapons!
+
+173
+00:26:56,590 --> 00:26:58,590
+把槍放下 把槍放下
+{\rE}Lower your guns! Lower your guns!
+
+174
+00:27:02,510 --> 00:27:04,510
+大家暫停
+{\rE}Stand down!
+
+175
+00:27:04,540 --> 00:27:06,540
+我們是中國人
+{\rE}We are Chinese!
+
+176
+00:27:06,560 --> 00:27:08,560
+我們是中國人
+{\rE}We are Chinese!
+
+177
+00:27:09,580 --> 00:27:11,580
+中國和非洲都是朋友
+{\rE}China and Africa are friends!
+
+178
+00:27:20,510 --> 00:27:22,510
+走
+{\rE}Go
+
+179
+00:27:23,530 --> 00:27:25,530
+走 快走 走
+{\rE}Go, hurry. Go.
+
+180
+00:27:25,560 --> 00:27:27,560
+走
+{\rE}Go.
+
+181
+00:27:29,580 --> 00:27:31,580
+撤
+{\rE}Fall back!
+
+182
+00:27:36,500 --> 00:27:38,500
+幫忙
+{\rE}Help! Help!
+
+183
+00:29:03,050 --> 00:29:07,050
+首長 他國戰艦已經全部駛離戰鬥區
+{\rE}Commander, all foreign vessels are leaving the war zone.
+
+184
+00:29:07,080 --> 00:29:10,080
+前方很危險 我們還要繼續進港嗎?
+{\rE}The harbor is unsafe. Are you certain about docking?
+
+185
+00:29:13,000 --> 00:29:15,000
+前進十
+{\rE}Forward 10 knots.
+
+186
+00:29:15,020 --> 00:29:17,020
+航向270
+{\rE}Set course bearing for 270.
+
+187
+00:29:30,050 --> 00:29:32,050
+開閘門
+{\rE}Open the gate!
+
+188
+00:29:50,070 --> 00:29:53,070
+老樊 辛苦了 你們海軍來的太及時了
+{\rE}Well done, you got here just in time
+
+189
+00:29:53,100 --> 00:29:56,000
+- 現在局勢怎麼樣?- 這個國家的叛亂完全爆發了
+{\rE}- What's the situation? - The entire country's in chaos.
+
+190
+00:29:56,020 --> 00:29:59,020
+我們僑民的生命和財產受到嚴重危害
+{\rE}The war has destroyed lives of many of countrymen.
+
+191
+00:29:59,040 --> 00:30:02,040
+你們能不能派兵把他們保護出來
+{\rE}Can you send our troops in to help?
+
+192
+00:30:02,070 --> 00:30:04,070
+未經聯合國允許
+{\rE}Without the UN's authorization,
+
+193
+00:30:04,090 --> 00:30:06,090
+我方作戰人員是不能進入的
+{\rE}our troops aren't premitted  to enter the war zone.
+
+194
+00:30:08,480 --> 00:30:09,850
+您慢點 62號
+{\rE}OK, slow, No.62
+
+195
+00:30:10,020 --> 00:30:15,020
+來來來 往上走 好
+{\rE}Go go go, Up we go! Nice!
+
+196
+00:30:16,040 --> 00:30:18,040
+你哪的?這不能上
+{\rE}Where are from? He can't board.
+
+197
+00:30:18,060 --> 00:30:20,060
+我兒子
+{\rE}He's my son.
+
+198
+00:30:20,090 --> 00:30:22,090
+我們有票 看
+{\rE}We have tickets. See, look!
+
+199
+00:30:22,110 --> 00:30:24,110
+三張 79 80 81
+{\rE}Three tickets. 79, 80, 81.
+
+200
+00:30:26,040 --> 00:30:28,040
+好 79 89 30
+{\rE}Fine then. 79, 80, 81.
+
+201
+00:30:28,060 --> 00:30:30,060
+謝謝
+{\rE}Thank you.
+
+202
+00:30:31,080 --> 00:30:33,080
+我們去哪?
+{\rE}Where are we going?
+
+203
+00:30:33,110 --> 00:30:36,010
+總理先生 你聽我說
+{\rE}Mr. Prime Minister, please listen to me.
+
+204
+00:30:36,030 --> 00:30:39,030
+貴國發生這樣的事情 我很遺憾
+{\rE}I'm deeply sorry for what's happening in your country.
+
+205
+00:30:40,010 --> 00:30:43,010
+但是我相信 你也一定不會忘記
+{\rE}But I believe you have not forgotten about the help,
+
+206
+00:30:43,030 --> 00:30:45,030
+歷史上我國對貴國的援助之情
+{\rE}we provided to your country
+
+207
+00:30:45,050 --> 00:30:48,050
+我們兩國之間的友誼
+{\rE}and friendship between our countries
+
+208
+00:30:48,080 --> 00:30:50,080
+我相信你也知道
+{\rE}I believe you understand how important
+
+209
+00:30:50,100 --> 00:30:53,000
+我國援非的陳博士對非洲的重要性
+{\rE}our citizen Dr. Chen is to Africa.
+
+210
+00:30:53,030 --> 00:30:55,530
+請派兵保障陳博士的安全
+{\rE}Please send somebody to protect his safety.
+
+211
+00:30:55,550 --> 00:30:57,550
+對不起
+{\rE}I'm sorry,
+
+212
+00:30:57,570 --> 00:31:00,470
+- 你們現在只能靠自己了 - 總理先生
+{\rE}- you're on your own this time - Prime Minister
+
+213
+00:31:01,200 --> 00:31:03,200
+陳博士在哪?
+{\rE}Where's Dr. Chen?
+
+214
+00:31:05,220 --> 00:31:07,220
+我絕不會
+{\rE}I will never
+
+215
+00:31:07,250 --> 00:31:09,250
+告訴你的
+{\rE}tell you
+
+216
+00:31:15,270 --> 00:31:17,270
+我們走
+{\rE}Let's go!
+
+217
+00:31:19,290 --> 00:31:21,290
+十二年的臥薪嚐膽啊
+{\rE}12 years of hard work.
+
+218
+00:31:22,220 --> 00:31:25,220
+一朝戰亂 全他媽沒了
+{\rE}One war, and it's all fucking gone
+
+219
+00:31:27,540 --> 00:31:29,540
+這子彈...
+{\rE}The bullet...
+
+220
+00:31:29,570 --> 00:31:31,570
+有什麼故事麼?
+{\rE}what's the story?
+
+221
+00:31:43,590 --> 00:31:45,590
+土豆
+{\rE}Tundu!
+
+222
+00:31:46,510 --> 00:31:48,510
+土豆 下了船就不能上船了啊
+{\rE}Tundu! If you get off, you can't get back on.
+
+223
+00:31:49,540 --> 00:31:51,540
+土豆 土豆
+{\rE}Tundu! Tundu!
+
+224
+00:31:51,560 --> 00:31:52,960
+- 站住 - 對不起 對不起
+{\rE}- Stop right there! - I'm sorry, I'm sorry
+
+225
+00:31:52,960 --> 00:31:54,560
+我要我媽媽
+{\rE}I want my mom!
+
+226
+00:31:54,590 --> 00:31:56,590
+我要我媽媽 我不要去中國
+{\rE}I want my mom, I don't want to go to China!
+
+227
+00:31:57,110 --> 00:31:59,010
+- 你看著我 - 我要我媽媽
+{\rE}- Look at me - I want my mom!
+
+228
+00:31:59,030 --> 00:32:01,030
+相信乾爹
+{\rE}I want my mom!
+
+229
+00:32:02,060 --> 00:32:04,060
+- 相信乾爹 - 兄弟
+{\rE}- Ok? I want my mom! - Hey brother
+
+230
+00:32:07,080 --> 00:32:09,080
+你怎麼也下來了?
+{\rE}What are you doing down here?
+
+231
+00:32:09,090 --> 00:32:11,990
+有一件事情我必須跟你說實話
+{\rE}There's something I have to tell you.
+
+232
+00:32:12,010 --> 00:32:14,010
+你戴的這個子彈...
+{\rE}That bullet...
+
+233
+00:32:15,030 --> 00:32:18,030
+我見過 這上面的花紋
+{\rE}I've seen it before. That pattern,
+
+234
+00:32:18,060 --> 00:32:21,060
+好像是反政府武裝那邊的一個什麼標記
+{\rE}is a symbol used by the rebel forces.
+
+235
+00:32:21,980 --> 00:32:23,980
+我有一個搞軍火的朋友跟我說
+{\rE}An arm dealer friend of mine told me
+
+236
+00:32:24,010 --> 00:32:27,010
+他們現在已經雇傭了歐洲價最高的雇傭兵
+{\rE}the rebels have hired the most expensive mercenaries out of Europe.
+
+237
+00:32:28,030 --> 00:32:30,030
+我不管你跟他們有什麼恩怨
+{\rE}Whatever grudge you've got against them,
+
+238
+00:32:30,050 --> 00:32:32,050
+我勸你一句
+{\rE}I urge you,
+
+239
+00:32:32,080 --> 00:32:34,080
+- 別去送死 - 桑庫加鎮的華資工廠
+{\rE}- don't go seeking death. - 47 Chinese workers!
+
+240
+00:32:34,100 --> 00:32:36,100
+還有四十七名中國員工
+{\rE}are still stuck at the Hanbond Chinese factory
+
+241
+00:32:36,130 --> 00:32:39,030
+更可怕的是五十五公里外
+{\rE}What's worse, Dr, Chen is stuck 55 km
+
+242
+00:32:39,050 --> 00:32:40,450
+還有援非小組的陳博士
+{\rE}behind enemy lines on a medical relief mission
+
+243
+00:32:40,450 --> 00:32:43,050
+他可是恐怖分子的頭號目標
+{\rE}He's a high value target for the rebel army.
+
+244
+00:32:43,080 --> 00:32:45,080
+從洛奇諾到聖佛蘭已經全面封鎖
+{\rE}Everything is in total lockdown from Lochino to St. Francis.
+
+245
+00:32:46,000 --> 00:32:48,000
+沒有聯合國的允許
+{\rE}Without UN's authorization,
+
+246
+00:32:48,020 --> 00:32:50,020
+我方作戰人員禁止進入交戰區
+{\rE}my troops aren't allowed to enter the war zone.
+
+247
+00:32:50,050 --> 00:32:52,050
+這次撤僑行動 事關重大
+{\rE}This operation is highly important!
+
+248
+00:32:52,070 --> 00:32:54,070
+我們必須讓所有的中國員工
+{\rE}We have to evacuate those Chinese workers!
+
+249
+00:32:54,100 --> 00:32:56,000
+還有陳博士安全撤離
+{\rE}and Dr. Chen by all means!
+
+250
+00:32:56,020 --> 00:32:59,020
+在目前情況下 作戰人員禁止進入交戰區
+{\rE}Under current circumstances, combat troops are prohibited from entering the warzone!
+
+251
+00:32:59,040 --> 00:33:01,040
+但我們要堅決完成撤僑
+{\rE}In order to complete the evacuation,
+
+252
+00:33:01,070 --> 00:33:03,070
+必須要一個人單獨完成任務
+{\rE}someone has to undertake the mission alone!
+
+253
+00:33:03,090 --> 00:33:05,090
+- 我去 - 站住
+{\rE}- I'll go. - Stop right there!
+
+254
+00:33:05,120 --> 00:33:07,120
+幹什麼的
+{\rE}What's your purpose?
+
+255
+00:33:08,040 --> 00:33:11,040
+原中國人民解放軍東南軍區
+{\rE}Former PLA, South-east region,
+
+256
+00:33:11,060 --> 00:33:13,060
+特種作戰旅 戰狼中隊
+{\rE}Specail Ops Brigade,  Wolf Warrior squadron,
+
+257
+00:33:13,990 --> 00:33:15,990
+冷鋒
+{\rE}Leng Feng.
+
+258
+00:33:16,010 --> 00:33:18,010
+這孩子的媽媽就在那家華資工廠
+{\rE}This child's mother is  at Hanbond Chinese factory.
+
+259
+00:33:18,040 --> 00:33:20,040
+我大概知道那裡的位置
+{\rE}I know approximately where it is located.
+
+260
+00:33:26,060 --> 00:33:28,060
+我保證
+{\rE}I promise you,
+
+261
+00:33:28,080 --> 00:33:30,980
+我會帶你媽媽回來的
+{\rE}I will bring your mom back.
+
+262
+00:33:37,010 --> 00:33:39,010
+我們已經替你搞定了
+{\rE}We took care of business now, didn't we?
+
+263
+00:33:39,030 --> 00:33:41,030
+外交部的湯特使 安德拉親王 德魯王子
+{\rE}Ambassador Thomas, King Angola, Prince Drew.
+
+264
+00:33:42,060 --> 00:33:44,060
+該死的通訊部經理
+{\rE}That goddamn communications manager.
+
+265
+00:33:44,980 --> 00:33:46,980
+他們都消失了
+{\rE}They're all gone. They all disappeared,
+
+266
+00:33:47,000 --> 00:33:49,000
+神秘的失蹤
+{\rE}real mysterously!
+
+267
+00:33:49,030 --> 00:33:52,030
+不要用這些破事糊弄我
+{\rE}Stop wasting my time with that crap!
+
+268
+00:33:52,050 --> 00:33:54,050
+陳博士在哪兒?
+{\rE}Where's Dr. Chen?
+
+269
+00:33:54,980 --> 00:33:56,980
+啊 天呐
+{\rE}Ah, Jesus.
+
+270
+00:34:13,000 --> 00:34:15,000
+告訴他 你剛對我說的
+{\rE}You tell him what you told me.
+
+271
+00:34:15,020 --> 00:34:17,020
+陳博士
+{\rE}Dr. Chen
+
+272
+00:34:17,050 --> 00:34:21,050
+在聖佛蘭華資醫院
+{\rE}is at St. Francis Chinese-invested hospital.
+
+273
+00:34:21,070 --> 00:34:23,070
+乖孩子
+{\rE}Good boy.
+
+274
+00:34:31,000 --> 00:34:33,000
+聽到了麼?
+{\rE}Did you hear that?
+
+275
+00:34:33,020 --> 00:34:35,020
+那也有可能是你的下場
+{\rE}That could be sound of the future.
+
+276
+00:34:43,040 --> 00:34:47,040
+我們為什麼要收紅巾軍那幫蠢貨的錢?
+{\rE}Sir, Why are we helping these fucking idiots?
+
+277
+00:34:47,070 --> 00:34:49,070
+歡迎來到非洲 小子
+{\rE}Welcome to Africa, son.
+
+278
+00:34:49,990 --> 00:34:51,990
+夥計們出發
+{\rE}Alrights, let's move out boys!
+
+279
+00:35:11,040 --> 00:35:13,040
+我們得到最新消息
+{\rE}From the latest report,
+
+280
+00:35:13,060 --> 00:35:15,060
+戰火已經蔓延到桑薩雷姆港口
+{\rE}the fighting is reaching Semshalemu harbour.
+
+281
+00:35:15,090 --> 00:35:18,990
+那裡等待救援的一千五百三十六名中國同胞的生命
+{\rE}The urgency of the evacuating 1536 Chinese nationals wating there
+
+282
+00:35:19,010 --> 00:35:21,010
+變得危在旦夕
+{\rE}has just been escalated.
+
+283
+00:35:21,040 --> 00:35:23,040
+撤僑軍艦必須全速趕往
+{\rE}Our vessels are heading over at top speed.
+
+284
+00:35:23,060 --> 00:35:26,060
+很抱歉 因為是別國交戰區
+{\rE}My apologies, because the conflict is on foreign soil,
+
+285
+00:35:26,080 --> 00:35:28,080
+你這次的行動沒有支援
+{\rE}you'll have no reinforcements,
+
+286
+00:35:28,110 --> 00:35:30,110
+沒有盟軍 也沒有武器
+{\rE}no allies and no weapons.
+
+287
+00:35:30,130 --> 00:35:33,030
+陳博士 還有四十七名中國同胞
+{\rE}Dr. Chen and 47 Chinese workers,
+
+288
+00:35:33,060 --> 00:35:35,060
+都帶回來
+{\rE}evacuate them all.
+
+289
+00:36:09,950 --> 00:36:12,050
+我老闆交代我
+{\rE}My boss asked me
+
+290
+00:36:12,080 --> 00:36:14,080
+找陳博士
+{\rE}to find Dr. Chen.
+
+291
+00:36:14,100 --> 00:36:17,000
+你們沒人有任何反應
+{\rE}Nobody wants to do something!
+
+292
+00:36:17,020 --> 00:36:20,020
+現在 那我只能試試運氣了
+{\rE}Now, I have to try my luck.
+
+293
+00:36:20,050 --> 00:36:22,050
+因為
+{\rE}Because
+
+294
+00:36:22,070 --> 00:36:24,070
+我有
+{\rE}I have
+
+295
+00:36:24,100 --> 00:36:26,100
+特殊的眼力
+{\rE}a special vision.
+
+296
+00:36:27,020 --> 00:36:29,020
+我猜猜...
+{\rE}Let me guess...
+
+297
+00:36:54,070 --> 00:36:56,070
+你是陳博士嗎?
+{\rE}Are you Dr. Chen?
+
+298
+00:36:56,090 --> 00:36:58,990
+- 我不是 我不是 - 你是陳博士嗎?
+{\rE}- I'm not! I'm not! - Are you Dr. Chen?
+
+299
+00:37:00,020 --> 00:37:02,020
+- 你是陳博士嗎?- 不不不
+{\rE}- Are you Dr. Chen? - No, no, no.
+
+300
+00:37:02,040 --> 00:37:04,040
+你嚇到她了 她還是個孩子
+{\rE}She's a child, just a child
+
+301
+00:37:04,060 --> 00:37:06,060
+- 我是 - 不
+{\rE}- I am - No
+
+302
+00:37:08,990 --> 00:37:10,990
+不要
+{\rE}No
+
+303
+00:37:14,010 --> 00:37:16,010
+我是陳博士
+{\rE}I'm Dr. Chen.
+
+304
+00:37:23,040 --> 00:37:25,040
+你是陳博士?
+{\rE}You are Dr. Chen?
+
+305
+00:37:25,060 --> 00:37:28,060
+陳博士怎麼沒蛋蛋了
+{\rE}Looks like Dr. Chen doesn't have balls.
+
+306
+00:37:28,980 --> 00:37:30,980
+你想要什麼?
+{\rE}What do you want?
+
+307
+00:37:31,010 --> 00:37:33,010
+- 我就是 - 瑞秋醫生 不
+{\rE}- I am Dr. Chen. - Dr. Rachel, no!
+
+308
+00:37:35,030 --> 00:37:37,030
+她不是陳博士
+{\rE}She's not Dr. Chen.
+
+309
+00:37:37,060 --> 00:37:39,060
+她是非常好的醫生
+{\rE}She's a very good doctor.
+
+310
+00:37:39,080 --> 00:37:41,080
+她救過很多人
+{\rE}She saved so many lives.
+
+311
+00:37:42,000 --> 00:37:44,000
+天啊 不要
+{\rE}No!
+
+312
+00:37:52,030 --> 00:37:54,030
+陳博士
+{\rE}Dr. Chen!
+
+313
+00:37:54,050 --> 00:37:56,050
+爸爸
+{\rE}Papa!
+
+314
+00:37:57,980 --> 00:37:59,980
+你剛殺了
+{\rE}You just killed
+
+315
+00:38:00,000 --> 00:38:01,000
+陳博士
+{\rE}Dr. Chen.
+
+316
+00:38:03,050 --> 00:38:05,050
+- 爸爸 - 陳博士
+{\rE}- Papa! - Dr. Chen!
+
+317
+00:39:43,070 --> 00:39:45,070
+陳博士是吧?
+{\rE}Dr. Chen, right?
+
+318
+00:39:45,100 --> 00:39:47,100
+我是樊大使派來救你們的
+{\rE}I was sent by Ambassador Fan to rescue you.
+
+319
+00:39:50,020 --> 00:39:52,020
+這是我的女兒帕莎
+{\rE}This is my daughter, Pasha.
+
+320
+00:39:52,040 --> 00:39:54,040
+求你務必保護好她
+{\rE}Please, I beg you, protect her.
+
+321
+00:40:00,070 --> 00:40:02,070
+陳博士
+{\rE}Dr. Chen!
+
+322
+00:40:02,990 --> 00:40:04,990
+跟我走
+{\rE}Come with me!
+
+323
+00:40:05,020 --> 00:40:07,020
+上車
+{\rE}Get in the car!
+
+324
+00:40:32,040 --> 00:40:34,040
+向東走
+{\rE}Go east!
+
+325
+00:40:40,060 --> 00:40:42,060
+你想幹嘛?
+{\rE}What are you doing?
+
+326
+00:40:42,090 --> 00:40:44,990
+你以為我在幹嘛?我在救你小命
+{\rE}What do you think I'm doing? I'm saving your ass!
+
+327
+00:40:57,010 --> 00:40:59,010
+我來開車
+{\rE}Let me drive!
+
+328
+00:40:59,040 --> 00:41:01,040
+讓開
+{\rE}Move!
+
+329
+00:41:54,060 --> 00:41:56,060
+媽了
+{\rE}What the hell!
+
+330
+00:41:56,980 --> 00:41:58,980
+掉頭
+{\rE}Turn around!
+
+331
+00:42:00,010 --> 00:42:02,010
+快快快
+{\rE}Go, go, go!
+
+332
+00:42:33,030 --> 00:42:35,030
+神經
+{\rE}Jesus.
+
+333
+00:43:16,060 --> 00:43:18,060
+帕莎
+{\rE}Pasha!
+
+334
+00:44:31,980 --> 00:44:33,980
+你沒事吧?
+{\rE}Are you okay?
+
+335
+00:44:34,000 --> 00:44:36,000
+你沒事吧?
+{\rE}Are you okay?
+
+336
+00:44:36,030 --> 00:44:38,030
+你沒事吧?
+{\rE}Are you okay?
+
+337
+00:44:48,050 --> 00:44:50,050
+你沒事吧?
+{\rE}Are you okay?
+
+338
+00:44:52,980 --> 00:44:54,980
+你沒事吧?
+{\rE}Are you okay?
+
+339
+00:44:55,000 --> 00:44:57,000
+沒事
+{\rE}Yeah.
+
+340
+00:44:57,020 --> 00:45:02,020
+帕莎
+{\rE}Pasha.
+
+341
+00:45:07,050 --> 00:45:09,050
+站住
+{\rE}Stop!
+
+342
+00:45:10,070 --> 00:45:12,070
+站住
+{\rE}Stop!
+
+343
+00:45:23,000 --> 00:45:25,000
+你們要糧食嗎?我們有糧食
+{\rE}You want food? We have food.
+
+344
+00:45:26,020 --> 00:45:28,020
+我們有糧食
+{\rE}We have food, okay?
+
+345
+00:45:28,040 --> 00:45:30,040
+我們有糧食
+{\rE}We have food.
+
+346
+00:46:00,070 --> 00:46:02,070
+你沒事吧
+{\rE}Are you okay?
+
+347
+00:46:19,990 --> 00:46:21,990
+謝謝
+{\rE}Thank you.
+
+348
+00:46:27,020 --> 00:46:29,020
+是隔離區受的傷嗎?
+{\rE}Is that from quarantine zone?
+
+349
+00:46:30,040 --> 00:46:31,940
+把藥箱遞給我
+{\rE}Pasha, can you please hand me the bag?
+
+350
+00:46:32,000 --> 00:46:34,200
+我說是隔離區受的傷嗎?
+{\rE}I said, did you get that in the quarantine zone?
+
+351
+00:46:38,020 --> 00:46:40,020
+- 沒關係 - 你別覺得我大驚小怪啊
+{\rE}- It's nothing. - I'm not overreacting.
+
+352
+00:46:41,040 --> 00:46:43,040
+沒有狀況最好
+{\rE}In fact, it's better if I was.
+
+353
+00:46:43,070 --> 00:46:46,070
+剛才那些人感染的是拉曼拉病毒
+{\rE}Those people back there were infected with the Lamanla virus.
+
+354
+00:46:46,090 --> 00:46:48,090
+感染者很快就會出現發熱
+{\rE}Symptoms include the sudden onset fever,
+
+355
+00:46:48,120 --> 00:46:50,020
+幻覺 潰爛
+{\rE}hallucinations, lesions,
+
+356
+00:46:50,040 --> 00:46:55,040
+虛汗等症狀 是一種通過接觸傳播的非常罕見的烈性病毒
+{\rE}cold sweats. It's a fatal virus that's transmitted  through direct human contact.
+
+357
+00:46:55,060 --> 00:46:58,060
+從發病到死亡 最長五個月 最短四個小時
+{\rE}Upon contraction, death strikes between four hours and five months.
+
+358
+00:46:58,090 --> 00:47:01,990
+而且到現在 還沒有研製出能治癒這種病毒的疫苗
+{\rE}Up until now, no cure has been found.
+
+359
+00:47:02,010 --> 00:47:04,310
+沒事 我買醫保了
+{\rE}Don't worry, I'm insured.
+
+360
+00:47:24,040 --> 00:47:26,040
+你殺了中國人
+{\rE}You're killing the Chinese?
+
+361
+00:47:27,060 --> 00:47:29,060
+麻煩大了
+{\rE}This is a big trouble.
+
+362
+00:47:29,080 --> 00:47:31,080
+你為什麼殺中國人?
+{\rE}Why are you killing the Chinese?
+
+363
+00:47:34,010 --> 00:47:37,010
+- 頭兒... - 你一直想要得到陳博士
+{\rE}- Sir... - I thought you wanted Dr. Chen.
+
+364
+00:47:39,030 --> 00:47:42,030
+恭喜你 你得到他了
+{\rE}Congratulations. You found him.
+
+365
+00:47:45,080 --> 00:47:47,080
+媽的
+{\rE}Fuck!
+
+366
+00:47:47,100 --> 00:47:49,100
+我要的是活人
+{\rE}I wanted him alive!
+
+367
+00:47:49,130 --> 00:47:50,130
+活人
+{\rE}alive!
+
+368
+00:47:50,150 --> 00:47:54,050
+難道你不知道他對我有多重要嗎?
+{\rE}Don't you understand how important it is to me?
+
+369
+00:47:57,980 --> 00:47:59,980
+媽的
+{\rE}Fuck!
+
+370
+00:48:02,000 --> 00:48:04,000
+等等
+{\rE}Wait.
+
+371
+00:48:04,020 --> 00:48:06,020
+這個女孩
+{\rE}That girl.
+
+372
+00:48:07,050 --> 00:48:09,050
+我喜歡她
+{\rE}I like her.
+
+373
+00:48:09,070 --> 00:48:14,070
+頭兒 我們歐洲總部剛傳來面部識別結果
+{\rE}Sir, our facial recognition crew uploaded video of this man fighting off some of the pirates.
+
+374
+00:48:14,100 --> 00:48:16,000
+這人叫冷
+{\rE}His name's Leng.
+
+375
+00:48:16,020 --> 00:48:19,020
+曾供職於中國某神秘特種部隊
+{\rE}Ex-member of a secretive special ops unit pot of China.
+
+376
+00:48:19,040 --> 00:48:21,040
+戰狼
+{\rE}Wolf Warrior.
+
+377
+00:48:21,070 --> 00:48:23,070
+夥計們
+{\rE}Boys!
+
+378
+00:48:32,990 --> 00:48:34,990
+援非醫療小組已被武裝分子屠殺
+{\rE}The Doctors Without Borders were killed by armed mercenaries.
+
+379
+00:48:35,020 --> 00:48:38,020
+陳博士和其他中方醫護人員已經犧牲了
+{\rE}The lives of Dr. Cheng and other Chinese medical staff were scarificed.
+
+380
+00:48:38,040 --> 00:48:40,040
+冷鋒同志
+{\rE}Comrade Leng,
+
+381
+00:48:40,060 --> 00:48:42,060
+你能對你說的話負責嗎?
+{\rE}do you stand by what are you're saying?
+
+382
+00:48:42,090 --> 00:48:44,990
+你能確認親眼看見雇傭兵槍殺我國醫護人員和僑民嗎?
+{\rE}Are you certain you witnessed the massacre or our medical team?
+
+383
+00:48:45,010 --> 00:48:47,010
+我確定
+{\rE}I'm cetain.
+
+384
+00:48:47,040 --> 00:48:50,040
+在犧牲前 陳博士把他的女兒交給我
+{\rE}Dr. Chen give me his daughter before he died.
+
+385
+00:48:50,060 --> 00:48:52,060
+一個黑人小姑娘
+{\rE}An African girl.
+
+386
+00:48:52,080 --> 00:48:54,080
+叫帕莎 還有一個女護士
+{\rE}Her name is Pasha. Oh, and anurse too.
+
+387
+00:48:54,110 --> 00:48:56,010
+你叫什麼?
+{\rE}What's your name?
+
+388
+00:48:56,030 --> 00:48:58,030
+Rachel Prescott Smith 你可以叫我瑞秋
+{\rE}Rachel Prescott Smith. You can call me Rachel.
+
+389
+00:48:59,060 --> 00:49:01,060
+還有是瑞秋醫生 不是護士
+{\rE}Doctor Rachel, I'm not a nurse.
+
+390
+00:49:01,980 --> 00:49:03,980
+把所有情況立即向樊大使彙報
+{\rE}Report the situation to Ambassador Fan immediately.
+
+391
+00:49:04,000 --> 00:49:06,000
+是
+{\rE}Yes sir.
+
+392
+00:49:06,030 --> 00:49:08,030
+首長 我兒子呢?
+{\rE}Commander, may I speak to  my son please?
+
+393
+00:49:09,050 --> 00:49:12,050
+乾爹 我媽媽在哪?乾爹 我媽媽在哪?
+{\rE}Godfather, godfather! Where's my mom? Where's my mom?
+
+394
+00:49:12,080 --> 00:49:14,080
+土豆 相信乾爹
+{\rE}Hey, Tundu, Tundu! Trust me, Trust your godfather.
+
+395
+00:49:15,000 --> 00:49:17,000
+我現在正在開往漢邦工廠
+{\rE}We are going to Hanbond Chinese factoty
+
+396
+00:49:17,020 --> 00:49:19,020
+到那裡去接你媽媽 OK
+{\rE}to find your mom right now, okay?
+
+397
+00:49:20,050 --> 00:49:22,050
+謝謝乾爹
+{\rE}Thank you, godfather.
+
+398
+00:49:22,070 --> 00:49:24,070
+冷鋒 有一個非常不好的消息通知你
+{\rE}Leng, I have some bad news for you.
+
+399
+00:49:24,100 --> 00:49:27,000
+紅巾軍正在大肆毀壞重要的公路
+{\rE}The rebel army is sobotaging all major roads,
+
+400
+00:49:27,020 --> 00:49:29,020
+鐵路以及橋樑
+{\rE}railways and bridges.
+
+401
+00:49:29,040 --> 00:49:31,040
+就在十分鐘以前
+{\rE}As of 10 minutes ago,
+
+402
+00:49:31,070 --> 00:49:33,070
+從華資工廠通向碼頭的波爾尼加橋
+{\rE}your only route to the port, the Bowerneja bridge,
+
+403
+00:49:33,090 --> 00:49:36,990
+已被炸斷 我和樊大使正在全力想辦法
+{\rE}was bombed. We are formulating an escape plan now.
+
+404
+00:49:37,020 --> 00:49:40,020
+但現在只能靠你自己了
+{\rE}But untill then, you're on your own.
+
+405
+00:49:40,040 --> 00:49:44,040
+從現在開始 我們最多只能等你十八小時
+{\rE}Set your watch. The macimum time we can wait is 18 hours.
+
+406
+00:49:44,060 --> 00:49:46,060
+然後軍艦就必須返航
+{\rE}After that, we'll be forced to leave.
+
+407
+00:49:46,090 --> 00:49:47,990
+非常非常抱歉
+{\rE}my deepest apologies.
+
+408
+00:49:48,010 --> 00:49:50,010
+我必須對全體僑民負責
+{\rE}I have the responsibility to everyone onboard.
+
+409
+00:49:50,040 --> 00:49:52,040
+明白
+{\rE}I understand.
+
+410
+00:49:56,060 --> 00:49:58,060
+你要去華資工廠嗎?
+{\rE}You're going to the Chinese factory?
+
+411
+00:49:58,080 --> 00:50:00,080
+我認為我們更應該去美國領事館
+{\rE}We should go to the Ameriacn Consulate.
+
+412
+00:50:00,110 --> 00:50:03,010
+那裡有海軍陸戰隊 是全世界最安全的地方
+{\rE}The US marines are stationed there. That's our safest bet.
+
+413
+00:50:04,030 --> 00:50:06,030
+海軍陸戰隊是世界上最好的特種部隊
+{\rE}You think the US marines are the best in the world?
+
+414
+00:50:07,060 --> 00:50:09,060
+他們怎麼沒來接你啊?
+{\rE}That may be true, but where are they now?
+
+415
+00:50:09,980 --> 00:50:11,980
+我已經通知過他們了
+{\rE}I've informed the  consulate of the situation.
+
+416
+00:50:12,000 --> 00:50:14,000
+人呢?
+{\rE}Where are they?
+
+417
+00:50:14,010 --> 00:50:15,410
+你通知他們的方式是?
+{\rE}Tell me exactly how you informed them?
+
+418
+00:50:15,410 --> 00:50:18,010
+我@了他們的推特帳號
+{\rE}I tweeted at them on Twitter.
+
+419
+00:50:25,030 --> 00:50:27,030
+歡迎致電美國領事館
+{\rE}Welcome to American Consulate.
+
+420
+00:50:27,050 --> 00:50:29,050
+很不幸 我們已經閉館了
+{\rE}Unfortunately, we are closed.
+
+421
+00:50:29,080 --> 00:50:31,080
+媽的
+{\rE}Fuck!
+
+422
+00:50:34,000 --> 00:50:36,000
+我來的時候各國軍艦都已經撤離了
+{\rE}All foreign navy ships have left when I arrived.
+
+423
+00:50:37,030 --> 00:50:39,030
+當我站在碼頭上向海面眺望
+{\rE}A I watch them sail away from port.
+
+424
+00:50:40,050 --> 00:50:42,050
+無數遠去的桅杆中
+{\rE}Among the countless departing masts.
+
+425
+00:50:43,070 --> 00:50:45,070
+我看到一面星條旗
+{\rE}I saw one with the stars and stripes.
+
+426
+00:50:49,000 --> 00:50:51,000
+停車
+{\rE}Stop the car.
+
+427
+00:50:51,020 --> 00:50:53,020
+停車
+{\rE}Stop the car!
+
+428
+00:50:53,050 --> 00:50:55,050
+停車 我要下車 停
+{\rE}Stop the car, I want to get out! Stop!
+
+429
+00:51:11,070 --> 00:51:13,070
+瑞秋
+{\rE}Rachel.
+
+430
+00:51:28,990 --> 00:51:30,990
+海軍陸戰隊接你來了
+{\rE}Your GIs are here to get you.
+
+431
+00:52:55,040 --> 00:52:57,040
+我是中國人
+{\rE}I'm Chinese.
+
+432
+00:52:57,070 --> 00:52:59,070
+我來找內莎
+{\rE}I'm here for Nessa.
+
+433
+00:52:59,090 --> 00:53:01,090
+土豆的媽媽
+{\rE}Tundu's mom.
+
+434
+00:53:04,010 --> 00:53:06,010
+內莎
+{\rE}Nessa!
+
+435
+00:53:17,040 --> 00:53:19,040
+有人嗎?
+{\rE}Anyone home?
+
+436
+00:53:19,060 --> 00:53:21,060
+我是來救你們的
+{\rE}I've been sent here to rescue you.
+
+437
+00:53:21,090 --> 00:53:23,090
+是樊大使讓我來的
+{\rE}By Ambassador Fan himself.
+
+438
+00:53:26,710 --> 00:53:28,710
+你?
+{\rE}You?
+
+439
+00:53:28,730 --> 00:53:30,730
+救我們?
+{\rE}Rescue us?
+
+440
+00:53:39,760 --> 00:53:41,760
+我這有18杆 AK
+{\rE}I've got 18 AK-47s.
+
+441
+00:53:42,680 --> 00:53:44,680
+30枚79式手雷
+{\rE}30 M79 grenade launchers,
+
+442
+00:53:44,710 --> 00:53:47,710
+夠武裝一個加強排了吧?
+{\rE}enough to arm a platoon.
+
+443
+00:53:50,730 --> 00:53:53,730
+現在一把M1911抵在你頭上
+{\rE}I have a M1911 pointed at your head right now.
+
+444
+00:53:54,750 --> 00:53:56,750
+你他媽怎麼救我們啊?
+{\rE}How the fuck are you supposed  to rescue us?
+
+445
+00:53:56,780 --> 00:53:58,780
+冷 冷 你是不是冷?
+{\rE}Leng, Leng! Are you Leng?
+
+446
+00:53:58,800 --> 00:54:00,800
+你是不是冷
+{\rE}Are you Leng?
+
+447
+00:54:00,830 --> 00:54:02,730
+- 內莎?- 是 是
+{\rE}- Nessa? - Yes, yes, yes!
+
+448
+00:54:02,750 --> 00:54:04,750
+- 我兒子怎麼樣了?- 他很安全
+{\rE}- What about my son? - He's safe.
+
+449
+00:54:04,770 --> 00:54:06,770
+- 他沒事吧?- 他沒事
+{\rE}- He's okay? - He's okay.
+
+450
+00:54:08,700 --> 00:54:10,700
+謝天謝地
+{\rE}Oh, thank god!
+
+451
+00:54:12,720 --> 00:54:14,720
+他沒事
+{\rE}He's okay.
+
+452
+00:54:14,750 --> 00:54:16,750
+媽媽 我沒事
+{\rE}Mom, mom, I'm ok, I'm ok!
+
+453
+00:54:16,770 --> 00:54:19,770
+- 謝謝老天 - 媽 我沒事 你怎麼樣
+{\rE}- Oh, thank god! - Mom, I'm ok!
+
+454
+00:54:19,790 --> 00:54:22,690
+你在中國軍艦上
+{\rE}Because you're on a Chinese warship.
+
+455
+00:54:22,720 --> 00:54:25,720
+我早就告訴你不要賣毛片
+{\rE}I told you, not to sell that porn.
+
+456
+00:54:25,740 --> 00:54:28,740
+來了 在非洲絕對找不到這麼好吃的餃子
+{\rE}Here we go.You definitely won't find better dumplings in Africa.
+
+457
+00:54:28,770 --> 00:54:30,770
+這是我從中國帶來的大廚
+{\rE}I flew in a chef from China.
+
+458
+00:54:30,790 --> 00:54:32,790
+- 親自給你們做的 - 謝謝
+{\rE}- Fresh, just for you. - Thank you.
+
+459
+00:54:34,710 --> 00:54:36,710
+看什麼呢?見過嗎?
+{\rE}What are you looking at? Seen one before?
+
+460
+00:54:36,740 --> 00:54:38,740
+玩過這槍嗎?
+{\rE}Ever shot one of these?
+
+461
+00:54:38,760 --> 00:54:40,760
+這狼啊
+{\rE}This wolf here,
+
+462
+00:54:40,790 --> 00:54:42,790
+就是我用這槍打的
+{\rE}I killed myself with this gun.
+
+463
+00:54:43,710 --> 00:54:45,710
+這地圖誰做的?
+{\rE}Who drew this map?
+
+464
+00:54:45,730 --> 00:54:47,730
+這是我指導我們家保衛幹事老何做的
+{\rE}I instructed our head of security, Laohe, how to do it.
+
+465
+00:54:48,760 --> 00:54:50,760
+還有幾個地沒修改好
+{\rE}It still needs some work.
+
+466
+00:54:50,780 --> 00:54:52,780
+老何 來 過來一下
+{\rE}Laohe, come here for a second.
+
+467
+00:54:54,710 --> 00:54:56,710
+從A區到D區
+{\rE}Sector A to Sector D.
+
+468
+00:54:56,730 --> 00:54:58,730
+這個地我已經說過很多遍了
+{\rE}I've told you so many times.
+
+469
+00:54:59,750 --> 00:55:01,750
+為什麼沒有修改過來
+{\rE}Why isn't it done yet?
+
+470
+00:55:02,680 --> 00:55:04,680
+- 馬上就改 - 老何
+{\rE}- I'll get on it right away.  - Laohe,
+
+471
+00:55:04,700 --> 00:55:06,700
+趕緊拿筆記一下
+{\rE}write it down quickly.
+
+472
+00:55:06,730 --> 00:55:09,730
+你還保安隊長 這要是實施起來出了問題
+{\rE}As our head of security. What if something happens during the operation?
+
+473
+00:55:09,750 --> 00:55:11,750
+怎麼辦?
+{\rE}Then what?
+
+474
+00:55:15,770 --> 00:55:17,770
+男人就該玩這個
+{\rE}This is a real man's toy.
+
+475
+00:55:21,700 --> 00:55:24,700
+別怕 從現在開始你的安全
+{\rE}Don't be afraid. From now on, your safety
+
+476
+00:55:25,720 --> 00:55:27,720
+- 由我來負責 - 冷 謝謝你
+{\rE}- will be my responsibilty. - Leng, thank you!
+
+477
+00:55:27,750 --> 00:55:29,750
+- 別客氣 - 非常感謝
+{\rE}- You're welcome. - Thank you so much!
+
+478
+00:55:30,770 --> 00:55:32,770
+別客氣
+{\rE}You're welcome.
+
+479
+00:55:32,790 --> 00:55:34,790
+謝謝你
+{\rE}Thank you.
+
+480
+00:55:35,720 --> 00:55:37,720
+小寶貝 這個特別好吃
+{\rE}Hey, kiddo. It's super yummy
+
+481
+00:55:37,740 --> 00:55:39,740
+試一下
+{\rE}try this.
+
+482
+00:55:40,770 --> 00:55:42,770
+- 你這孩子 - 沒事 幹嘛呢你?
+{\rE}- Hey! You brat! - I'm fine. What's the big deal?
+
+483
+00:55:42,790 --> 00:55:44,790
+人這孩子挺可愛的
+{\rE}I think she's kind of cute.
+
+484
+00:55:45,710 --> 00:55:47,710
+好消息
+{\rE}Good news.
+
+485
+00:55:47,740 --> 00:55:49,740
+樊大使打來的電話 明天上午七點
+{\rE}Ambassador Fan just called. Tomorrow 07:00 AM,
+
+486
+00:55:49,760 --> 00:55:51,760
+聯合國一架救援直升機
+{\rE}A UN rescue helicopter
+
+487
+00:55:51,790 --> 00:55:53,790
+準時在工廠降落 幫助我們撤離
+{\rE}will be landing at this factory to evacuate us.
+
+488
+00:55:53,810 --> 00:55:55,810
+一架?
+{\rE}Just one?
+
+489
+00:55:59,730 --> 00:56:01,730
+各位請注意
+{\rE}Attention please.
+
+490
+00:56:01,760 --> 00:56:03,760
+所有人
+{\rE}Everybody.
+
+491
+00:56:03,780 --> 00:56:06,680
+所有人聽我說
+{\rE}Everybody listen to me.
+
+492
+00:56:07,710 --> 00:56:09,710
+大家都安靜
+{\rE}Quiet down everyone.
+
+493
+00:56:09,730 --> 00:56:14,730
+聽我說 所有中國人全都站到這一邊兒
+{\rE}Listen to me. All Chinese employees, stand on this side.
+
+494
+00:56:14,750 --> 00:56:18,750
+我們只帶中國人 第一批管理層優先
+{\rE}We are only taking Chinese people. Management goes first.
+
+495
+00:56:18,780 --> 00:56:20,680
+我帶大家走
+{\rE}I will lead the evacuation.
+
+496
+00:56:20,700 --> 00:56:25,700
+明白嗎?所有非洲人站在這邊
+{\rE}Is that clear? All the Africans please stand this side, please.
+
+497
+00:56:25,730 --> 00:56:27,730
+明白了嗎?
+{\rE}Clear?
+
+498
+00:56:27,750 --> 00:56:29,750
+哈裡
+{\rE}Harry.
+
+499
+00:56:29,770 --> 00:56:31,770
+- 不 老闆 - 拜託
+{\rE}- No, boss, no. - Please.
+
+500
+00:56:31,800 --> 00:56:33,700
+開始動起來
+{\rE}Come on, come on.
+
+501
+00:56:33,720 --> 00:56:35,720
+動起來
+{\rE}Get moving.
+
+502
+00:56:37,750 --> 00:56:40,750
+還有呢?都往那邊去 往那邊去
+{\rE}Anyone else? Come, move. That side. That side.
+
+503
+00:56:42,770 --> 00:56:44,770
+- 你怎麼回事啊?- 俺老婆她懷孕了
+{\rE}- What are you doing? - She's my wife. She's pregnant
+
+504
+00:56:44,800 --> 00:56:45,080
+你看看
+{\rE}Look
+
+505
+00:56:45,120 --> 00:56:46,790
+還有中國人嗎?
+{\rE}Any more Chinese?
+
+506
+00:56:47,720 --> 00:56:49,720
+還有中國人嗎?
+{\rE}Any other Chinese?
+
+507
+00:56:49,740 --> 00:56:51,740
+老林 你給我聽好了
+{\rE}Lin, listen to me.
+
+508
+00:56:51,770 --> 00:56:53,770
+都是我們家員工
+{\rE}Everyone here is my employee.
+
+509
+00:56:53,790 --> 00:56:55,790
+我都要帶走
+{\rE}I'm taking them all with me.
+
+510
+00:56:58,710 --> 00:57:00,710
+怎麼帶啊?
+{\rE}How?
+
+511
+00:57:03,740 --> 00:57:05,740
+別停下來 別停下來
+{\rE}Come on, come on! Don't stop, get moving.
+
+512
+00:57:05,760 --> 00:57:07,760
+這邊是
+{\rE}Get moving. For this side,
+
+513
+00:57:07,790 --> 00:57:09,690
+非洲同胞
+{\rE}Fellow African.
+
+514
+00:57:09,710 --> 00:57:11,710
+- 這邊是 中國人 - 我老婆嫁給我了
+{\rE}- Chinese people, this side. - She married me.
+
+515
+00:57:11,730 --> 00:57:13,730
+就是中國人 我要把她帶走
+{\rE}so she's is one of us.
+
+516
+00:57:13,760 --> 00:57:14,760
+走 走
+{\rE}Move, move.
+
+517
+00:57:14,780 --> 00:57:16,780
+你...
+{\rE}You...
+
+518
+00:57:18,710 --> 00:57:20,710
+沒事 你就站那吧 這兒挺好
+{\rE}Fine, stay there. There's perfect.
+
+519
+00:57:20,730 --> 00:57:23,730
+來來來 男士們動一動
+{\rE}Come on! Come on! Guys, guys please, please move.
+
+520
+00:57:23,750 --> 00:57:26,750
+請站到那邊
+{\rE}Stand that side, please.
+
+521
+00:57:26,780 --> 00:57:29,680
+非洲同胞們 拜託
+{\rE}Please, African friends.
+
+522
+00:57:29,700 --> 00:57:31,700
+相信我
+{\rE}Trust me.
+
+523
+00:57:31,000 --> 00:57:34,100
+{\an8}(唇語) 謝謝你 我兒子就拜託你了
+
+524
+00:57:36,600 --> 00:57:37,500
+{\an8}(唇語)求你了
+
+525
+00:57:36,730 --> 00:57:38,730
+來 快一點
+{\rE}Come on, hurry uo, get moving.
+
+526
+00:57:38,750 --> 00:57:40,750
+- 你滾開 你滾開 - 別碰我
+{\rE}- You want to be on this side, yeah? - Fuck off, bro!
+
+527
+00:57:41,770 --> 00:57:43,770
+幹嘛你?
+{\rE}What's up?
+
+528
+00:57:43,800 --> 00:57:45,800
+為什麼?
+{\rE}Why?
+
+529
+00:58:06,720 --> 00:58:08,720
+中間給我讓出一條線來
+{\rE}Give a line down the middle.
+
+530
+00:58:08,750 --> 00:58:11,750
+我要看清楚一道分界線
+{\rE}I want to see a clear boundary line.
+
+531
+00:58:11,770 --> 00:58:14,770
+讓我看見那條線
+{\rE}A line, please
+
+532
+00:58:19,690 --> 00:58:21,690
+飛機是我帶來的
+{\rE}I brought the helicopter.
+
+533
+00:58:22,720 --> 00:58:24,720
+大家聽我的
+{\rE}I call the shots.
+
+534
+00:58:25,740 --> 00:58:27,740
+明天大家一起走
+{\rE}Everyone leaves tomorrow.
+
+535
+00:58:27,770 --> 00:58:29,770
+婦女兒童上飛機
+{\rE}Children and women leave with the chopper.
+
+536
+00:58:29,790 --> 00:58:31,790
+男人跟我走
+{\rE}The men will follow me on foot.
+
+537
+00:58:36,710 --> 00:58:38,710
+所有人
+{\rE}Everybody.
+
+538
+00:58:40,740 --> 00:58:42,740
+我們一起走
+{\rE}We leave together.
+
+539
+00:59:11,760 --> 00:59:13,760
+老師傅 門口那口袋
+{\rE}Old timer, the defensive formation out front,
+
+540
+00:59:13,790 --> 00:59:15,790
+您布的吧?
+{\rE}that was you, right?
+
+541
+00:59:16,710 --> 00:59:18,710
+你也不錯
+{\rE}You're not bad yourself.
+
+542
+00:59:26,730 --> 00:59:29,730
+原中國人民解放軍 西南軍區十四集團軍
+{\rE}Former People's Liberation Army of China, 14th Corps, South-West region,
+
+543
+00:59:29,760 --> 00:59:31,760
+偵察連連長 何建國
+{\rE}Recon Company Commander, He JianGuo.
+
+544
+00:59:32,680 --> 00:59:34,680
+原中國人民解放軍 東南軍區特種作戰旅
+{\rE}Former People's Liberation Army, Special Ops Birgade, South-East region,
+
+545
+00:59:34,710 --> 00:59:36,710
+戰狼中隊 冷鋒
+{\rE}Wolf Warrior Squadron, Leng Feng.
+
+546
+00:59:36,730 --> 00:59:38,730
+班長好
+{\rE}At your service.
+
+547
+00:59:41,750 --> 00:59:43,750
+敬班長
+{\rE}Drink in your honor.
+
+548
+00:59:55,680 --> 00:59:57,680
+這些人一小時前
+{\rE}An hour ago, these people
+
+549
+00:59:57,700 --> 00:59:59,700
+還不知道能不能活到明天
+{\rE}didn't know if they'd live to see tomorrow.
+
+550
+00:59:59,730 --> 01:00:01,730
+- 怎麼那麼開心啊?- 這幫黑哥們
+{\rE}- Why are they so happy? - Our African friends,
+
+551
+01:00:01,750 --> 01:00:03,750
+無論什麼戰爭啊
+{\rE}it doesn't matter if it's war,
+
+552
+01:00:03,770 --> 01:00:05,770
+瘟疫啊 貧窮啊
+{\rE}disease or poverty,
+
+553
+01:00:05,800 --> 01:00:08,700
+你只要給他們一堆火 他們立刻就這樣
+{\rE}once they're around the bonfire, all their cares go away.
+
+554
+01:00:10,720 --> 01:00:12,720
+非洲啊 吃的好
+{\rE}Africa. Great food.
+
+555
+01:00:13,750 --> 01:00:15,750
+景好
+{\rE}Nice scenery.
+
+556
+01:00:16,770 --> 01:00:18,770
+妞嘚
+{\rE}Hot women.
+
+557
+01:00:53,690 --> 01:00:55,690
+嘿
+{\rE}Hey.
+
+558
+01:00:55,720 --> 01:00:57,720
+- 乾杯 - 乾杯
+{\rE}- Cheers. - Cheers.
+
+559
+01:01:02,740 --> 01:01:04,740
+我不願意一輩子活在我爸的光環之下
+{\rE}I don't want to ride my father's coat tail all my life.
+
+560
+01:01:05,770 --> 01:01:07,770
+你看看這多好啊
+{\rE}I love this place!
+
+561
+01:01:07,790 --> 01:01:09,690
+有獅子有鱷魚
+{\rE}Lions, crocodiles,
+
+562
+01:01:09,710 --> 01:01:11,710
+有AK 有狙
+{\rE}AK-47s, sniper rifles,
+
+563
+01:01:11,740 --> 01:01:14,740
+有和平地帶一輩子都聽不到的炮火之聲
+{\rE}and the melody of gunfire you can't get in a peaceful country.
+
+564
+01:01:17,760 --> 01:01:19,760
+那是這個世界上最美妙的聲音
+{\rE}That's the most wonderful  sound in the world.
+
+565
+01:01:20,690 --> 01:01:22,690
+你知道今天帕莎為什麼咬你嗎?
+{\rE}Do you want to know why Pasha bit you today?
+
+566
+01:01:24,710 --> 01:01:27,310
+因為他爸爸就是被你喜歡的AK打死的
+{\rE}Because her father was killed AK-47s you so adore.
+
+567
+01:01:31,730 --> 01:01:33,730
+如果這個是你
+{\rE}If this were you,
+
+568
+01:01:34,760 --> 01:01:37,760
+你還覺得美妙嗎?
+{\rE}would you still thinl it's wonderful??
+
+569
+01:01:59,680 --> 01:02:01,680
+天呐 你看
+{\rE}Oh man, look at this.
+
+570
+01:02:01,710 --> 01:02:03,710
+好大一個晚會
+{\rE}That's a big party.
+
+571
+01:02:14,730 --> 01:02:16,730
+我太喜歡了
+{\rE}I love these things.
+
+572
+01:02:16,750 --> 01:02:18,750
+瞧他們的樣子
+{\rE}Look at them.
+
+573
+01:02:47,680 --> 01:02:48,680
+媽的
+{\rE}Fuck!
+
+574
+01:02:48,700 --> 01:02:50,700
+帕莎
+{\rE}Pasha!
+
+575
+01:02:56,730 --> 01:02:58,730
+帕莎
+{\rE}Pasha!
+
+576
+01:03:15,750 --> 01:03:17,750
+媽的
+{\rE}Shit!
+
+577
+01:03:29,770 --> 01:03:31,770
+放開我
+{\rE}Let me go!
+
+578
+01:03:31,800 --> 01:03:34,700
+把那個老兵除掉 雅典娜幹掉那個老傢伙
+{\rE}Take out the veteran. Athena,take out the old man.
+
+579
+01:03:40,720 --> 01:03:42,720
+待在這兒
+{\rE}Stay here!
+
+580
+01:03:46,750 --> 01:03:48,750
+放開她
+{\rE}Let her go!
+
+581
+01:04:18,770 --> 01:04:20,770
+帕莎
+{\rE}Pasha!
+
+582
+01:04:23,690 --> 01:04:25,690
+不自量力
+{\rE}Like ants when you lift a rock.
+
+583
+01:04:32,520 --> 01:04:34,520
+媽的
+{\rE}Fuck!
+
+584
+01:04:52,740 --> 01:04:54,740
+救我
+{\rE}Help me!
+
+585
+01:04:54,770 --> 01:04:56,770
+我腿受傷了
+{\rE}They got my leg!
+
+586
+01:04:57,690 --> 01:04:59,690
+你沒事兒
+{\rE}You're fine.
+
+587
+01:05:07,710 --> 01:05:09,710
+媽的
+{\rE}Shit!
+
+588
+01:05:09,740 --> 01:05:11,740
+走
+{\rE}Go!
+
+589
+01:05:13,760 --> 01:05:15,760
+走 走
+{\rE}Go! Go!
+
+590
+01:06:11,690 --> 01:06:13,690
+換彈夾
+{\rE}I need a reload!
+
+591
+01:06:15,710 --> 01:06:17,710
+走
+{\rE}Go!
+
+592
+01:06:27,730 --> 01:06:29,730
+你想幹什麼?
+{\rE}What are you doing, man?
+
+593
+01:06:35,760 --> 01:06:37,760
+媽的
+{\rE}Fuck!
+
+594
+01:06:46,680 --> 01:06:48,680
+分頭走
+{\rE}Let's split up!
+
+595
+01:06:53,710 --> 01:06:55,710
+去 去
+{\rE}Go! Go!
+
+596
+01:06:59,730 --> 01:07:01,730
+媽的
+{\rE}Damn it.
+
+597
+01:07:04,750 --> 01:07:06,750
+- 來啊 - 快走
+{\rE}- Come on! - Let's go!
+
+598
+01:07:28,680 --> 01:07:30,680
+帕莎
+{\rE}Pasha.
+
+599
+01:07:31,700 --> 01:07:33,700
+帕莎 你在哪?
+{\rE}Pasha, where are you?
+
+600
+01:07:40,730 --> 01:07:45,230
+滾開 臭婆娘
+{\rE}Move out of the way, bitch!
+
+601
+01:07:50,750 --> 01:07:52,750
+快走
+{\rE}Run!
+
+602
+01:08:58,770 --> 01:09:00,770
+你已經不是軍人了
+{\rE}We know you're not a soldier anymore.
+
+603
+01:09:00,800 --> 01:09:03,700
+他媽的還那麼拼幹嘛?
+{\rE}What the fuck are you fighting for?
+
+604
+01:09:07,720 --> 01:09:09,720
+一朝是戰狼
+{\rE}Once a Wolf Warrior
+
+605
+01:09:09,750 --> 01:09:11,750
+終生是戰狼
+{\rE}always a Wolf Warrior!
+
+606
+01:09:31,770 --> 01:09:33,770
+大熊先鋒
+{\rE}Bear, you're on point.
+
+607
+01:09:33,790 --> 01:09:37,690
+雅典娜封住所有出口 這個混蛋我要定了
+{\rE}Athena, cover the exit. I want this son of a bitch.
+
+608
+01:10:15,720 --> 01:10:18,720
+C隊發現目標 正在追
+{\rE}Team Charlie, spotted target. We are in pursuit.
+
+609
+01:10:19,740 --> 01:10:22,740
+頭兒 B隊發現目標在前方
+{\rE}Sir, Team Bravo has target 12 o'clock.
+
+610
+01:11:16,770 --> 01:11:20,770
+媽的 這幫蠢貨現在讓我們撤退
+{\rE}What the fuck? Those idiots want us to retreat now?
+
+611
+01:11:35,690 --> 01:11:37,690
+我是奧杜將軍
+{\rE}This is General Actu
+
+612
+01:11:37,710 --> 01:11:39,710
+所有人馬上撤離
+{\rE}everyone return to base.
+
+613
+01:11:39,740 --> 01:11:41,740
+馬上撤離
+{\rE}Return to base.
+
+614
+01:11:44,760 --> 01:11:48,760
+老爹 我他媽命令你立即給我滾回來
+{\rE}Big Daddy, I'm ordering you to get the fuck back here now!
+
+615
+01:12:05,690 --> 01:12:07,690
+你他媽的在做什麼?
+{\rE}Hey! What the fuck are you doing?
+
+616
+01:12:07,710 --> 01:12:09,710
+我他媽的跟你說了多少遍?
+{\rE}I told you so many fucking times
+
+617
+01:12:09,730 --> 01:12:12,730
+我們不能殺中國人
+{\rE}that we cannot kill the Chinese!
+
+618
+01:12:13,760 --> 01:12:16,760
+中國是聯合國常任理事國之一
+{\rE}China is a permanent member of the UN Security Council.
+
+619
+01:12:17,680 --> 01:12:20,680
+我們奪取政權後還要得到中國的承認
+{\rE}And I need them on my side if I am to take political power.
+
+620
+01:12:20,710 --> 01:12:22,710
+你他媽個蠢貨
+{\rE}You fucking asshole!
+
+621
+01:12:30,730 --> 01:12:32,730
+殺掉冷 抓到帕莎
+{\rE}Kill Leng, and find Pasha,
+
+622
+01:12:32,750 --> 01:12:34,750
+你將會是這個國家的主人
+{\rE}and you'll be the king of this fucking country
+
+623
+01:12:37,680 --> 01:12:39,680
+遵命 主人
+{\rE}As you comment, sir!
+
+624
+01:12:48,700 --> 01:12:50,700
+- 等等 - 冷鋒
+{\rE}- Hold it! - Leng Feng!
+
+625
+01:12:54,730 --> 01:12:56,730
+你到底什麼人?
+{\rE}Who are you?
+
+626
+01:13:00,750 --> 01:13:02,750
+- 剛一起打完仗你幹嘛呢?- 凡哥
+{\rE}We just fought a battle together, what's your deal? - Brither Fan
+
+627
+01:13:03,770 --> 01:13:05,770
+咱們這本來很安全
+{\rE}we were pretty safe before he got here.
+
+628
+01:13:05,800 --> 01:13:07,800
+他一來了反叛軍就來了
+{\rE}Ever wonder why the rebels show up
+
+629
+01:13:07,820 --> 01:13:09,720
+你們不覺得很奇怪嗎?
+{\rE}after he got here?
+
+630
+01:13:09,750 --> 01:13:11,750
+他是我兒子的朋友
+{\rE}He's a friend of my son.
+
+631
+01:13:11,770 --> 01:13:13,770
+他是來接我的
+{\rE}He came here for me.
+
+632
+01:13:13,790 --> 01:13:16,690
+- 你之前見過他嗎?- 我孩子天天都提起他
+{\rE}- Have you met him before? - My son always talks about him.
+
+633
+01:13:17,720 --> 01:13:19,720
+那又怎樣?
+{\rE}So?
+
+634
+01:13:19,740 --> 01:13:23,740
+我相信他 他今天上午在醫院就救過我和帕莎
+{\rE}I trust him! He rescued Pasha and me earlier today at the hospital
+
+635
+01:13:23,770 --> 01:13:25,770
+之後他也一直在保護我們
+{\rE}He's been protecting us ever since.
+
+636
+01:13:25,790 --> 01:13:27,690
+如果我沒理解錯的話
+{\rE}Let me get this straight.
+
+637
+01:13:27,710 --> 01:13:30,710
+你見他的時候正是你的朋友陳博士死的時候
+{\rE}You met him the same time your doctor friend died?
+
+638
+01:13:30,740 --> 01:13:34,740
+他一出現就開始死人 而他自己卻什麼事都沒有
+{\rE}People are getting killed around him, while he's unscathed.
+
+639
+01:13:35,760 --> 01:13:37,760
+朋友 你自己說說吧?
+{\rE}Friend, speak for yourself.
+
+640
+01:13:39,690 --> 01:13:41,690
+別攔著我
+{\rE}get off me!
+
+641
+01:13:54,710 --> 01:13:56,710
+- 拉曼拉 - 拉曼拉?
+{\rE}- Lamanla (Virus). - Lamanla?
+
+642
+01:13:57,730 --> 01:13:59,730
+他得了拉曼拉
+{\rE}He has Lamanla!
+
+643
+01:14:02,760 --> 01:14:04,760
+老林 他是我朋友
+{\rE}Lin! He's my friend.
+
+644
+01:14:07,680 --> 01:14:09,680
+他剛才救了我的命
+{\rE}He just saved my life.
+
+645
+01:14:10,710 --> 01:14:12,710
+他 他們怎麼辦?
+{\rE}What about them?
+
+646
+01:14:13,730 --> 01:14:15,730
+他們怎麼辦 上個月
+{\rE}What about them? Last month,
+
+647
+01:14:15,750 --> 01:14:17,750
+十公里之外的通訊中心
+{\rE}The comms center10 km away,
+
+648
+01:14:17,780 --> 01:14:21,680
+一個人得了拉曼拉 最後全廠都他媽死絕了
+{\rE}one person got Lamanla. In the end, the whole place was wiped out.
+
+649
+01:14:21,700 --> 01:14:23,700
+這可是整廠人的性命啊
+{\rE}Everyone's life is at stake here.
+
+650
+01:14:24,730 --> 01:14:26,730
+我說的這些話並不是我一個人的意思
+{\rE}look , it is not just my opinion.
+
+651
+01:14:27,750 --> 01:14:29,750
+不信你可以問他們
+{\rE}Ask them yourself.
+
+652
+01:14:41,770 --> 01:14:43,770
+我走
+{\rE}I'll leave.
+
+653
+01:14:47,700 --> 01:14:49,700
+等等
+{\rE}Wait.
+
+654
+01:14:51,720 --> 01:14:54,720
+你們知道所有得了拉曼拉病毒的人都會很快死去
+{\rE}You all know what will happen to someone infected with Lamanla.
+
+655
+01:14:56,750 --> 01:14:58,750
+我希望你們永遠記得
+{\rE}I hope you'll always remember
+
+656
+01:14:59,770 --> 01:15:02,770
+這將死的人救了你們所有人
+{\rE}this dying man saved all of you.
+
+657
+01:15:02,790 --> 01:15:04,690
+你真可恥
+{\rE}Shame on you!
+
+658
+01:15:04,720 --> 01:15:06,720
+你們所有人都可恥
+{\rE}Shame on all of you!
+
+659
+01:15:58,770 --> 01:16:00,770
+冷鋒
+{\rE}Leng Feng!
+
+660
+01:16:00,790 --> 01:16:02,790
+冷鋒
+{\rE}Leng Feng!
+
+661
+01:16:02,810 --> 01:16:04,810
+冷鋒
+{\rE}Leng Feng!
+
+662
+01:16:36,740 --> 01:16:38,740
+- 你開槍有多大把握 - 百分之五十
+{\rE}- How confident are you with a gun? - So-50%
+
+663
+01:16:38,760 --> 01:16:41,760
+在我這兒沒有那百分之五十
+{\rE}There's no place in my team for so-50%.
+
+664
+01:16:43,690 --> 01:16:45,690
+您是想讓我酒後吐真言呐
+{\rE}Trying to get me drunk so I blurt out the truth?
+
+665
+01:16:45,710 --> 01:16:47,710
+你會吐真言嗎?
+{\rE}Will you blurt out the truth?
+
+666
+01:16:47,730 --> 01:16:49,730
+會
+{\rE}Certainly.
+
+667
+01:16:53,760 --> 01:16:55,760
+你喝醉了啥樣?
+{\rE}What are you like when you're drunk?
+
+668
+01:16:55,780 --> 01:16:57,780
+我等你回來請我喝酒
+{\rE}I'll let you buy me drinks when you come back.
+
+669
+01:17:03,710 --> 01:17:05,710
+你沒回來
+{\rE}You're the one who didn't come back.
+
+670
+01:17:09,730 --> 01:17:11,730
+你回來
+{\rE}Come back to bed.
+
+671
+01:17:11,750 --> 01:17:13,750
+別鬧
+{\rE}Cut it out.
+
+672
+01:17:22,680 --> 01:17:24,680
+希望我回來的時候
+{\rE}When I get back
+
+673
+01:17:24,700 --> 01:17:26,700
+你能在這個檔上簽字
+{\rE}this had better be signed.
+
+674
+01:17:40,730 --> 01:17:42,730
+沖上去被打死很容易
+{\rE}It's an easy death when you're on the attack.
+
+675
+01:17:44,750 --> 01:17:47,750
+難的是背負著內疚和使命感繼續活下去
+{\rE}but it's a hard life carrying a survivor's guilt.
+
+676
+01:17:56,770 --> 01:17:58,770
+是你沒回來
+{\rE}But you didn't come back.
+
+677
+01:17:59,700 --> 01:18:01,700
+你沒回來
+{\rE}It's you who didn't come back.
+
+678
+01:18:02,720 --> 01:18:04,720
+你沒回來
+{\rE}You didn't come back.
+
+679
+01:18:22,750 --> 01:18:24,750
+到底是誰?
+{\rE}Against who?
+
+680
+01:18:24,770 --> 01:18:26,770
+昨天跟我們交的手
+{\rE}Who were we fighting yesterday?
+
+681
+01:18:39,690 --> 01:18:41,690
+你媽媽沒告訴你
+{\rE}Didn't your mom tell you that
+
+682
+01:18:41,720 --> 01:18:43,720
+小孩子不要玩槍嗎?
+{\rE}you shouldn't play with a gun?
+
+683
+01:18:47,740 --> 01:18:49,740
+冷
+{\rE}Leng!
+
+684
+01:18:50,770 --> 01:18:52,770
+就是冷 就是他一個人
+{\rE}That was Leng, only him alone.
+
+685
+01:18:54,690 --> 01:18:56,690
+是我
+{\rE}It was me!
+
+686
+01:18:58,710 --> 01:19:01,710
+我在這工作之前是個軍人
+{\rE}I was in the military before I worked here.
+
+687
+01:19:01,740 --> 01:19:03,740
+你看看其他人
+{\rE}Does anyone here
+
+688
+01:19:03,760 --> 01:19:05,760
+像會開槍射擊的樣子嗎?
+{\rE}look like they can shoot?
+
+689
+01:19:05,790 --> 01:19:07,790
+好啊
+{\rE}Okay.
+
+690
+01:19:29,710 --> 01:19:31,710
+你醒了
+{\rE}You're up.
+
+691
+01:19:34,730 --> 01:19:37,730
+可惜陳博士沒有看到這一幕
+{\rE}It's a shame Dr. Chen didn't live to see this.
+
+692
+01:19:37,760 --> 01:19:40,760
+他是全世界唯一發現自愈活體的專家
+{\rE}He discovered the presence of self-healing properties in humans.
+
+693
+01:19:40,780 --> 01:19:44,680
+陳博士發現有極少數人體內有抵抗拉曼拉的抗體
+{\rE}In extreme rare cases, Lamanla antibodies can be found in patients.
+
+694
+01:19:44,710 --> 01:19:48,710
+在他無數次和拉曼拉患者的治療過程中
+{\rE}Among the thousands of Lamanla patients he treated
+
+695
+01:19:48,730 --> 01:19:50,730
+他偶然發現了一個自愈活體的實例
+{\rE}He chanced upon one such person
+
+696
+01:19:51,750 --> 01:19:53,750
+而這個自愈活體就是帕莎
+{\rE}And that person is Pasha.
+
+697
+01:19:54,680 --> 01:19:57,680
+她不是陳博士的女兒 是他的病人
+{\rE}So Pasha's not his daughter, but his patient.
+
+698
+01:19:57,700 --> 01:20:00,700
+陳博士通過對帕莎血液成分的分析和萃取
+{\rE}From the analysis of Pasha's blood
+
+699
+01:20:00,730 --> 01:20:03,730
+剛剛研製出一種新藥
+{\rE}he created an experimental vaccine.
+
+700
+01:20:03,750 --> 01:20:05,750
+昨天晚上因為情況緊急
+{\rE}Last night was a dire situation,
+
+701
+01:20:05,770 --> 01:20:08,770
+我只能在你身上做了一個陳博士曾經設想
+{\rE}so I experimented on you, what Dr. Chen was planning to do.
+
+702
+01:20:08,800 --> 01:20:11,700
+但是還沒來得及做的活體實驗
+{\rE}The first human trial that he was hoping for
+
+703
+01:20:11,720 --> 01:20:14,720
+我把陳博士的新藥注射到了你的身上
+{\rE}Injecting you with Dr. Chen's newly synthesized vaccine immunogens
+
+704
+01:20:15,750 --> 01:20:17,750
+說實話
+{\rE}Honestly speaking,
+
+705
+01:20:17,770 --> 01:20:19,770
+那個時候我真不知道會發生什麼
+{\rE}I didn't know what would happen.
+
+706
+01:20:22,690 --> 01:20:24,690
+幸運的是
+{\rE}Luckily
+
+707
+01:20:24,720 --> 01:20:26,720
+上帝站在我們這邊
+{\rE}God was on your side.
+
+708
+01:20:33,740 --> 01:20:38,740
+這個國家人民看到政府對病毒的無能為力極度失望
+{\rE}The population has lost faith in the government to contain the outbreak.
+
+709
+01:20:38,770 --> 01:20:40,770
+所以 誰得到帕莎
+{\rE}So, whoever takes Pasha
+
+710
+01:20:40,790 --> 01:20:42,690
+誰就能輕易的掌控這個國家
+{\rE}takes the country easily.
+
+711
+01:20:42,710 --> 01:20:45,710
+怪不得反政府軍一直在追殺我們
+{\rE}That explains why the rebel army is hot on our heels.
+
+712
+01:21:07,740 --> 01:21:10,740
+我爸爸說十萬年前人類走出非洲
+{\rE}My dad said man walked out of Africa 100.000 years ago.
+
+713
+01:21:10,760 --> 01:21:13,760
+非洲是現代文明的搖籃
+{\rE}Africa is the cradle of modern civilization.
+
+714
+01:21:13,790 --> 01:21:16,690
+可是當自詡文明的人們再次來到非洲
+{\rE}Yet when the "evolved, civilized" humans returned to this land,
+
+715
+01:21:16,710 --> 01:21:18,710
+帶來的卻是苦難
+{\rE}they brought along with them nothing but suffering,
+
+716
+01:21:18,730 --> 01:21:20,730
+奴役 疾病和戰爭
+{\rE}slavery, disease and war.
+
+717
+01:21:21,760 --> 01:21:25,760
+韓國人 冰島人 斯拉夫人
+{\rE}Koreans, Icelanders, Slavs,
+
+718
+01:21:25,780 --> 01:21:27,680
+美國人
+{\rE}Americans
+
+719
+01:21:27,710 --> 01:21:30,710
+那些是中國人 他們都是來自世界各地的
+{\rE}and over there are Chinese. People from all over the world,
+
+720
+01:21:30,730 --> 01:21:32,730
+像我爸爸一樣的人
+{\rE}people like my father.
+
+721
+01:21:33,750 --> 01:21:35,750
+為了非洲
+{\rE}For Africa
+
+722
+01:21:35,780 --> 01:21:38,680
+他們付出了自己的青春
+{\rE}they gave their best years.
+
+723
+01:21:38,700 --> 01:21:40,700
+到最後
+{\rE}In the end,
+
+724
+01:21:40,730 --> 01:21:43,730
+把自己永遠地留在這片土地
+{\rE}they got to remain here for eternity.
+
+725
+01:21:54,750 --> 01:21:56,750
+她叫什麼名字
+{\rE}What's her name?
+
+726
+01:21:56,770 --> 01:21:58,770
+嗯?
+{\rE}Huh?
+
+727
+01:21:58,800 --> 01:22:00,800
+那個你忘不了的人
+{\rE}The person you can't seem to forget.
+
+728
+01:22:04,720 --> 01:22:06,720
+龍小雲
+{\rE}Long XiaoYun.
+
+729
+01:22:09,750 --> 01:22:11,750
+她好幸運
+{\rE}She's lucky
+
+730
+01:22:12,770 --> 01:22:14,770
+有一個這麼愛她的男人
+{\rE}to have a man that loves her so much.
+
+731
+01:22:15,690 --> 01:22:17,690
+她為什麼沒有回來呢?
+{\rE}Why didn't she come back?
+
+732
+01:22:28,720 --> 01:22:30,720
+對不起
+{\rE}Sorry.
+
+733
+01:22:49,740 --> 01:22:52,740
+把他們當作餃子給我包起來 讓他們以為是安全的 明白嗎?
+{\rE}I want you to round 'em up like cattle. Make 'em feel safe. You understand me?
+
+734
+01:22:52,770 --> 01:22:54,770
+收到
+{\rE}Yes, sir.
+
+735
+01:23:04,690 --> 01:23:06,690
+東邊是山區
+{\rE}We got mountains to the west,
+
+736
+01:23:06,710 --> 01:23:10,710
+西邊是雨林 如果他夠聰明 就會來這等直升機
+{\rE}we got forests to the east. The only smart place for them to come is right here and wait for the rescue helicopter.
+
+737
+01:23:11,740 --> 01:23:13,740
+中國佬 你可別死
+{\rE}I sure hope these Chinese people don't die.
+
+738
+01:23:14,760 --> 01:23:16,760
+能救你的只有我了
+{\rE}I'm about the only thing that can save them right now.
+
+739
+01:23:22,690 --> 01:23:24,690
+全體集合
+{\rE}Round 'em up.
+
+740
+01:23:24,710 --> 01:23:27,710
+所有人準備出發 出發 出發 出發 出發
+{\rE}Everybody, let's go! Let's go! Move, move, move!
+
+741
+01:23:42,730 --> 01:23:44,730
+等我他媽出去了
+{\rE}Wait till I get out of here,
+
+742
+01:23:44,760 --> 01:23:46,760
+我他媽絕對不會放過這幫孫子
+{\rE}I'm going to settle the score with them.
+
+743
+01:23:47,680 --> 01:23:49,680
+凡哥
+{\rE}Brother Fan,
+
+744
+01:23:49,710 --> 01:23:51,710
+別他媽吹牛逼了
+{\rE}cut the fucking bullshit.
+
+745
+01:23:52,730 --> 01:23:54,730
+怎麼出去啊?
+{\rE}How are we going to get out?
+
+746
+01:23:55,750 --> 01:23:58,750
+再說了 您出去能幹什麼呀?
+{\rE}And besides, what are you planning to do?
+
+747
+01:23:58,780 --> 01:24:00,680
+您會什麼呀?
+{\rE}What can you even do?
+
+748
+01:24:00,700 --> 01:24:02,700
+凡哥
+{\rE}Brother Fan,
+
+749
+01:24:02,730 --> 01:24:04,730
+平時我們都讓著你
+{\rE}in normal times, everyone gives in to you.
+
+750
+01:24:05,750 --> 01:24:09,750
+打起仗來 沒人會讓著我們
+{\rE}In battle, no one will be giving in to us.
+
+751
+01:24:09,770 --> 01:24:11,770
+給我閉嘴
+{\rE}Shut the fuck up!
+
+752
+01:25:23,700 --> 01:25:25,700
+去死吧
+{\rE}Go to hell!
+
+753
+01:25:44,720 --> 01:25:46,720
+哥 撐得住嗎?
+{\rE}Brother, how are you holding up?
+
+754
+01:25:46,750 --> 01:25:48,750
+比以前差遠了
+{\rE}Not as well as back in the day.
+
+755
+01:25:53,770 --> 01:25:56,770
+你的手是用來救人的 不是用來殺人的
+{\rE}Your hands are for saving lives not taking lives.
+
+756
+01:26:14,690 --> 01:26:16,690
+這種仗戰狼會怎麼打
+{\rE}How would Wolf Warriors fight this battle?
+
+757
+01:27:00,720 --> 01:27:02,720
+走
+{\rE}Go!
+
+758
+01:27:05,740 --> 01:27:07,740
+走
+{\rE}Go!
+
+759
+01:28:27,770 --> 01:28:31,770
+你媽媽沒告訴你小孩子不要玩槍嗎?
+{\rE}Didn't your mom tell you not to play with weap?
+
+760
+01:28:37,690 --> 01:28:39,690
+你媽沒告訴你別欺負熊孩子嗎?
+{\rE}Didn't your mom tell you not to fuck with spoiled brats?
+
+761
+01:28:39,710 --> 01:28:41,710
+走啦
+{\rE}Let's go!
+
+762
+01:29:05,740 --> 01:29:07,740
+這就是雇傭軍與反叛軍屠殺我國僑民的證據
+{\rE}Here's evidence of the rebel  army killing our citizens.
+
+763
+01:29:07,760 --> 01:29:10,760
+收到 我們馬上把資料匯總
+{\rE}Transmission received. We will gather up all the information,
+
+764
+01:29:10,790 --> 01:29:12,790
+讓樊大使儘快遞交聯合國
+{\rE}and have Ambassador Fan submit it to the UN.
+
+765
+01:29:13,710 --> 01:29:14,710
+明白
+{\rE}Copy that.
+
+766
+01:29:14,730 --> 01:29:18,730
+另外 當地政府已經向我國正式請求軍事援助
+{\rE}oh and one more thing. The local government has critically requested for our military assistance
+
+767
+01:29:18,760 --> 01:29:21,760
+直升機馬上就到
+{\rE}The chopper will arrive shortly
+
+768
+01:29:21,780 --> 01:29:23,780
+- 我們等你回家 - 好
+{\rE}- We're waiting for you. - Copy that!
+
+769
+01:29:39,730 --> 01:29:43,730
+- 你趕緊上飛機 - 還有很多人需要我説明
+{\rE}- Get on the chopper - There're a lot of people here who still need me.
+
+770
+01:29:44,750 --> 01:29:46,750
+林志雄
+{\rE}Lin Zhi Xiong!
+
+771
+01:29:48,680 --> 01:29:52,680
+- 女人孩子都得上飛機 - 在這裡我不是女人我是醫生
+{\rE}- Women and childern must get on the chopper. - Right now I'm not a woman. I'm a doctor
+
+772
+01:29:52,700 --> 01:29:54,700
+論救援 我比你專業
+{\rE}The more professional than you when it comes to saving lives.
+
+773
+01:29:54,730 --> 01:29:56,730
+論保護人我比你專業
+{\rE}But I'm more professional than you in protecting lives!
+
+774
+01:29:57,750 --> 01:29:59,750
+帕莎 你準備好坐直升機了嗎?
+{\rE}Pasha, are you ready to get on the helicopter?
+
+775
+01:30:00,770 --> 01:30:02,770
+遞一些紗布給我
+{\rE}Can you pass me some gauze please?
+
+776
+01:30:04,700 --> 01:30:06,700
+快上直升機
+{\rE}Get on the helicopter.
+
+777
+01:30:06,720 --> 01:30:09,720
+你別給我添亂 好不好?
+{\rE}Don't be difficult, okay?
+
+778
+01:30:09,750 --> 01:30:12,750
+- 讓一下?- 讓什麼讓
+{\rE}- Excuse me? - Excuse you my ass!
+
+779
+01:30:48,770 --> 01:30:50,770
+發生什麼事了
+{\rE}Whoa, what was that?
+
+780
+01:30:52,690 --> 01:30:54,690
+求救 求救
+{\rE}Mayday! Mayday!
+
+781
+01:30:54,720 --> 01:30:56,720
+我們被襲擊 失去尾旋翼
+{\rE}Missile strike! Tail rotor lost!
+
+782
+01:30:56,740 --> 01:30:58,740
+我還能控制 硬著陸
+{\rE}I have control. Going down!
+
+783
+01:30:58,770 --> 01:31:00,770
+求救 求救
+{\rE}Mayday! Mayday!
+
+784
+01:31:02,690 --> 01:31:04,690
+準備迫降
+{\rE}Brace! Brace!
+
+785
+01:31:41,710 --> 01:31:43,710
+- 走 走 - 走
+{\rE}- Go! Go! - Go!
+
+786
+01:31:44,740 --> 01:31:46,740
+快跑
+{\rE}Run!
+
+787
+01:32:02,760 --> 01:32:04,760
+老庫房
+{\rE}To the bunker!
+
+788
+01:32:04,790 --> 01:32:06,790
+快
+{\rE}Hurry!
+
+789
+01:32:11,710 --> 01:32:13,710
+瑞秋
+{\rE}Rachel!
+
+790
+01:32:15,730 --> 01:32:17,730
+醒醒
+{\rE}Wake up!
+
+791
+01:32:21,760 --> 01:32:23,760
+醒醒
+{\rE}Come on! Come on!
+
+792
+01:32:39,680 --> 01:32:41,680
+瑞秋
+{\rE}Rachel!
+
+793
+01:32:52,710 --> 01:32:54,710
+去找老何
+{\rE}Go find LaoHe!
+
+794
+01:33:22,730 --> 01:33:24,730
+起來 快點
+{\rE}Get up! Come on!
+
+795
+01:33:30,750 --> 01:33:32,750
+媽的
+{\rE}Fuck!
+
+796
+01:33:33,680 --> 01:33:35,680
+快進老庫房
+{\rE}Get to the bunker!
+
+797
+01:33:59,700 --> 01:34:01,700
+走 快 走
+{\rE}Go! Quickly! Go!
+
+798
+01:34:01,730 --> 01:34:03,730
+走 快
+{\rE}Go! Quickly!
+
+799
+01:34:22,750 --> 01:34:24,750
+準備
+{\rE}Get ready!
+
+800
+01:34:35,770 --> 01:34:37,770
+開炮
+{\rE}Fire!
+
+801
+01:34:38,700 --> 01:34:40,700
+把那個傢伙幹掉
+{\rE}Kill that motherfucker!
+
+802
+01:34:42,720 --> 01:34:44,720
+裝彈
+{\rE}Reload!
+
+803
+01:34:49,750 --> 01:34:51,750
+我瞄不到
+{\rE}I can't aim.
+
+804
+01:34:51,770 --> 01:34:53,770
+- 這麼重 - 找死啊
+{\rE}- This thing's so heavy! - You wanna die!?
+
+805
+01:34:54,690 --> 01:34:56,690
+引信一碰 都得死
+{\rE}Trigger that fuse and it'll kill us all!
+
+806
+01:35:12,720 --> 01:35:14,720
+開炮
+{\rE}Fire!
+
+807
+01:35:58,740 --> 01:36:00,740
+哦 好極了
+{\rE}Oh, check it.
+
+808
+01:36:03,770 --> 01:36:05,770
+下三杠
+{\rE}Three clicks down.
+
+809
+01:36:13,690 --> 01:36:15,690
+發炮
+{\rE}Fire!
+
+810
+01:36:58,710 --> 01:37:00,710
+他們找到老庫房了
+{\rE}They found the bunker!
+
+811
+01:37:03,740 --> 01:37:05,740
+目標 左搖
+{\rE}I got it! I got it! To the left.
+
+812
+01:37:05,760 --> 01:37:07,760
+- 收到 - 裝彈
+{\rE}- Copy that. - Reload!
+
+813
+01:37:07,790 --> 01:37:09,790
+沒彈了
+{\rE}We're out!
+
+814
+01:37:19,710 --> 01:37:21,710
+抓穩了
+{\rE}Hang on!
+
+815
+01:37:28,730 --> 01:37:30,730
+開炮
+{\rE}Fire!
+
+816
+01:38:25,760 --> 01:38:27,760
+狗娘養的
+{\rE}Son of a bitch!
+
+817
+01:38:47,680 --> 01:38:50,680
+媽的 坦克啟動
+{\rE}Fuck! Move this fucking thing.
+
+818
+01:39:05,710 --> 01:39:07,710
+快點
+{\rE}Come on! Come on!
+
+819
+01:39:10,730 --> 01:39:12,730
+好
+{\rE}Good, good, good.
+
+820
+01:39:43,750 --> 01:39:45,750
+媽的
+{\rE}Fuck!
+
+821
+01:39:48,680 --> 01:39:51,680
+看來中國軍人沒有我想的那麼懦弱
+{\rE}I guess the Chinese military ain't as lame as I thought.
+
+822
+01:39:51,700 --> 01:39:53,700
+你丫少他媽廢話
+{\rE}Cut the crap.
+
+823
+01:40:00,730 --> 01:40:02,730
+走
+{\rE}Go!
+
+824
+01:40:02,750 --> 01:40:04,750
+走
+{\rE}Go!
+
+825
+01:40:29,770 --> 01:40:31,770
+快走
+{\rE}Hurry!
+
+826
+01:43:49,700 --> 01:43:51,700
+不要出來
+{\rE}Don't come out!
+
+827
+01:43:56,720 --> 01:43:58,720
+立即搜索信號 確定目標位置
+{\rE}Track the signals and verify targets positions!
+
+828
+01:44:24,750 --> 01:44:26,750
+乾爹
+{\rE}Godfather!
+
+829
+01:44:26,770 --> 01:44:30,770
+媽媽
+{\rE}Mom!
+
+830
+01:45:17,690 --> 01:45:20,690
+- 報告 手機位置鎖定 - 報告 目標鎖定
+{\rE}- Sir, we have triangulated on the phone's position! - Sir, targets locked on!
+
+831
+01:45:56,720 --> 01:45:59,720
+- 報告 我們得到上級命令 - 開火
+{\rE}- Sir, we recieved orders from COMMAND! - Fire!
+
+832
+01:48:14,740 --> 01:48:16,740
+現在是私人恩怨
+{\rE}Now it's personal.
+
+833
+01:48:20,770 --> 01:48:22,770
+龍小雲
+{\rE}Long XiaoYun.
+
+834
+01:48:29,690 --> 01:48:31,690
+那是你女人
+{\rE}Is that your girl?
+
+835
+01:48:32,710 --> 01:48:34,710
+長得很漂亮
+{\rE}She's pretty.
+
+836
+01:48:34,740 --> 01:48:36,740
+血債... 血償
+{\rE}Blood... for blood.
+
+837
+01:50:32,760 --> 01:50:34,760
+別打了
+{\rE}Please don't fight!
+
+838
+01:50:38,690 --> 01:50:40,690
+你看她們
+{\rE}Look at them.
+
+839
+01:50:42,710 --> 01:50:45,710
+沒錯 你將會為這些人而死
+{\rE}You're gonna die for this people.
+
+840
+01:50:51,730 --> 01:50:54,730
+我就是為他們而生的
+{\rE}I was born for them.
+
+841
+01:50:58,760 --> 01:51:02,760
+這個世界只有強者和弱者 你們這種劣等民族永遠屬於弱者
+{\rE}People like you will always be inferior to people like me
+
+842
+01:51:02,780 --> 01:51:05,680
+你要習慣 你必須習慣
+{\rE}Get used to it. Get fucking used to it.
+
+843
+01:51:43,710 --> 01:51:45,710
+那他媽是以前
+{\rE}That's fucking history.
+
+844
+01:52:26,730 --> 01:52:28,730
+你醒了
+{\rE}Welcome back.
+
+845
+01:53:25,750 --> 01:53:28,750
+前方是交戰區 我們過不去了
+{\rE}The war zone is up ahead. We can't get through.
+
+846
+01:53:53,680 --> 01:53:57,680
+三點方向有不明車隊
+{\rE}UNidentified vehicle convoy at three o'clock.
+
+847
+01:54:06,700 --> 01:54:08,700
+哥
+{\rE}Brother,
+
+848
+01:54:08,730 --> 01:54:10,730
+把國旗給我
+{\rE}pass me the flag.
+
+849
+01:54:38,750 --> 01:54:40,750
+開車
+{\rE}Drive.
+
+850
+01:55:00,770 --> 01:55:02,770
+是中國人 停止射擊
+{\rE}It's the Chinese. Hold your fire.
+
+851
+01:55:05,700 --> 01:55:10,700
+停止射擊 是中國人
+{\rE}Hold your fire! It's Chinese.
+
+852
+01:57:54,750 --> 01:57:56,750
+冷鋒
+{\rE}Leng Feng.
+
+853
+01:57:59,770 --> 01:58:01,770
+- 首長好 - 小日子過的挺美的呀
+{\rE}- Commander! - I see you're enjoying your life.
+
+854
+01:58:02,700 --> 01:58:04,700
+不想回戰狼了吧?
+{\rE}Not planning on rejoining the Wolf Warriors?
+
+855
+01:58:04,720 --> 01:58:06,720
+離開這裡最早的航班
+{\rE}Sir, the earliest flight out of here,
+
+856
+01:58:06,740 --> 01:58:09,740
+是下星期二 十四點十五分 星期五上午九點
+{\rE}departs next Tuesday at 14:15 by Friday 09:00.
+
+857
+01:58:09,770 --> 01:58:11,770
+我準時向您報導
+{\rE}I will report for duty sir!
+
+858
+01:58:12,690 --> 01:58:14,690
+有件事我必須告訴你
+{\rE}There's something I need to tell you...

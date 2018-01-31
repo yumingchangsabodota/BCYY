@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ymc/YMC_Python3/yingBurgerMovieTitleGenerator/ChatBotCourse-master/chatbotv2/model/model_v4"
+all_model_checkpoint_paths: "/home/ymc/YMC_Python3/yingBurgerMovieTitleGenerator/ChatBotCourse-master/chatbotv2/model/model_v4"

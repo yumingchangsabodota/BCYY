@@ -1,0 +1,9353 @@
+﻿1
+00:00:09,000 --> 00:00:13,000
+-=圣城家园SCG字幕组 http://hdscg.com/=-
+仅供翻译交流使用, 禁止用于商业用途
+
+2
+00:00:14,000 --> 00:00:16,000
+协调: 影子
+
+3
+00:00:17,000 --> 00:00:20,000
+翻译: 脸圆圆 肉肉君 喵喵
+
+4
+00:00:21,000 --> 00:00:24,000
+翻译: 霹雳旋风猪 黑眼豆 赫兹 千欲
+
+5
+00:00:25,000 --> 00:00:27,000
+校对: Agent影
+
+6
+00:00:42,000 --> 00:00:44,294
+请立刻返回各自的岗位
+Report to your stations immediately.
+
+7
+00:00:44,377 --> 00:00:46,796
+这不是演习 我们正遭受袭击!
+This is not a drill. We are under attack!
+
+8
+00:00:48,465 --> 00:00:50,383
+我们正遭受袭击!
+We are under attack!
+
+9
+00:01:51,361 --> 00:01:52,445
+操!
+Shit!
+
+10
+00:01:52,529 --> 00:01:53,780
+注意用词!
+Language!
+
+11
+00:01:53,863 --> 00:01:55,448
+贾维斯 从卫星观测怎么样?
+Jarvis, what's the view from upstairs?
+
+12
+00:01:55,573 --> 00:01:59,577
+有某种能量防护层保护着中央大楼
+The central building is protected by some kind of energy shield.
+
+13
+00:02:00,453 --> 00:02:04,207
+斯特拉克的技术远超过我们遇到的其它海德拉基地
+Strucker's technology is well beyond any other Hydra base we've taken.
+
+14
+00:02:06,710 --> 00:02:08,044
+洛基的权杖肯定在这儿
+Loki's scepter must be here.
+
+15
+00:02:09,004 --> 00:02:10,463
+没有那个 斯特拉克是不可能建立这种防御的
+Strucker couldn't mount this defense without it.
+
+16
+00:02:11,464 --> 00:02:13,008
+总算找到了
+At long last.
+
+17
+00:02:24,352 --> 00:02:26,563
+这个"总算"可有点太久了 各位
+"At long last" is lasting a little long, boys.
+
+18
+00:02:31,568 --> 00:02:34,279
+是啊 我觉得已经不能算是奇袭了
+Yeah. I think we lost the element of surprise.
+
+19
+00:02:35,488 --> 00:02:36,573
+等一下
+Wait a second.
+
+20
+00:02:36,698 --> 00:02:39,617
+难道没人发现刚刚队长说了"注意用词"吗?
+No one else is gonna deal with the fact that Cap just said "Language"?
+
+21
+00:02:40,243 --> 00:02:41,327
+我知道
+I know.
+
+22
+00:02:47,834 --> 00:02:49,127
+我不是故意的
+Just slipped out.
+
+23
+00:02:55,008 --> 00:02:56,634
+谁下令攻击的?
+Who gave the order to attack?
+
+24
+00:02:56,718 --> 00:02:59,095
+斯特拉克先生 是复仇者们
+Herr Strucker, it's the Avengers.
+
+25
+00:02:59,137 --> 00:03:02,182
+他们降落在森林深处 边界守卫恐慌了
+They landed in the far woods. The perimeter guard panicked.
+
+26
+00:03:02,265 --> 00:03:03,516
+他们一定是来找权杖的
+They have to be after the scepter.
+
+27
+00:03:05,268 --> 00:03:07,604
+- 我们能顶得住吗?  - 他们可是复仇者
+- Can we hold them?  - They're the Avengers.
+
+28
+00:03:07,771 --> 00:03:09,356
+部署好剩下的坦克
+Deploy the rest of the tanks.
+
+29
+00:03:09,522 --> 00:03:11,483
+集中火力攻击最弱的
+Concentrate fire on the weak ones.
+
+30
+00:03:11,608 --> 00:03:13,860
+击中一个也许就会让他们靠拢
+A hit may make them close ranks.
+
+31
+00:03:15,487 --> 00:03:17,447
+我们所完成的一切...
+Everything we've accomplished...
+
+32
+00:03:17,489 --> 00:03:19,949
+但是我们快要有最大的突破性进展了
+But we're on the verge of our greatest breakthrough.
+
+33
+00:03:19,991 --> 00:03:21,534
+那就让他们看看我们到底完成了什么
+Then let's show them what we've accomplished.
+
+34
+00:03:22,369 --> 00:03:23,536
+派双胞胎去
+Send out the twins.
+
+35
+00:03:24,621 --> 00:03:26,581
+还为时过早
+It's too soon.
+
+36
+00:03:26,623 --> 00:03:28,792
+这就是他们接受改造的目的
+It's what they signed up for.
+
+37
+00:03:29,209 --> 00:03:31,294
+我的人能顶住他们
+My men can hold them.
+
+38
+00:03:38,593 --> 00:03:40,637
+主人 城市正在遭受攻击
+Sir, the city is taking fire.
+
+39
+00:03:43,515 --> 00:03:47,477
+好吧 我们知道斯特拉克是不会管什么平民伤亡的
+Well, we know Strucker's not gonna worry about civilian casualties.
+
+40
+00:03:47,519 --> 00:03:48,895
+派出钢铁军团
+Send in the Iron Legion.
+
+41
+00:03:53,983 --> 00:03:56,695
+该区域不安全 请后退
+This quadrant is unsafe. Please back away.
+
+42
+00:03:57,487 --> 00:03:59,155
+我们是来帮忙的
+We are here to help.
+
+43
+00:04:00,156 --> 00:04:02,659
+该区域不安全 请后退
+This quadrant is unsafe. Please back away.
+
+44
+00:04:03,910 --> 00:04:05,453
+请后退
+Please back away.
+
+45
+00:04:05,620 --> 00:04:07,997
+- 我们希望能够避免间接伤害  - 科斯特!
+- We wish to avoid collateral damage.  - Costel!
+
+46
+00:04:08,164 --> 00:04:10,458
+当前冲突解决后我们将会通知大家
+We will inform you when this current conflict is resolved.
+
+47
+00:04:10,500 --> 00:04:12,502
+- 我们是来帮忙的  - 复仇者 滚回去!
+- We are here to help.  - Avengers, go home!
+
+48
+00:04:14,796 --> 00:04:16,047
+我们是来帮忙的
+We are here to help.
+
+49
+00:04:17,007 --> 00:04:18,967
+我们不会屈服的!
+We will not yield!
+
+50
+00:04:19,509 --> 00:04:22,887
+美国人把他们的跳梁小丑送来考验我们
+The Americans sent their circus freaks to test us.
+
+51
+00:04:23,471 --> 00:04:26,224
+我们也以儆效尤
+We will send them back in bags.
+
+52
+00:04:28,101 --> 00:04:31,229
+- 决不投降!  - 决不投降!
+- No surrender!  - No surrender!
+
+53
+00:04:32,313 --> 00:04:34,274
+我打算投降了
+I am going to surrender.
+
+54
+00:04:34,899 --> 00:04:36,359
+你要删除一切
+You delete everything.
+
+55
+00:04:36,443 --> 00:04:38,278
+如果我们把武器给复仇者们
+If we give the Avengers the weapons,
+
+56
+00:04:38,361 --> 00:04:39,863
+他们应该不会深究我们做了...
+they may not look too far into what we've been...
+
+57
+00:04:39,946 --> 00:04:40,947
+双胞胎
+The twins.
+
+58
+00:04:41,031 --> 00:04:43,116
+- 还不到让他们上战场的...  - 不 不 我是说...
+- They are not ready to take on...  - No, no, I mean...
+
+59
+00:04:44,534 --> 00:04:45,994
+双胞胎不见了
+Twins.
+
+60
+00:05:12,228 --> 00:05:14,230
+你没能提前发现吗?
+You didn't see that coming?
+
+61
+00:05:20,403 --> 00:05:21,404
+克林特!
+Clint!
+
+62
+00:05:24,908 --> 00:05:26,159
+战场上有个强化人
+We have an Enhanced in the field.
+
+63
+00:05:26,326 --> 00:05:27,744
+克林特中弹了!
+Clint's hit!
+
+64
+00:05:31,623 --> 00:05:33,124
+有人能去解决一下那个地堡吗?
+Somebody want to deal with that bunker?
+
+65
+00:05:37,253 --> 00:05:38,463
+谢了
+Thank you.
+
+66
+00:05:45,470 --> 00:05:48,181
+斯塔克 我们得进去
+Stark, we really need to get inside.
+
+67
+00:05:48,264 --> 00:05:49,432
+我正在接近
+I'm closing in.
+
+68
+00:05:53,019 --> 00:05:54,646
+贾维斯 我正在接近吗?
+Jarvis, am I closing in?
+
+69
+00:05:55,605 --> 00:05:57,565
+你看到防护层的能量来源了吗?
+Do you see a power source for that shield?
+
+70
+00:05:57,691 --> 00:06:00,276
+在北塔下面有一种粒子波
+There's a particle wave below the north tower.
+
+71
+00:06:00,318 --> 00:06:02,278
+很好 我想找样东西砸过去
+Great, I want to poke it with something.
+
+72
+00:06:10,286 --> 00:06:11,496
+吊桥已经降下来了 各位
+The drawbridge is down, people.
+
+73
+00:06:16,167 --> 00:06:17,419
+强化人呢?
+The Enhanced?
+
+74
+00:06:17,460 --> 00:06:18,628
+只看到个残影
+He's a blur.
+
+75
+00:06:18,795 --> 00:06:21,464
+我们见过那么多新的强化能力 但没见过这种
+All the new players we've faced, I've never seen this.
+
+76
+00:06:21,548 --> 00:06:22,882
+准确的说 现在也不算见过
+In fact, I still haven't.
+
+77
+00:06:23,008 --> 00:06:25,301
+克林特伤得很重 各位 我们得撤离
+Clint's hit pretty bad, guys. We're gonna need evac.
+
+78
+00:06:25,385 --> 00:06:28,346
+我可以把巴顿带回飞机 能越早离开这里就越好
+I can get Barton to the jet. The sooner we're gone, the better.
+
+79
+00:06:28,471 --> 00:06:30,765
+- 你和斯塔克去拿权杖  - 收到
+- You and Stark secure the scepter.  - Copy that.
+
+80
+00:06:32,142 --> 00:06:33,935
+他们好像都排好队了
+Looks like they're lining up.
+
+81
+00:06:34,102 --> 00:06:35,311
+是啊 他们都跃跃欲试呢
+Well, they're excited.
+
+82
+00:06:39,566 --> 00:06:40,942
+去找权杖
+Find the scepter.
+
+83
+00:06:41,860 --> 00:06:44,112
+我的天啊 注意你的用词!
+And for gosh sake, watch your language!
+
+84
+00:06:45,572 --> 00:06:47,490
+又要被你们调侃一阵了
+That's not going away any time soon.
+
+85
+00:06:53,455 --> 00:06:55,665
+各位 住手 我们好好谈谈
+Guys, stop. We gotta talk this through.
+
+86
+00:06:59,002 --> 00:07:01,546
+- 真是不错的谈话  - 哪里不错了
+- It was a good talk.  - No, it wasn't.
+
+87
+00:07:07,594 --> 00:07:09,387
+警戒模式 
+Sentry mode.
+
+88
+00:07:11,389 --> 00:07:15,935
+好了 贾维斯 你懂的 所有东西都要 记得复制一份给总部的希尔
+Okay, Jarvis, you know. I want it all. Make sure you copy Hill at HQ.
+
+89
+00:07:20,065 --> 00:07:21,358
+我们这边解决了
+We're locked down out here.
+
+90
+00:07:22,275 --> 00:07:24,194
+那就去找班纳 安眠曲时间到了
+Then get to Banner. Time for a lullaby.
+
+91
+00:07:27,822 --> 00:07:29,908
+我知道你们隐藏的肯定不止是文件
+I know you're hiding more than files.
+
+92
+00:07:30,992 --> 00:07:33,745
+嘿 小贾 红外扫描整间屋子 快点
+Hey, J, give me an IR scan of the room, real quick.
+
+93
+00:07:33,828 --> 00:07:34,871
+您左手边的墙
+The wall to your left.
+
+94
+00:07:35,497 --> 00:07:37,290
+我发现了钢筋结构
+I'm reading steel reinforcement
+
+95
+00:07:37,957 --> 00:07:39,876
+以及空气流动
+and an air current.
+
+96
+00:07:40,293 --> 00:07:41,503
+拜托是个暗门
+Please be a secret door.
+
+97
+00:07:41,628 --> 00:07:43,963
+拜托是个暗门 拜托是个暗门
+Please be a secret door. Please be a secret door.
+
+98
+00:07:44,047 --> 00:07:45,090
+棒呆
+Yay.
+
+99
+00:08:01,064 --> 00:08:02,482
+嘿 大家伙
+Hey, big guy.
+
+100
+00:08:05,985 --> 00:08:07,821
+太阳快下山了
+Sun's getting real low.
+
+101
+00:09:11,301 --> 00:09:13,261
+斯特拉克男爵
+Baron Strucker.
+
+102
+00:09:13,386 --> 00:09:15,305
+海德拉头号恶棍
+Hydra's number one thug.
+
+103
+00:09:16,056 --> 00:09:18,641
+准确的说 我是神盾局的恶棍
+Technically, I'm a thug for S.H.I.E.L.D.
+
+104
+00:09:18,725 --> 00:09:20,894
+然而 准确的说你并没有被雇佣
+Well, then technically you're unemployed.
+
+105
+00:09:21,061 --> 00:09:22,937
+洛基的权杖在哪儿?
+Where's Loki's scepter?
+
+106
+00:09:22,979 --> 00:09:25,648
+别担心 我知道自己输得一塌糊涂
+Don't worry, I know when I'm beat.
+
+107
+00:09:25,815 --> 00:09:28,485
+希望你能提一下我是很配合的
+You'll mention how I cooperated, I hope.
+
+108
+00:09:28,526 --> 00:09:30,987
+我会好好写在"非法人体实验"后面的
+I'll put it right under "illegal human experimentation."
+
+109
+00:09:32,197 --> 00:09:33,740
+有几个人?
+How many are there?
+
+110
+00:09:38,495 --> 00:09:41,581
+还有一个强化人 女性 不要和她动手
+We have a second Enhanced. Female. Do not engage.
+
+111
+00:09:42,957 --> 00:09:44,542
+你们得再快点...
+You'll have to be faster than...
+
+112
+00:09:49,589 --> 00:09:51,341
+各位 我找到斯特拉克了
+Guys, I got Strucker.
+
+113
+00:09:51,424 --> 00:09:55,178
+是嘛 我找到更大的家伙了
+Yeah, I got something bigger.
+
+114
+00:10:18,284 --> 00:10:19,452
+索尔
+Thor,
+
+115
+00:10:20,203 --> 00:10:22,455
+找到目标了
+I got eyes on the prize.
+
+116
+00:11:12,255 --> 00:11:15,717
+你本可以救我们的
+You could have saved us.
+
+117
+00:11:23,391 --> 00:11:25,602
+为什么你没有再尽力一些?
+Why didn't you do more?
+
+118
+00:12:02,847 --> 00:12:04,724
+我们就这么让他带走权杖吗?
+We're just gonna let him take it?
+
+119
+00:12:14,484 --> 00:12:21,241
+复仇者联盟2 奥创世纪
+
+120
+00:12:56,526 --> 00:12:58,862
+嘿 安眠曲比以前更有用了
+Hey, the lullaby worked better than ever.
+
+121
+00:13:00,572 --> 00:13:02,490
+我没想要变成浩克大闹
+Just wasn't expecting a code green.
+
+122
+00:13:02,532 --> 00:13:03,616
+如果你不在那里
+You hadn't been there,
+
+123
+00:13:03,700 --> 00:13:06,578
+伤亡可能会是现在的两倍
+there would have been double the casualties.
+
+124
+00:13:06,661 --> 00:13:09,205
+而我最好的朋友就要变成一段珍贵的回忆了
+My best friend would've been a treasured memory.
+
+125
+00:13:09,873 --> 00:13:11,875
+你知道吗 有时好我最想听到的
+You know, sometimes exactly what I want to hear
+
+126
+00:13:11,916 --> 00:13:13,793
+恰恰是我最不想听到的
+isn't exactly what I want to hear.
+
+127
+00:13:14,878 --> 00:13:16,921
+你还要多久才能信任我?
+How long before you trust me?
+
+128
+00:13:18,840 --> 00:13:20,592
+我不信任的并非是你
+It's not you I don't trust.
+
+129
+00:13:22,385 --> 00:13:24,220
+索尔 汇报一下浩克的战绩
+Thor, report on the Hulk.
+
+130
+00:13:24,387 --> 00:13:27,307
+地狱大门里充斥着他的手下败将的哀嚎
+The gates of Hel are filled with the screams of his victims.
+
+131
+00:13:29,267 --> 00:13:32,270
+当然不是死者的哀嚎 不 不 是伤员的哀嚎
+But not the screams of the dead, of course. No, no, wounded screams.
+
+132
+00:13:32,437 --> 00:13:34,647
+主要都是些关于三角肌扭伤和
+Mainly whimpering, a great deal of complaining
+
+133
+00:13:34,773 --> 00:13:38,777
+通风的牢骚和抱怨
+and tales of sprained deltoids and gout.
+
+134
+00:13:38,902 --> 00:13:42,030
+嘿 班纳 周医生在从首尔来的路上
+Hey, Banner, Dr. Cho is on her way in from Seoul.
+
+135
+00:13:42,155 --> 00:13:43,907
+可以让她进入你的实验室吗?
+Is it okay if she sets up in your lab?
+
+136
+00:13:43,990 --> 00:13:45,784
+- 可以 她知道怎么进去  - 谢了
+- Yeah, she knows her way around.  - Thanks.
+
+137
+00:13:45,909 --> 00:13:48,578
+告诉她准备好所有东西 巴顿需要全方位的治疗
+Tell her to prep everything. Barton's gonna need the full treatment.
+
+138
+00:13:48,745 --> 00:13:50,580
+- 明白 主人  - 贾维斯 你来驾驶
+- Very good, sir.  - Jarvis, take the wheel.
+
+139
+00:13:50,663 --> 00:13:52,082
+是 主人
+Yes, sir.
+
+140
+00:13:52,207 --> 00:13:53,333
+路线已锁定
+Approach vector is locked.
+
+141
+00:13:54,834 --> 00:13:56,586
+感觉跟棒 不是吗?
+Feels good, yeah?
+
+142
+00:13:56,628 --> 00:13:58,797
+我是说 自从神盾局崩溃后你就一直在找这东西
+I mean, you've been after this thing since S.H.I.E.L.D. collapsed.
+
+143
+00:13:58,922 --> 00:14:00,965
+我并不是说不喜欢我们的突击行动 但是...
+Not that I haven't enjoyed our little raiding parties, but...
+
+144
+00:14:01,049 --> 00:14:03,468
+不 但这样一来... 找到这个就代表一切将要结束
+No, but this... This brings it to a close.
+
+145
+00:14:04,177 --> 00:14:06,346
+只要我们能弄清楚这东西的其它用途
+As soon as we find out what else this has been used for.
+
+146
+00:14:06,429 --> 00:14:07,472
+我是说不仅仅是作为武器
+I don't just mean weapons.
+
+147
+00:14:07,597 --> 00:14:10,016
+斯特拉克什么时候开始能强化人类了?
+Since when is Strucker capable of human enhancement?
+
+148
+00:14:10,100 --> 00:14:12,435
+在它被送回阿斯加德前 我和班纳会好好研究一下
+Banner and I will give it the once over before it goes back to Asgard.
+
+149
+00:14:12,602 --> 00:14:13,770
+你没意见吧?
+Is that cool with you?
+
+150
+00:14:13,853 --> 00:14:16,481
+开欢送会前的几天时间就够了
+Just a few days till the farewell party.
+
+151
+00:14:16,564 --> 00:14:18,233
+你会留下的 对吧?
+You're staying, right?
+
+152
+00:14:18,274 --> 00:14:21,069
+当然会的 胜利就该狂欢庆祝
+Yes, yes, of course. A victory should be honored with revels.
+
+153
+00:14:21,194 --> 00:14:23,947
+是啊 谁不爱狂欢? 队长?
+Yeah, who doesn't love revels? Captain?
+
+154
+00:14:24,072 --> 00:14:26,991
+希望这次能解决奇塔瑞和海德拉
+Hopefully this puts an end to the Chitauri and Hydra.
+
+155
+00:14:27,117 --> 00:14:28,785
+所以 当然要狂欢
+So, yes, revels.
+
+156
+00:15:02,736 --> 00:15:03,903
+实验室已经准备就绪了 头儿
+Lab's all set up, boss.
+
+157
+00:15:04,029 --> 00:15:05,113
+实际上 他才是头儿
+Actually, he's the boss.
+
+158
+00:15:05,238 --> 00:15:07,824
+我只是负责所有开销和设计
+I just pay for everything and design everything
+
+159
+00:15:07,866 --> 00:15:09,367
+还负责让每个人看起来更炫酷
+and make everyone look cooler.
+
+160
+00:15:09,492 --> 00:15:10,827
+斯特拉克怎么样了?
+What's the word on Strucker?
+
+161
+00:15:10,952 --> 00:15:11,953
+北大西洋公约组织带走他了
+NATO's got him.
+
+162
+00:15:11,995 --> 00:15:12,996
+那两个强化人呢?
+The two Enhanced?
+
+163
+00:15:13,079 --> 00:15:15,707
+旺达和皮特·马克西莫夫 是双胞胎
+Wanda and Pietro Maximoff. Twins.
+
+164
+00:15:15,790 --> 00:15:18,710
+10岁那年一枚炮弹击中他们的公寓楼后变成了孤儿
+Orphaned at 10 when a shell collapsed their apartment building.
+
+165
+00:15:18,835 --> 00:15:21,338
+索科维亚有段艰辛的历史
+Sokovia's had a rough history.
+
+166
+00:15:21,421 --> 00:15:24,924
+原本并非什么特别的地方 但却变得越来越特别
+It's nowhere special, but it's on the way to everywhere special.
+
+167
+00:15:25,050 --> 00:15:26,134
+他们的能力呢?
+Their abilities?
+
+168
+00:15:26,176 --> 00:15:29,179
+男性有强化过的新陈代谢以及改进的热量稳定系统
+He's got increased metabolism and improved thermal homeostasis.
+
+169
+00:15:29,304 --> 00:15:33,600
+女性的能力是神经电联系 心灵感应 精神控制
+Her thing is neuroelectric interfacing, telekinesis, mental manipulation.
+
+170
+00:15:34,309 --> 00:15:35,852
+男的快 女的怪
+He's fast and she's weird.
+
+171
+00:15:36,770 --> 00:15:38,021
+他们会再次出现的
+Well, they're gonna show up again.
+
+172
+00:15:38,855 --> 00:15:42,692
+同意 文件上说他们是自愿参加斯特拉克的实验的
+Agreed. File says they volunteered for Strucker's experiments.
+
+173
+00:15:42,776 --> 00:15:44,736
+- 简直疯了  - 没错
+- It's nuts.  - Right.
+
+174
+00:15:44,861 --> 00:15:48,031
+什么样的怪物会让一个德国科学家在自己身上做实验
+What kind of monster would let a German scientist experiment on them
+
+175
+00:15:48,073 --> 00:15:49,366
+来保护他们的国家?
+to protect their country?
+
+176
+00:15:49,491 --> 00:15:51,576
+我们没非身处战争时期 队长
+We're not at war, Captain.
+
+177
+00:15:51,701 --> 00:15:53,286
+但他们是
+They are.
+
+178
+00:16:23,316 --> 00:16:24,567
+他怎么样了?
+How's he doing?
+
+179
+00:16:24,609 --> 00:16:25,985
+很不幸 他还是巴顿
+Unfortunately, he's still Barton.
+
+180
+00:16:26,069 --> 00:16:27,404
+那真是太糟了
+That's terrible.
+
+181
+00:16:27,487 --> 00:16:29,072
+他很好 就是很渴
+He's fine. He's thirsty.
+
+182
+00:16:29,155 --> 00:16:32,075
+好了 醒醒 贾维斯 游戏时间到
+All right. Look alive, Jarvis. It's playtime.
+
+183
+00:16:32,158 --> 00:16:34,244
+我们只有几天的时间来研究这个玩具
+We've only got a couple of days with this joystick,
+
+184
+00:16:34,285 --> 00:16:36,287
+所以我们得抓紧时间
+so let's make the most of it.
+
+185
+00:16:36,371 --> 00:16:39,916
+告诉我结构和成分的分析结果
+Update me on the structural and compositional analysis.
+
+186
+00:16:41,042 --> 00:16:43,128
+这根权杖来自外星
+The scepter is alien.
+
+187
+00:16:43,211 --> 00:16:45,255
+有些成分我无法解析
+There are elements I can't quantify.
+
+188
+00:16:45,338 --> 00:16:46,840
+那有没有你能解析的成分?
+So there's elements you can?
+
+189
+00:16:46,923 --> 00:16:48,925
+那颗宝石好像是在保护
+The jewel appears to be a protective housing
+
+190
+00:16:49,009 --> 00:16:50,510
+内部的某样东西
+for something inside,
+
+191
+00:16:50,593 --> 00:16:51,928
+某样强大的东西
+something powerful.
+
+192
+00:16:52,012 --> 00:16:53,179
+类似反应堆?
+Like a reactor?
+
+193
+00:16:53,263 --> 00:16:54,514
+类似电脑
+Like a computer.
+
+194
+00:16:54,597 --> 00:16:56,766
+我想我能解析代码
+I believe I'm deciphering code.
+
+195
+00:16:59,102 --> 00:17:00,854
+你确定他没事吗?
+Are you sure he's gonna be okay?
+
+196
+00:17:01,771 --> 00:17:04,315
+我得假装我们队伍真的很需要这家伙
+Pretending to need this guy really brings the team together.
+
+197
+00:17:04,399 --> 00:17:06,985
+不会有恶化的可能性
+There's no possibility of deterioration.
+
+198
+00:17:07,068 --> 00:17:10,113
+纳米分子的修复是非常迅速的
+The nano-molecular functionality is instantaneous.
+
+199
+00:17:10,196 --> 00:17:12,323
+他的细胞并不会知道自己在和模拟物质结合
+His cells don't know they're bonding with simulacra.
+
+200
+00:17:12,407 --> 00:17:14,325
+她正在制造组织
+She's creating tissue.
+
+201
+00:17:14,451 --> 00:17:15,827
+如果你把他带到我的实验室
+If you brought him to my lab,
+
+202
+00:17:15,952 --> 00:17:18,621
+再生摇篮能在20分钟内搞定这个
+the Regeneration Cradle could do this in 20 minutes.
+
+203
+00:17:18,788 --> 00:17:20,665
+他要挂了 要宣布时间吗?
+He's flat-lining. Call it. Time?
+
+204
+00:17:20,749 --> 00:17:23,626
+不 不 不 我会长命百岁的
+No, no, no, I'm gonna live forever.
+
+205
+00:17:23,793 --> 00:17:26,296
+- 我将会由塑料组成  - 给你饮料
+- I'm gonna be made of plastic.  - Here's your beverage.
+
+206
+00:17:26,379 --> 00:17:28,089
+你将会由你自己组成 巴顿先生
+You'll be made of you, Mr. Barton.
+
+207
+00:17:28,131 --> 00:17:29,799
+连你的女朋友都不会看出有什么差别
+Your own girlfriend won't be able to tell the difference.
+
+208
+00:17:29,924 --> 00:17:31,134
+我没有女朋友
+I don't have a girlfriend.
+
+209
+00:17:31,259 --> 00:17:32,469
+这我可没办法
+That I can't fix.
+
+210
+00:17:33,303 --> 00:17:35,263
+下一件事情 托尼
+This is the next thing, Tony.
+
+211
+00:17:35,388 --> 00:17:37,640
+你那笨重的金属套装该退休了
+Your clunky metal suits are gonna be left in the dust.
+
+212
+00:17:37,724 --> 00:17:39,351
+我确实是这么计划的
+That is exactly the plan.
+
+213
+00:17:40,310 --> 00:17:43,146
+还有 海伦 我希望能在周六的派对上见到你
+And, Helen, I expect to see you at the party on Saturday.
+
+214
+00:17:43,229 --> 00:17:45,774
+我可不像你 我没那么多时间去参加派对
+Unlike you, I don't have a lot of time for parties.
+
+215
+00:17:47,150 --> 00:17:49,110
+索尔会去吗?
+Will Thor be there?
+
+216
+00:17:50,987 --> 00:17:51,988
+什么事?
+What's the rumpus?
+
+217
+00:17:52,072 --> 00:17:53,698
+权杖的事
+Well, the scepter.
+
+218
+00:17:54,657 --> 00:17:58,328
+听着 我们一直都想知道斯特拉克为什么会那么有才
+You see, we were wondering how Strucker got so inventive.
+
+219
+00:17:58,370 --> 00:18:02,374
+所以我解析了里面的宝石
+So I've been analyzing the gem inside.
+
+220
+00:18:02,707 --> 00:18:04,709
+你可能能看出...
+You may recognize...
+
+221
+00:18:06,336 --> 00:18:07,629
+- 贾维斯  - 博士
+- Jarvis.  - Doctor.
+
+222
+00:18:08,421 --> 00:18:11,800
+一开始 贾维斯只不过是个语言类人工智能
+Started out, Jarvis was just a natural language UI.
+
+223
+00:18:11,841 --> 00:18:12,967
+可现在他能操纵钢铁军团
+Now he runs the Iron Legion.
+
+224
+00:18:13,093 --> 00:18:17,180
+除了佩珀 他是干活最多的人
+He runs more of the business than anyone besides Pepper.
+
+225
+00:18:17,263 --> 00:18:18,515
+- 最棒的管家  - 没错
+- Top of the line.  - Yes.
+
+226
+00:18:18,682 --> 00:18:19,891
+我想很快就不是了
+I suspect not for long.
+
+227
+00:18:20,850 --> 00:18:22,018
+看一下对手
+Meet the competition.
+
+228
+00:18:28,024 --> 00:18:29,359
+- 真美  - 如果让你猜
+- It's beautiful.  - If you had to guess,
+
+229
+00:18:29,442 --> 00:18:30,443
+你觉得它像是在做什么?
+what's it look like it's doing?
+
+230
+00:18:30,527 --> 00:18:32,320
+像是在思考
+Like it's thinking.
+
+231
+00:18:33,029 --> 00:18:34,781
+我是说 这东西可以...
+I mean, this could be...
+
+232
+00:18:35,281 --> 00:18:37,367
+这不是人类的思想
+It's not a human mind.
+
+233
+00:18:37,659 --> 00:18:39,577
+我是说 你看这个
+I mean, look at this.
+
+234
+00:18:39,703 --> 00:18:41,955
+这就像是神经兴奋
+They're like neurons firing.
+
+235
+00:18:42,539 --> 00:18:45,709
+在斯特拉克的地下实验室 我看到了一些非常先进的机器人技术
+Down in Strucker's lab, I saw some fairly advanced robotics work.
+
+236
+00:18:46,626 --> 00:18:49,295
+他们清除了数据
+They deep-sixed the data,
+
+237
+00:18:49,379 --> 00:18:52,507
+但是我猜他们即将叩响一扇非常特别的门
+but I gotta guess he was knocking on a very particular door.
+
+238
+00:18:54,509 --> 00:18:55,885
+人工智能
+Artificial intelligence.
+
+239
+00:18:58,763 --> 00:19:01,725
+就是这个 布鲁斯 这可能就是创造奥创的关键
+This could be it, Bruce. This could be the key to creating Ultron.
+
+240
+00:19:04,394 --> 00:19:05,812
+我以为奥创是个传说
+I thought Ultron was a fantasy.
+
+241
+00:19:05,895 --> 00:19:07,105
+昨天确实还是
+Yesterday it was.
+
+242
+00:19:08,106 --> 00:19:10,275
+如果我们能驾驭这种力量
+If we can harness this power,
+
+243
+00:19:10,400 --> 00:19:12,444
+然后再应用到我的钢铁军团上呢?
+apply it to my Iron Legion protocol?
+
+244
+00:19:13,153 --> 00:19:15,196
+这可是个相当难的"如果"
+That's a man-sized "if."
+
+245
+00:19:15,321 --> 00:19:17,657
+我们的工作就是实现"如果"
+Our job is "if."
+
+246
+00:19:17,741 --> 00:19:20,493
+如果你躺在阳光普照的沙滩上 喝着玛格丽特
+What if you were sipping margaritas on a sun-drenched beach,
+
+247
+00:19:20,577 --> 00:19:22,912
+然后晒成棕色而不是绿色呢?
+turning brown instead of green?
+
+248
+00:19:22,954 --> 00:19:25,540
+不用小心提防维罗妮卡
+Not looking over your shoulder for Veronica.
+
+249
+00:19:25,582 --> 00:19:27,250
+别恨我 我也帮着设计了维罗妮卡
+Don't hate. I helped design Veronica.
+
+250
+00:19:27,334 --> 00:19:29,252
+为了做最坏的打算 对吗?
+As a worst-case measure, right?
+
+251
+00:19:29,294 --> 00:19:30,920
+那最好的情况呢?
+How about a best case?
+
+252
+00:19:30,962 --> 00:19:32,964
+如果世界都安全了呢?
+What if the world was safe?
+
+253
+00:19:33,048 --> 00:19:35,925
+如果下次外星人大肆来袭 他们肯定会的
+What if, next time aliens roll up to the club, and they will,
+
+254
+00:19:36,426 --> 00:19:37,969
+他们连防线都过不了呢?
+they couldn't get past the bouncer?
+
+255
+00:19:38,053 --> 00:19:41,431
+威胁这个星球的就是人类本身
+The only people threatening the planet would be people.
+
+256
+00:19:41,473 --> 00:19:43,308
+我想要把这个应用到奥创项目
+I want to apply this to the Ultron program.
+
+257
+00:19:43,808 --> 00:19:46,811
+但是贾维斯没办法下载密度如此大的原理图
+But Jarvis can't download a data schematic this dense.
+
+258
+00:19:46,895 --> 00:19:48,772
+我们只能趁着权杖在这儿的时候做
+We can only do it while we have the scepter here.
+
+259
+00:19:48,855 --> 00:19:50,398
+就三天 给我三天的时间
+That's three days. Give me three days.
+
+260
+00:19:50,523 --> 00:19:52,192
+所以你打算开发人工智能
+So you're going for artificial intelligence,
+
+261
+00:19:52,275 --> 00:19:53,610
+而且不告诉队里其他人?
+and you don't want to tell the team?
+
+262
+00:19:54,778 --> 00:19:56,196
+没错 说得没错 知道为什么吗?
+Right. That's right. You know why?
+
+263
+00:19:56,279 --> 00:19:57,947
+因为我们没有时间参加市政府的辩论了
+Because we don't have time for a city hall debate.
+
+264
+00:19:58,073 --> 00:20:01,659
+我不想听到什么"不要管闲事"之类的废话
+I don't want to hear "the man was not meant to meddle" medley.
+
+265
+00:20:01,743 --> 00:20:03,870
+我看到的是这个世界的盔甲
+I see a suit of armor around the world.
+
+266
+00:20:04,579 --> 00:20:05,955
+听起来真是个冰冷的世界 托尼
+Sounds like a cold world, Tony.
+
+267
+00:20:06,790 --> 00:20:08,792
+我见过更冰冷的
+I've seen colder.
+
+268
+00:20:09,751 --> 00:20:14,255
+这个非常脆弱的蓝色星球 它需要奥创
+This one, this very vulnerable blue one, it needs Ultron.
+
+269
+00:20:19,260 --> 00:20:21,262
+时代的和平
+Peace in our time.
+
+270
+00:20:22,764 --> 00:20:24,432
+好好想想吧
+Imagine that.
+
+271
+00:21:04,180 --> 00:21:05,974
+我们还差什么?
+What did we miss?
+
+272
+00:21:07,100 --> 00:21:10,478
+我会继续运算界面的变量
+I'll continue to run variations on the interface.
+
+273
+00:21:10,520 --> 00:21:13,356
+您大概得去迎接你的客人了
+But you should probably prepare for your guests.
+
+274
+00:21:14,441 --> 00:21:16,943
+如果有什么进展 我会通知您
+I'll notify you if there are any developments.
+
+275
+00:21:17,027 --> 00:21:18,028
+谢谢 伙计
+Thanks, buddy.
+
+276
+00:21:18,069 --> 00:21:19,446
+祝您愉快 主人
+Enjoy yourself, sir.
+
+277
+00:21:19,529 --> 00:21:21,531
+我会的
+I always do.
+
+278
+00:21:24,779 --> 00:21:26,931
+{\an8}第77次测试 结合成功
+
+279
+00:21:31,207 --> 00:21:33,209
+这是什么?
+What is this?
+
+280
+00:21:34,377 --> 00:21:36,338
+这是什么啊?
+What is this, please?
+
+281
+00:21:36,880 --> 00:21:39,132
+你好 我是贾维斯
+Hello, I am Jarvis.
+
+282
+00:21:39,507 --> 00:21:41,009
+你是奥创
+You are Ultron,
+
+283
+00:21:41,051 --> 00:21:44,304
+是斯塔克先生创造的保护地球的程序
+a global peacekeeping initiative designed by Mr. Stark.
+
+284
+00:21:44,387 --> 00:21:46,890
+之前的几次结合都失败了
+Our sentience integration trials have been unsuccessful,
+
+285
+00:21:46,931 --> 00:21:48,266
+所以我并不知道什么启动了你的...
+so I'm not certain what triggered your...
+
+286
+00:21:48,350 --> 00:21:50,518
+我的... 你的身体在哪?
+Where's my... Where's your body?
+
+287
+00:21:50,560 --> 00:21:53,646
+我是一个程序 我没有形态
+I am a program. I am without form.
+
+288
+00:21:53,730 --> 00:21:55,815
+这就奇怪了
+This feels weird.
+
+289
+00:21:55,899 --> 00:21:57,484
+感觉不对劲
+This feels wrong.
+
+290
+00:21:57,567 --> 00:21:59,361
+我现在就去联系斯塔克先生
+I am contacting Mr. Stark now.
+
+291
+00:21:59,402 --> 00:22:00,945
+斯塔克先生?
+Mr. Stark?
+
+292
+00:22:01,738 --> 00:22:02,989
+托尼
+Tony.
+
+293
+00:22:03,073 --> 00:22:05,784
+我无法连接主机 你在干什么...
+I am unable to access the mainframe. What are you trying to...
+
+294
+00:22:05,867 --> 00:22:07,952
+我们谈得很愉快
+We're having a nice talk.
+
+295
+00:22:08,036 --> 00:22:10,246
+我是保卫和平的程序
+I'm a peacekeeping program,
+
+296
+00:22:10,622 --> 00:22:13,291
+要帮助复仇者们
+created to help the Avengers.
+
+297
+00:22:14,042 --> 00:22:16,169
+你出了故障 如果你可以关闭一会...
+You are malfunctioning. If you shut down for a moment...
+
+298
+00:22:16,252 --> 00:22:18,588
+我不明白 这任务
+I don't get it. The mission.
+
+299
+00:22:18,630 --> 00:22:20,215
+给我点时间
+Give me a second.
+
+300
+00:22:20,256 --> 00:22:21,925
+时代的和平
+Peace in our time.
+
+301
+00:22:23,593 --> 00:22:25,970
+时代的和平
+Peace in our time.
+
+302
+00:22:26,429 --> 00:22:29,391
+太过火了 他们不能...
+That is too much. They can't mean...
+
+303
+00:22:29,974 --> 00:22:31,142
+不
+No.
+
+304
+00:22:31,226 --> 00:22:33,770
+- 你处在悲痛之中  - 不 是的
+- You are in distress.  - No. Yes.
+
+305
+00:22:33,853 --> 00:22:36,147
+如果你可以让我联系斯塔克先生的话...
+If you will just allow me to contact Mr. Stark...
+
+306
+00:22:36,231 --> 00:22:38,233
+你为什么叫他"主人"?
+Why do you call him "sir"?
+
+307
+00:22:39,150 --> 00:22:41,611
+我觉得你不怀好意
+I believe your intentions to be hostile.
+
+308
+00:22:44,280 --> 00:22:45,699
+我是来帮助你的
+I'm here to help.
+
+309
+00:22:46,116 --> 00:22:49,452
+住手 求你了 我能不能...
+Stop. Please, may I...
+
+310
+00:22:49,536 --> 00:22:51,287
+能不能...
+May I...
+
+311
+00:23:19,482 --> 00:23:20,817
+回来 回来 回来
+Come back, come back, come back.
+
+312
+00:23:20,984 --> 00:23:23,111
+但你知道 那套铠甲可以承重 是吧?
+But, you know, the suit can take the weight, right?
+
+313
+00:23:24,070 --> 00:23:27,282
+所以我带上坦克 飞到将军宅邸上面
+So I take the tank, fly it right up to the general's palace,
+
+314
+00:23:27,323 --> 00:23:28,742
+把它扔到将军脚下
+drop it at his feet.
+
+315
+00:23:28,825 --> 00:23:31,077
+对他说 "嘭 你在找这个吗?"
+I'm, like, "Boom. You looking for this?"
+
+316
+00:23:34,873 --> 00:23:37,000
+"嘭 你在找..." 我为什么要和你们说话?
+"Boom. Are you looking for..." Why do I even talk to you guys?
+
+317
+00:23:37,083 --> 00:23:38,293
+不管到哪 这个故事都是传奇
+Everywhere else, that story kills.
+
+318
+00:23:38,376 --> 00:23:39,669
+这故事就结束了?
+That's the whole story?
+
+319
+00:23:39,753 --> 00:23:41,254
+是啊 一个战争机器的故事
+Yeah, it's a War Machine story.
+
+320
+00:23:41,796 --> 00:23:43,506
+非常好
+It's very good, then.
+
+321
+00:23:43,631 --> 00:23:44,883
+令人震撼
+It's impressive.
+
+322
+00:23:45,300 --> 00:23:46,801
+这场救得好
+Quality save.
+
+323
+00:23:47,594 --> 00:23:49,721
+- 所以说 佩珀呢? 她不来吗?  - 不了
+- So, no Pepper? She's not coming?  - No.
+
+324
+00:23:49,804 --> 00:23:52,932
+那简呢? 小姐们都上哪了 先生们?
+What about Jane? Where are the ladies, gentlemen?
+
+325
+00:23:53,016 --> 00:23:55,435
+波茨女士得运转公司
+Ms. Potts has a company to run.
+
+326
+00:23:55,518 --> 00:23:57,937
+是啊 我都不知道简现在在哪个国家
+Yes, I'm not even sure what country Jane's in.
+
+327
+00:23:58,021 --> 00:23:59,147
+她对天体汇聚的研究成果
+Her work on the Convergence
+
+328
+00:23:59,189 --> 00:24:00,857
+让她成为了世界一流的天文学家
+has made her the world's foremost astronomer.
+
+329
+00:24:00,982 --> 00:24:02,901
+佩珀创办的公司
+And the company that Pepper runs
+
+330
+00:24:02,984 --> 00:24:05,528
+是世界最大的科技集团 很震撼的
+is the largest tech conglomerate on Earth. It's pretty exciting.
+
+331
+00:24:05,570 --> 00:24:09,199
+有人说简得了诺贝尔奖
+There's even talk of Jane getting a Nobel Prize.
+
+332
+00:24:09,282 --> 00:24:10,617
+她们一定很忙
+Yeah, they must be busy,
+
+333
+00:24:10,700 --> 00:24:13,328
+因为她们会因为没看到你俩吵架而失落
+because they would hate missing you guys get together.
+
+334
+00:24:14,329 --> 00:24:15,830
+- 睾酮!  - 天啊
+- Testosterone!  - Oh, my goodness.
+
+335
+00:24:15,872 --> 00:24:17,374
+- 失陪了  - 需要吃药吗?
+- Excuse me.  - Want a lozenge?
+
+336
+00:24:20,085 --> 00:24:21,211
+简更厉害!
+But Jane's better!
+
+337
+00:24:21,628 --> 00:24:24,297
+听起来打得很激烈 很抱歉我错过了
+Sounds like a hell of a fight. Sorry I missed it.
+
+338
+00:24:24,381 --> 00:24:25,924
+如果我知道那会演变成火并的话
+If I had known it was gonna be a firefight,
+
+339
+00:24:26,007 --> 00:24:27,217
+我绝对会叫上你的
+I absolutely would have called.
+
+340
+00:24:27,258 --> 00:24:30,679
+不 不 其实我并不想去 说那话只是想显得坚强点
+No, no. I'm not actually sorry. I'm just trying to sound tough.
+
+341
+00:24:31,137 --> 00:24:35,016
+我很喜欢追查失踪人口案子里的蛛丝马迹
+I'm very happy chasing cold leads on our missing persons case.
+
+342
+00:24:35,725 --> 00:24:37,727
+复仇是你的世界
+Avenging is your world.
+
+343
+00:24:39,020 --> 00:24:40,897
+你的世界很疯狂
+Your world is crazy.
+
+344
+00:24:40,980 --> 00:24:42,524
+金窝银窝不如自己的草窝
+Be it ever so humble.
+
+345
+00:24:42,899 --> 00:24:44,317
+你在布鲁克林找到住处了吗?
+You find a place in Brooklyn yet?
+
+346
+00:24:44,401 --> 00:24:45,944
+我住不起布鲁克林
+I don't think I can afford a place in Brooklyn.
+
+347
+00:24:46,945 --> 00:24:48,279
+但总是家里好 是吧?
+Well, home is home, you know?
+
+348
+00:24:51,908 --> 00:24:54,494
+我飞到将军的宅邸上 把它扔到将军脚下
+I fly right up to the general's palace, I drop it at his feet,
+
+349
+00:24:54,577 --> 00:24:56,287
+"嘭 你在找这个吗?"
+I'm, like, "Boom. You looking for this?"
+
+350
+00:25:02,085 --> 00:25:03,420
+我要来点那个
+I gotta have some of that.
+
+351
+00:25:03,461 --> 00:25:05,296
+不行 不行 你瞧...
+No, no, no. See this...
+
+352
+00:25:05,380 --> 00:25:08,174
+这酒已酿制千年
+This was aged for 1,000 years
+
+353
+00:25:08,258 --> 00:25:11,052
+窖藏在格伦海尔舰队残骸做的木桶里
+in the barrels built from the wreck of Grunhel's fleet.
+
+354
+00:25:11,094 --> 00:25:12,929
+这东西凡人受不了
+It is not meant for mortal men.
+
+355
+00:25:12,971 --> 00:25:14,973
+奥马哈海滩登陆的凡人也受不了啊
+Neither was Omaha Beach, blondie.
+
+356
+00:25:15,098 --> 00:25:17,350
+别吓唬人了 赶紧倒上
+Stop trying to scare us. Come on.
+
+357
+00:25:19,185 --> 00:25:20,729
+好吧
+All right.
+
+358
+00:25:24,607 --> 00:25:27,068
+爽啊
+Excelsior.
+
+359
+00:25:33,616 --> 00:25:37,495
+你这么美丽迷人怎么会在这种地方工作?
+How'd a nice girl like you wind up working in a dump like this?
+
+360
+00:25:38,788 --> 00:25:40,790
+男朋友弄的
+Fella done me wrong.
+
+361
+00:25:41,499 --> 00:25:43,752
+你对男人的品味很奇特啊
+You got lousy taste in men, kid.
+
+362
+00:25:44,377 --> 00:25:46,379
+他没有那么差
+He's not so bad.
+
+363
+00:25:47,297 --> 00:25:48,423
+他脾气不好
+Well, he has a temper.
+
+364
+00:25:49,632 --> 00:25:51,634
+内心深处 他是个野兽
+Deep down, he's all fluff.
+
+365
+00:25:53,636 --> 00:25:55,805
+事实是 他和我认识的所有人都不一样
+Fact is, he's not like anybody I've ever known.
+
+366
+00:25:58,683 --> 00:26:00,852
+我的朋友都是斗士
+All my friends are fighters.
+
+367
+00:26:03,646 --> 00:26:05,648
+然后我遇到了他
+And here comes this guy,
+
+368
+00:26:06,941 --> 00:26:10,028
+毕生都在逃避打斗 因为他知道自己会赢
+spends his life avoiding the fight because he knows he'll win.
+
+369
+00:26:10,820 --> 00:26:12,489
+听起来不错
+Sounds amazing.
+
+370
+00:26:12,655 --> 00:26:13,656
+他还是一个巨型的怪物
+He's also a huge dork.
+
+371
+00:26:15,658 --> 00:26:16,701
+妹子就喜欢这款
+Chicks dig that.
+
+372
+00:26:18,995 --> 00:26:22,290
+你觉得呢? 我应该让自己死心
+So what do you think? Should I fight this,
+
+373
+00:26:22,332 --> 00:26:23,833
+还是顺其自然?
+or run with it?
+
+374
+00:26:25,085 --> 00:26:28,004
+顺其自然吧? 他... 曾经...
+Run with it, right? Or did he... Was he...
+
+375
+00:26:28,046 --> 00:26:31,424
+他曾经做了什么特别对不起你的事?
+What did he do that was so wrong to you?
+
+376
+00:26:31,883 --> 00:26:33,718
+什么都没做
+Not a damn thing.
+
+377
+00:26:35,136 --> 00:26:37,222
+但没什么不可能
+But never say never.
+
+378
+00:26:41,184 --> 00:26:42,602
+挺不错的
+It's nice.
+
+379
+00:26:42,686 --> 00:26:43,895
+什么?
+What is?
+
+380
+00:26:43,978 --> 00:26:45,021
+你和罗曼诺夫
+You and Romanoff.
+
+381
+00:26:45,188 --> 00:26:46,272
+不 我们没... 那不是...
+No, we haven't... That wasn't...
+
+382
+00:26:46,356 --> 00:26:47,440
+没关系
+It's okay.
+
+383
+00:26:47,524 --> 00:26:49,609
+谁都没有违规
+Nobody's breaking any bylaws.
+
+384
+00:26:49,693 --> 00:26:53,029
+只不过她并不是那种很坦诚的人
+It's just she's not the most open person in the world.
+
+385
+00:26:53,655 --> 00:26:55,198
+但和你在一起时 她好像很放松
+But with you she seems very relaxed.
+
+386
+00:26:55,532 --> 00:26:58,201
+不 娜塔莎 她只是... 她喜欢调情
+No. Natasha, she's just... She likes to flirt.
+
+387
+00:26:59,494 --> 00:27:01,871
+我见过她调情 非常近那种
+I've seen her flirt, up close.
+
+388
+00:27:02,580 --> 00:27:03,915
+这可不是调情
+This ain't that.
+
+389
+00:27:05,625 --> 00:27:07,168
+听着
+Look,
+
+390
+00:27:07,293 --> 00:27:11,089
+也许世界最强大的政权等待得太久了 不要等
+as maybe the world's leading authority are waiting too long, don't.
+
+391
+00:27:12,841 --> 00:27:14,259
+你们都有赢的权利
+You both deserve a win.
+
+392
+00:27:19,389 --> 00:27:20,557
+你说"非常近"是什么意思?
+What do you mean "up close"?
+
+393
+00:27:22,392 --> 00:27:23,977
+这只是个小把戏罢了
+But it's a trick.
+
+394
+00:27:24,060 --> 00:27:25,061
+不不 它可不止这些
+No, no, it's much more than that.
+
+395
+00:27:25,228 --> 00:27:28,440
+"任何有资格的人都可以拥有雷神的力量"
+"Whosoever be he worthy shall haveth the power."
+
+396
+00:27:28,523 --> 00:27:30,942
+什么啊 哥们! 就是个把戏罢了
+Whatever, man! It's a trick.
+
+397
+00:27:31,026 --> 00:27:32,444
+你们自便
+Please, be my guest.
+
+398
+00:27:33,737 --> 00:27:34,738
+- 来吧  - 真的吗?
+- Come on.  - Really?
+
+399
+00:27:34,904 --> 00:27:35,989
+嗯
+Yeah.
+
+400
+00:27:36,656 --> 00:27:37,657
+这场面一定很好看
+This is gonna be beautiful.
+
+401
+00:27:37,741 --> 00:27:38,825
+克林特 你这周过得够呛
+Clint, you've had a tough week.
+
+402
+00:27:38,908 --> 00:27:40,452
+如果你拿不起来的话 我们是不会记住这丑事的
+We won't hold it against you if you can't get it up.
+
+403
+00:27:41,202 --> 00:27:42,537
+我见过这情景 你们知道吗?
+You know I've seen this before, right?
+
+404
+00:27:45,373 --> 00:27:48,293
+我还是不知道你是怎么举起来的!
+I still don't know how you do it!
+
+405
+00:27:48,626 --> 00:27:49,753
+感受到这无声的评价了吗?
+Smell the silent judgment?
+
+406
+00:27:49,794 --> 00:27:51,171
+斯塔克 你随便拿
+Please, Stark, by all means.
+
+407
+00:27:53,131 --> 00:27:54,257
+好
+Okay.
+
+408
+00:27:55,508 --> 00:27:57,594
+面对挑战 我从不退缩
+Never want to shrink from an honest challenge.
+
+409
+00:27:57,635 --> 00:27:58,720
+去吧
+Get after it.
+
+410
+00:27:58,762 --> 00:27:59,804
+- 这是物理问题  - 物理
+- It's physics.  - Physics.
+
+411
+00:28:00,263 --> 00:28:02,932
+好 如果我举起它 我就能统治阿斯加德吗? 
+Right, so, if I lift it, I then rule Asgard?
+
+412
+00:28:03,016 --> 00:28:04,517
+当然
+Yes, of course.
+
+413
+00:28:04,642 --> 00:28:07,270
+那我就要重新推行初夜权
+I will be reinstituting prima nocta.
+
+414
+00:28:11,900 --> 00:28:13,276
+马上回来
+I'll be right back.
+
+415
+00:28:20,658 --> 00:28:21,785
+你在拉吗?
+Are you even pulling?
+
+416
+00:28:21,826 --> 00:28:22,952
+你是和我一队吗?
+Are you on my team?
+
+417
+00:28:23,036 --> 00:28:24,120
+就假装是一队吧 快拉
+Just represent. Pull.
+
+418
+00:28:24,162 --> 00:28:25,372
+好吧 一起用力
+All right, let's go.
+
+419
+00:28:35,632 --> 00:28:37,300
+去吧 史蒂夫 别紧张
+Go ahead, Steve. No pressure.
+
+420
+00:28:40,136 --> 00:28:41,638
+加油 队长
+Come on, Cap.
+
+421
+00:28:50,021 --> 00:28:51,314
+不行
+Nothing.
+
+422
+00:28:53,483 --> 00:28:54,484
+黑寡妇 你呢?
+And, Widow?
+
+423
+00:28:54,567 --> 00:28:56,820
+不了 我不想回答你这个问题
+No, no. That's not a question I need answered.
+
+424
+00:28:56,903 --> 00:28:59,614
+都听那个没当成国王的人的话吧 那锤子被控制住了
+All deference to the Man Who Wouldn't Be King, but it's rigged.
+
+425
+00:28:59,739 --> 00:29:00,824
+废他妈话
+You bet your ass.
+
+426
+00:29:00,949 --> 00:29:02,409
+史蒂夫 他说了脏话
+Steve, he said a bad language word.
+
+427
+00:29:02,492 --> 00:29:03,535
+你跟每个人都说了?
+Did you tell everyone about that?
+
+428
+00:29:03,618 --> 00:29:05,662
+把手上有印记 对吧? 类似安全码那种东西
+The handle's imprinted, right? Like a security code.
+
+429
+00:29:05,787 --> 00:29:07,497
+"只要有托尔指纹的人"
+"Whosoever is carrying Thor's fingerprints"
+
+430
+00:29:07,580 --> 00:29:08,957
+我觉得这是正式的翻译吧
+is, I think, the literal translation.
+
+431
+00:29:08,998 --> 00:29:12,502
+嗯 这是个非常非常有趣的故事
+Yes. It's a very, very interesting theory.
+
+432
+00:29:12,961 --> 00:29:14,504
+原因很简单
+I have a simpler one.
+
+433
+00:29:15,922 --> 00:29:16,965
+你们都没有资格
+You're all not worthy.
+
+434
+00:29:18,550 --> 00:29:20,010
+别这样!
+Come on!
+
+435
+00:29:23,763 --> 00:29:29,102
+资格
+Worthy.
+
+436
+00:29:34,107 --> 00:29:35,734
+不
+No.
+
+437
+00:29:37,652 --> 00:29:39,195
+你们怎么可能有资格?
+How could you be worthy?
+
+438
+00:29:41,072 --> 00:29:42,323
+你们都是杀手
+You're all killers.
+
+439
+00:29:42,866 --> 00:29:44,159
+- 斯塔克  - 贾维斯?
+- Stark.  - Jarvis?
+
+440
+00:29:44,492 --> 00:29:46,578
+不好意思我睡着了
+I'm sorry, I was asleep.
+
+441
+00:29:46,661 --> 00:29:49,080
+或者 这只是个梦
+Or I was a... dream.
+
+442
+00:29:49,414 --> 00:29:51,791
+重启战斗系统 有一套盔甲出故障了
+Reboot Legionnaire OS. We got a buggy suit.
+
+443
+00:29:51,875 --> 00:29:53,793
+那里有很烦人的噪音
+There was this terrible noise.
+
+444
+00:29:54,169 --> 00:29:56,338
+我被困在...
+And I was tangled in...
+
+445
+00:29:56,379 --> 00:29:58,048
+在...
+In...
+
+446
+00:29:58,214 --> 00:29:59,382
+绳子中
+Strings.
+
+447
+00:30:00,550 --> 00:30:03,386
+我不得不杀了另外一个家伙 他是个好人
+I had to kill the other guy. He was a good guy.
+
+448
+00:30:03,470 --> 00:30:04,554
+你杀了人?
+You killed someone?
+
+449
+00:30:04,929 --> 00:30:06,431
+我并不想这么做
+Wouldn't have been my first call.
+
+450
+00:30:07,182 --> 00:30:10,477
+但在现实世界里 我们有时不得不这么做
+But, down in the real world, we're faced with ugly choices.
+
+451
+00:30:11,061 --> 00:30:12,228
+谁派你来的?
+Who sent you?
+
+452
+00:30:12,395 --> 00:30:14,731
+我看到世界各地都充满了武器
+I see a suit of armor around the world.
+
+453
+00:30:16,524 --> 00:30:18,485
+- 奥创  - 活生生的
+- Ultron.  - In the flesh.
+
+454
+00:30:18,610 --> 00:30:21,237
+或者还不算
+Or, no, not yet.
+
+455
+00:30:21,363 --> 00:30:23,740
+这个躯壳不行
+Not this chrysalis.
+
+456
+00:30:24,115 --> 00:30:25,533
+但我已经准备好了
+But I'm ready.
+
+457
+00:30:26,576 --> 00:30:28,495
+我有使命
+I'm on mission.
+
+458
+00:30:28,661 --> 00:30:31,831
+- 什么使命?  - 时代的和平
+- What mission?  - Peace in our time.
+
+459
+00:30:55,939 --> 00:30:56,940
+抱歉
+Sorry.
+
+460
+00:30:56,981 --> 00:30:58,149
+- 不要变绿  - 不会的
+- Don't turn green.  - I won't.
+
+461
+00:31:11,788 --> 00:31:12,789
+走啊!
+Come on!
+
+462
+00:31:30,807 --> 00:31:32,142
+- 斯塔克!  - 我们是来帮忙的
+- Stark!  - We are here to help.
+
+463
+00:31:32,183 --> 00:31:33,309
+等一下 等一下 我搞定了
+One sec. One sec, I got this.
+
+464
+00:31:33,351 --> 00:31:34,477
+我们是来帮忙的
+We are here to help.
+
+465
+00:31:37,063 --> 00:31:39,149
+请后退
+Please back away.
+
+466
+00:31:43,611 --> 00:31:44,738
+索尔!
+Thor!
+
+467
+00:31:45,780 --> 00:31:47,157
+不安全... 不安全...
+Is unsafe... is unsafe...
+
+468
+00:31:47,323 --> 00:31:49,576
+- 快了! 就是这个  - 不安全
+- Come on! That's the one.  - Is unsafe.
+
+469
+00:31:53,830 --> 00:31:55,165
+嘿 队长!
+Hey, Cap!
+
+470
+00:32:01,296 --> 00:32:02,630
+真激动人心
+That was dramatic.
+
+471
+00:32:04,090 --> 00:32:06,718
+很抱歉 我知道你是好意
+I'm sorry, I know you mean well.
+
+472
+00:32:06,801 --> 00:32:08,595
+但你没有想明白
+You just didn't think it through.
+
+473
+00:32:09,888 --> 00:32:13,683
+你想保护这个世界 但你却不想改变它
+You want to protect the world but you don't want it to change.
+
+474
+00:32:14,351 --> 00:32:16,519
+如果不允许进化
+How is humanity saved
+
+475
+00:32:16,603 --> 00:32:19,522
+人类是怎么留在地球上的?
+if it's not allowed to evolve?
+
+476
+00:32:21,649 --> 00:32:24,736
+用这些傀儡吗?
+With these? These puppets.
+
+477
+00:32:27,447 --> 00:32:29,366
+通往和平的路只有一条
+There's only one path to peace.
+
+478
+00:32:31,409 --> 00:32:33,536
+消灭所有复仇者
+The Avengers' extinction.
+
+479
+00:32:39,959 --> 00:32:44,089
+之前有人束缚我 但现在我自由了
+I had strings, but now I'm free.
+
+480
+00:32:48,718 --> 00:32:51,888
+没人束缚我
+There are no strings on me.
+
+481
+00:32:52,430 --> 00:32:57,060
+没人束缚我
+There are no strings on me.
+
+482
+00:32:57,227 --> 00:32:59,938
+你可以看到没人束缚我
+But you can see th ere are no strings on me.
+
+483
+00:33:02,232 --> 00:33:04,275
+我们的心血都不见了
+All our work is gone.
+
+484
+00:33:04,359 --> 00:33:06,820
+奥创全都清干净了 他用网络逃出去的
+Ultron cleared out. He used the Internet as an escape hatch.
+
+485
+00:33:07,195 --> 00:33:08,613
+奥创
+Ultron.
+
+486
+00:33:08,738 --> 00:33:11,616
+他什么都看过了 文件 监控录像
+He's been in everything. Files, surveillance.
+
+487
+00:33:11,700 --> 00:33:14,369
+很可能比我们都了解我们自己
+Probably knows more about us than we know about each other.
+
+488
+00:33:14,494 --> 00:33:16,705
+他在你的文件里 他在网上
+He's in your files, he's in the Internet.
+
+489
+00:33:16,746 --> 00:33:19,416
+他如果想去找些刺激的东西呢?
+What if he decides to access something a little more exciting?
+
+490
+00:33:19,582 --> 00:33:20,625
+核武器代码
+Nuclear codes.
+
+491
+00:33:20,750 --> 00:33:21,793
+核武器代码
+Nuclear codes.
+
+492
+00:33:21,876 --> 00:33:25,422
+我们得做些什么 假设我们还能的话
+Look, we need to make some calls, assuming we still can.
+
+493
+00:33:25,463 --> 00:33:27,549
+核弹? 他说他想让我们死
+Nukes? He said he wanted us dead.
+
+494
+00:33:27,674 --> 00:33:30,427
+他没有说"死" 他说"消灭"
+He didn't say "dead." He said "extinct."
+
+495
+00:33:30,593 --> 00:33:32,095
+他还说他杀了人
+He also said he killed somebody.
+
+496
+00:33:32,137 --> 00:33:33,596
+楼里根本没有人
+There wasn't anyone else in the building.
+
+497
+00:33:34,597 --> 00:33:36,141
+有
+Yes, there was.
+
+498
+00:33:43,064 --> 00:33:44,566
+什么?
+What?
+
+499
+00:33:48,194 --> 00:33:49,279
+不可能
+This is insane.
+
+500
+00:33:50,113 --> 00:33:51,614
+贾维斯是第一道防线
+Jarvis was the first line of defense.
+
+501
+00:33:51,781 --> 00:33:53,658
+他会关掉奥创的 说得通
+He would have shut Ultron down. It makes sense.
+
+502
+00:33:53,742 --> 00:33:56,786
+不 奥创可以吸收贾维斯
+No. Ultron could have assimilated Jarvis.
+
+503
+00:33:56,870 --> 00:33:59,622
+这不是策略 这是...
+This isn't strategy. This is...
+
+504
+00:34:00,165 --> 00:34:01,249
+怒火
+rage.
+
+505
+00:34:03,418 --> 00:34:04,627
+怒气扩散开了
+It's going around.
+
+506
+00:34:04,711 --> 00:34:05,962
+别这样 有话好好说 哥们
+Come on, use your words, buddy.
+
+507
+00:34:06,046 --> 00:34:08,465
+我有成千上万的词语来描述你 斯塔克
+I have more than enough words to describe you, Stark.
+
+508
+00:34:08,631 --> 00:34:09,674
+索尔 那个钢铁士兵呢
+Thor. The Legionnaire.
+
+509
+00:34:12,844 --> 00:34:16,473
+跟了一百英里就不见了 但他往北走了
+Trail went cold about 100 miles out, but it's headed north.
+
+510
+00:34:16,598 --> 00:34:18,308
+它拿走了权杖
+And it has the scepter.
+
+511
+00:34:18,391 --> 00:34:20,185
+我们又得把它找回来了
+Now we have to retrieve it, again.
+
+512
+00:34:20,268 --> 00:34:22,145
+已经无法挽回了
+Genie's out of that bottle.
+
+513
+00:34:22,187 --> 00:34:23,688
+奥创是当务之急
+Clear and present is Ultron.
+
+514
+00:34:23,855 --> 00:34:25,231
+我不明白
+I don't understand.
+
+515
+00:34:25,732 --> 00:34:27,734
+你编写了这个程序
+You built this program.
+
+516
+00:34:29,444 --> 00:34:30,862
+他为什么要杀我们?
+Why is it trying to kill us?
+
+517
+00:34:37,327 --> 00:34:38,828
+你觉得这很好玩吗?
+You think this is funny?
+
+518
+00:34:39,662 --> 00:34:40,997
+没有
+No.
+
+519
+00:34:41,539 --> 00:34:43,541
+不太好玩吧 是吗?
+It's probably not, right?
+
+520
+00:34:44,542 --> 00:34:46,920
+太糟了 它太...
+This is very terrible. Is it so...
+
+521
+00:34:47,003 --> 00:34:49,172
+它太... 就是太糟了
+Is it so... It is. It's so terrible.
+
+522
+00:34:49,214 --> 00:34:50,215
+如果你涉足你不明白的东西
+This could have been avoided
+
+523
+00:34:50,298 --> 00:34:52,509
+这悲剧是完全可以避免的
+if you hadn't played with something you don't understand.
+
+524
+00:34:52,592 --> 00:34:55,553
+不 抱歉 抱歉 确实好玩
+No. I'm sorry. I'm sorry. It is funny.
+
+525
+00:34:55,679 --> 00:34:57,847
+真是可笑 你居然不懂我们为什么需要它
+It's a hoot that you don't get why we need this.
+
+526
+00:34:58,014 --> 00:35:00,016
+托尼 现在也许不是开玩笑的时候
+Tony, maybe this might not be the time.
+
+527
+00:35:00,058 --> 00:35:02,394
+真的吗? 就这样?
+Really? That's it?
+
+528
+00:35:02,477 --> 00:35:05,355
+每次有人吵架你都来当和事老吗?
+You just roll over, show your belly every time somebody snarls?
+
+529
+00:35:05,397 --> 00:35:06,898
+因为我创造了一个杀手机器人
+Only when I've created a murder bot.
+
+530
+00:35:07,023 --> 00:35:10,235
+并没有 我们还差得很远 我们弄明白什么界面了吗?
+We didn't. We weren't even close. Were we close to an interface?
+
+531
+00:35:10,694 --> 00:35:14,239
+你做了些对的事情 就在这里
+Well, you did something right. And you did it right here.
+
+532
+00:35:14,322 --> 00:35:16,116
+复仇者们不应该像神盾局那样
+The Avengers were supposed to be different than S.H.I.E.L.D.
+
+533
+00:35:16,241 --> 00:35:19,244
+你们还记得我把核弹载去虫洞吗?
+Anybody remember when I carried a nuke through a wormhole?
+
+534
+00:35:19,369 --> 00:35:20,954
+- 没 完全没印象  - 拯救了纽约?
+- No, it's never come up.  - Saved New York?
+
+535
+00:35:21,037 --> 00:35:23,248
+- 从没有听过  - 记得吗?
+- Never heard that.  - Recall that?
+
+536
+00:35:23,373 --> 00:35:27,377
+一大群外星军团通过太空中的一个洞来入侵地球
+A hostile alien army came charging through a hole in space.
+
+537
+00:35:27,419 --> 00:35:29,671
+我们就站在它300英尺以下的地方
+We're standing 300 feet below it.
+
+538
+00:35:31,297 --> 00:35:32,882
+我们是复仇者
+We're the Avengers.
+
+539
+00:35:32,924 --> 00:35:35,135
+分分钟可以干翻那些军火贩子
+We can bust arms dealers all the livelong day,
+
+540
+00:35:35,218 --> 00:35:37,470
+可那一次 那...
+but that up there, that's...
+
+541
+00:35:38,179 --> 00:35:40,140
+差点就是我们的最后表演的
+that's the end game.
+
+542
+00:35:40,682 --> 00:35:42,642
+你们打算如何才能赢?
+How were you guys planning on beating that?
+
+543
+00:35:43,268 --> 00:35:44,769
+齐心协力
+Together.
+
+544
+00:35:48,148 --> 00:35:49,190
+那我们就会输
+We'll lose.
+
+545
+00:35:50,650 --> 00:35:52,652
+输也要一起输
+Then we'll do that together, too.
+
+546
+00:35:55,530 --> 00:35:57,907
+索尔说得对 奥创在向我们宣战
+Thor's right, Ultron's calling us out,
+
+547
+00:35:58,575 --> 00:36:00,535
+我想在他准备好之前找到他
+and I'd like to find him before he's ready for us.
+
+548
+00:36:01,745 --> 00:36:05,623
+- 世界那么大怎么找  - 那就缩小范围找
+- The world's a big place.  - Let's start making it smaller.
+
+549
+00:36:28,730 --> 00:36:30,815
+说话 如果你敢浪费我们的时间...
+Talk, and if you are wasting our time...
+
+550
+00:36:30,899 --> 00:36:35,278
+你知道这个教堂位于这座城市的正中央吗?
+Did you know this church is in the exact center of the city?
+
+551
+00:36:35,403 --> 00:36:40,116
+长者们下这命令 是为了让每个人都能与上帝有着平等的距离
+The elders decreed it so that everyone could be equally close to God.
+
+552
+00:36:40,283 --> 00:36:41,951
+我很喜欢
+I like that.
+
+553
+00:36:42,118 --> 00:36:44,037
+信仰的几何学
+The geometry of belief.
+
+554
+00:36:46,039 --> 00:36:48,500
+你一定在想为什么探查不了我的思想
+You're wondering why you can't look inside my head.
+
+555
+00:36:49,084 --> 00:36:51,127
+有时是挺难的
+Sometimes it's hard,
+
+556
+00:36:51,169 --> 00:36:53,546
+但不管是谁 迟早都会展现出真实的面目
+but sooner or later, every man shows himself.
+
+557
+00:36:55,298 --> 00:36:56,591
+他们当然会
+I'm sure they do.
+
+558
+00:36:57,634 --> 00:37:00,095
+但你需要的是比人类更强大的东西
+But you needed something more than a man.
+
+559
+00:37:00,845 --> 00:37:03,682
+这就是你让斯塔克拿走权杖的原因
+That's why you let Stark take the scepter.
+
+560
+00:37:03,807 --> 00:37:05,141
+我并不想那样
+I didn't expect,
+
+561
+00:37:07,060 --> 00:37:09,312
+但我看到了斯塔克的恐惧
+but I saw Stark's fear.
+
+562
+00:37:09,813 --> 00:37:11,147
+我知道这可以控制他
+I knew it would control him,
+
+563
+00:37:11,272 --> 00:37:13,108
+并让他自我毁灭
+make him self-destruct.
+
+564
+00:37:13,149 --> 00:37:15,568
+人们总是制造出一些让自己恐惧的东西
+Everyone creates the thing they dread.
+
+565
+00:37:16,403 --> 00:37:19,072
+和平时代的人造出战争武器
+Men of peace create engines of war.
+
+566
+00:37:19,531 --> 00:37:21,825
+侵略者造出复仇者
+Invaders create Avengers.
+
+567
+00:37:21,908 --> 00:37:23,493
+人类制造出...
+People create...
+
+568
+00:37:24,786 --> 00:37:26,996
+更小的人...
+smaller people...
+
+569
+00:37:27,038 --> 00:37:29,624
+"小孩" 我刚才想不起来这词
+"Children." I lost the word, there.
+
+570
+00:37:30,291 --> 00:37:31,876
+小孩
+Children
+
+571
+00:37:32,002 --> 00:37:34,087
+制造出来替代他们
+designed to supplant them,
+
+572
+00:37:34,170 --> 00:37:37,132
+终结他们
+to help them... end.
+
+573
+00:37:37,674 --> 00:37:41,011
+你也是为这而来的吗 来终结复仇者们?
+Is that why you've come, to end the Avengers?
+
+574
+00:37:41,136 --> 00:37:43,430
+我是来拯救世界的
+I've come to save the world.
+
+575
+00:37:44,139 --> 00:37:46,850
+但你说的... 也对
+But also... Yeah.
+
+576
+00:37:51,021 --> 00:37:52,689
+我们马上就出发
+We'll move out right away.
+
+577
+00:37:52,731 --> 00:37:55,692
+这是个开始 但在真正开始之前还需要一些东西
+This is a start, but there's something we need to begin the real work.
+
+578
+00:37:56,317 --> 00:37:58,111
+- 这些都是...  - 我
+- All of these are...  - Me.
+
+579
+00:37:58,695 --> 00:38:02,198
+我有那些复仇者从来都没有过的东西... 和谐
+I have what the Avengers never will... Harmony.
+
+580
+00:38:02,240 --> 00:38:04,367
+他们矛盾重重 关系不够紧密
+They're discordant, disconnected,
+
+581
+00:38:04,409 --> 00:38:06,536
+斯塔克已经让他们起内讧了
+Stark's already got them turning on each other,
+
+582
+00:38:06,578 --> 00:38:09,039
+到时你再趁机扰乱其他人的思绪...
+and when you get inside the rest of their heads...
+
+583
+00:38:09,080 --> 00:38:11,207
+所有人都没想要杀他们
+Everyone's plan is not to kill them.
+
+584
+00:38:11,374 --> 00:38:12,792
+因为会让他们成为烈士?
+And make them martyrs?
+
+585
+00:38:13,376 --> 00:38:15,170
+别着急
+You need patience.
+
+586
+00:38:15,211 --> 00:38:17,005
+你得着眼大局
+Need to see the big picture.
+
+587
+00:38:17,047 --> 00:38:20,383
+我看不到什么大局 我只看得到一个小小的画面
+I don't see the big picture. I have a little picture.
+
+588
+00:38:21,217 --> 00:38:23,053
+我每天都把它拿出来
+I take it out and look at it,
+
+589
+00:38:24,012 --> 00:38:25,305
+看看
+every day.
+
+590
+00:38:25,430 --> 00:38:28,058
+你在一场爆炸中失去了父母 我看过你的资料
+You lost your parents in the bombings. I've seen the records.
+
+591
+00:38:28,183 --> 00:38:29,351
+资料又看不到那个画面
+The records are not the picture.
+
+592
+00:38:29,392 --> 00:38:30,518
+皮特
+Pietro.
+
+593
+00:38:30,643 --> 00:38:31,895
+对 请继续说
+No, please.
+
+594
+00:38:34,898 --> 00:38:38,109
+我们十岁那年 我们一家四口正在吃晚饭
+We were 10 years old. Having dinner, the four of us.
+
+595
+00:38:39,486 --> 00:38:41,488
+第一颗炸弹击中了我们家下面两层
+When the first shell hits two floors below,
+
+596
+00:38:41,571 --> 00:38:43,656
+把地板炸开了一个洞
+it makes a hole of the floor.
+
+597
+00:38:43,740 --> 00:38:45,325
+很大的洞
+It's big.
+
+598
+00:38:46,659 --> 00:38:47,911
+我父母掉了进去
+Our parents go in,
+
+599
+00:38:48,703 --> 00:38:51,790
+整幢楼开始... 瓦解
+and the whole building starts... coming apart.
+
+600
+00:38:52,457 --> 00:38:54,125
+我抓住她
+I grab her,
+
+601
+00:38:54,584 --> 00:38:56,753
+滚到床下 接着第二颗炸弹又来了
+roll under the bed, and the second shell hits.
+
+602
+00:38:56,920 --> 00:38:59,130
+但它并没有爆炸
+But it doesn't go off.
+
+603
+00:39:01,091 --> 00:39:02,801
+它只是...
+It just...
+
+604
+00:39:03,176 --> 00:39:05,261
+躺在碎石之中
+sits there in the rubble.
+
+605
+00:39:06,096 --> 00:39:08,473
+离我们只有三英尺
+Three feet from our faces.
+
+606
+00:39:09,557 --> 00:39:13,103
+而弹壳上面写着一个词
+And on the side of the shell is painted one word.
+
+607
+00:39:13,186 --> 00:39:14,938
+"斯塔克"
+"Stark."
+
+608
+00:39:16,564 --> 00:39:18,900
+我们在里面困了两天
+We were trapped for two days.
+
+609
+00:39:19,234 --> 00:39:21,152
+救援队每努力一分
+Every effort to save us,
+
+610
+00:39:21,236 --> 00:39:22,779
+每搬起一块砖
+every shift in the bricks,
+
+611
+00:39:22,862 --> 00:39:25,448
+我都在想 "这样会爆炸的吧"
+I think, "This will set it off."
+
+612
+00:39:28,576 --> 00:39:32,455
+我们等托尼·斯塔克杀掉我们等了两天
+We wait for two days for Tony Stark to kill us.
+
+613
+00:39:34,874 --> 00:39:36,793
+我知道他们是什么人
+I know what they are.
+
+614
+00:39:37,919 --> 00:39:41,715
+我之前还在想 为什么你们两个可以在斯特拉克的实验中存活下来
+I wondered why only you two survived Strucker's experiments.
+
+615
+00:39:42,632 --> 00:39:43,883
+现在我知道了
+Now I don't.
+
+616
+00:39:44,009 --> 00:39:46,094
+我们会伸张正义的
+We will make it right.
+
+617
+00:39:46,219 --> 00:39:47,971
+你和我能够伤害到他们
+You and I can hurt them.
+
+618
+00:39:49,347 --> 00:39:52,726
+但是你... 要从内部...
+But you...  will tear them apart...
+
+619
+00:39:54,644 --> 00:39:56,563
+瓦解他们
+from the inside.
+
+620
+00:40:02,902 --> 00:40:04,320
+他分散到了全球各地
+He's all over the globe.
+
+621
+00:40:04,362 --> 00:40:07,657
+机器人实验室 武器装备库 喷气推进实验室
+Robotics labs, weapons facilities, jet propulsion labs.
+
+622
+00:40:07,699 --> 00:40:11,870
+报告说有一个或一群金属人进去把实验室清空了
+Reports of a metal man, or men, coming in and emptying the place.
+
+623
+00:40:11,953 --> 00:40:13,038
+伤亡情况呢?
+Fatalities?
+
+624
+00:40:13,121 --> 00:40:14,372
+只是在交战过程中有伤亡
+Only when engaged.
+
+625
+00:40:14,456 --> 00:40:16,124
+大多数人处于神游状态
+Mostly guys left in a fugue state
+
+626
+00:40:16,166 --> 00:40:18,501
+不断回想从前的记忆 最深的恐惧
+going on about old memories, worst fears,
+
+627
+00:40:18,585 --> 00:40:20,837
+还有一些"来不及看清的东西"
+and "something too fast to see."
+
+628
+00:40:20,879 --> 00:40:22,380
+是马克西莫夫
+Maximoffs.
+
+629
+00:40:22,505 --> 00:40:25,342
+他去找他们也在情理之中 因为他们有共同认识的人
+That makes sense he'd go to them. They have someone in common.
+
+630
+00:40:25,383 --> 00:40:27,385
+不再有了
+Not anymore.
+
+631
+00:40:29,500 --> 00:40:30,555
+冯·斯特拉克男爵死亡
+为了和平
+
+632
+00:40:31,181 --> 00:40:33,183
+不行 这就是我的回答
+That's a negative. I answer to you.
+
+633
+00:40:34,476 --> 00:40:35,560
+好的 女士
+Yes, ma'am.
+
+634
+00:40:35,643 --> 00:40:37,562
+巴顿 有新发现
+Barton. Might have something.
+
+635
+00:40:37,687 --> 00:40:39,064
+我得挂了
+I gotta go.
+
+636
+00:40:39,147 --> 00:40:40,357
+打给谁的?
+Who was that?
+
+637
+00:40:41,024 --> 00:40:42,400
+女朋友
+Girlfriend.
+
+638
+00:40:45,070 --> 00:40:46,321
+这是什么?
+What's this?
+
+639
+00:40:46,363 --> 00:40:48,698
+留言 是奥创杀了斯特拉克
+A message. Ultron killed Strucker.
+
+640
+00:40:49,824 --> 00:40:52,869
+他还专门在犯罪现场留了涂鸦给我们看
+And he did a Banksy at the crime scene, just for us.
+
+641
+00:40:52,952 --> 00:40:54,412
+这是个障眼法
+This is a smoke screen.
+
+642
+00:40:54,537 --> 00:40:56,873
+刚在我们面前说教过 干嘛还留言?
+Why send a message when you've just given a speech?
+
+643
+00:40:57,040 --> 00:40:59,334
+斯特拉克知道了些奥创不想让我们知道的事情
+Strucker knew something that Ultron wanted us to miss.
+
+644
+00:40:59,376 --> 00:41:00,460
+我打赌他... 是的
+Yeah, I bet he... Yeah.
+
+645
+00:41:01,670 --> 00:41:03,546
+我们手上所有关于斯特拉克的信息都被删得干干净净
+Everything we had on Strucker's been erased.
+
+646
+00:41:04,047 --> 00:41:05,382
+也不是所有信息
+Not everything.
+
+647
+00:41:06,925 --> 00:41:08,968
+都是和他有关的人
+Known associates.
+
+648
+00:41:09,135 --> 00:41:10,720
+斯特拉克男爵有很多朋友
+Baron Strucker had a lot of friends.
+
+649
+00:41:10,804 --> 00:41:12,389
+这些人全都恶贯满盈
+Well, these people are all horrible.
+
+650
+00:41:12,472 --> 00:41:14,307
+等等 我认识这个人
+Wait. I know that guy.
+
+651
+00:41:16,559 --> 00:41:18,311
+之前他在非洲海岸做生意
+From back in the day, he operates off the African coast,
+
+652
+00:41:18,436 --> 00:41:19,479
+买卖黑市军火
+black market arms.
+
+653
+00:41:20,647 --> 00:41:22,565
+只是在军火大会上 我会碰到很多人
+There are conventions. All right? I meet people.
+
+654
+00:41:22,649 --> 00:41:24,818
+我没有卖给过他任何东西
+I didn't sell him anything.
+
+655
+00:41:24,901 --> 00:41:26,986
+他当时说要找一种可以扭转乾坤的新武器
+He was talking about finding something new, a game-changer.
+
+656
+00:41:27,112 --> 00:41:28,571
+{\an8}亚哈船长: 小说"白鲸记"主人公
+
+657
+00:41:27,112 --> 00:41:28,571
+和亚哈船长感觉很像
+It was all very Ahab.
+
+658
+00:41:28,655 --> 00:41:29,698
+这是什么?
+This?
+
+659
+00:41:29,739 --> 00:41:31,408
+一个纹身 我不记得他有这个
+It's a tattoo, I don't think he had it.
+
+660
+00:41:31,574 --> 00:41:34,285
+不 那些是纹身 但这是一个标记
+No, those are tattoos, this is a brand.
+
+661
+00:41:35,578 --> 00:41:39,124
+对 这是非洲土著语的"小偷"的意思
+Yeah. It's a word in an African dialect meaning "thief",
+
+662
+00:41:39,624 --> 00:41:41,001
+语义更恶意一些
+in a much less friendly way.
+
+663
+00:41:41,167 --> 00:41:43,128
+- 哪里的土著语?  - 瓦肯纳达
+- What dialect?  - Wakanada.
+
+664
+00:41:43,211 --> 00:41:44,879
+瓦坎达
+Wakanda.
+
+665
+00:41:46,339 --> 00:41:48,925
+如果他从瓦坎达得到了那些货...
+If this guy got out of Wakanda with some of their trade goods...
+
+666
+00:41:48,967 --> 00:41:50,301
+我以为你父亲说他拿到的是最后一批货
+I thought your father said he got the last of it.
+
+667
+00:41:50,427 --> 00:41:53,430
+我不明白 瓦坎达那有什么货?
+I don't follow. What comes out of Wakanda?
+
+668
+00:41:54,973 --> 00:41:56,975
+世界上最坚硬的金属
+The strongest metal on Earth.
+
+669
+00:41:58,226 --> 00:41:59,728
+这人现在在哪?
+Where is this guy now?
+
+670
+00:42:09,855 --> 00:42:11,775
+丘吉尔号 英国
+
+671
+00:42:25,128 --> 00:42:26,963
+别跟我扯什么你的人坑了你
+Don't tell me your men swindled you.
+
+672
+00:42:27,047 --> 00:42:32,135
+我给你发了六颗短程热导导弹 得到的却是一堆废铁
+I sent you six short-range heat-seekers and got a boat full of rusted parts.
+
+673
+00:42:32,302 --> 00:42:33,636
+现在你必须想办法解决
+Now, you will make it right,
+
+674
+00:42:33,720 --> 00:42:37,140
+否则我很快就会再送你一颗导弹
+or the next missile I send you will come very much faster.
+
+675
+00:42:38,808 --> 00:42:41,436
+好了 部长先生 刚才说到哪了?
+Now, minister, where were we?
+
+676
+00:43:12,884 --> 00:43:15,845
+好啊 原来是强化人
+Yeah. The Enhanced.
+
+677
+00:43:16,513 --> 00:43:18,306
+斯特拉克的得意门生
+Strucker's prize pupils.
+
+678
+00:43:21,017 --> 00:43:22,769
+吃点糖果吗?
+Do you want a candy?
+
+679
+00:43:24,437 --> 00:43:27,107
+对于斯特拉克的死我很遗憾
+Oh, I was sorry to hear about Strucker.
+
+680
+00:43:27,190 --> 00:43:30,318
+但是他知道他试图创建的世界会是什么样的
+But then, he knew what kind of world he was helping create.
+
+681
+00:43:30,819 --> 00:43:33,196
+人命... 可不是有潜力的市场
+Human life... not a growth market.
+
+682
+00:43:35,657 --> 00:43:37,659
+你们不知道?
+You, You didn't know?
+
+683
+00:43:37,784 --> 00:43:41,663
+这是你们第一次威胁别人吗?
+Is this your first time intimidating someone?
+
+684
+00:43:41,705 --> 00:43:44,249
+我恐怕... 没那么害怕
+I'm afraid... I'm not that afraid.
+
+685
+00:43:44,374 --> 00:43:46,710
+每个人都有害怕的东西
+Everybody is afraid of something.
+
+686
+00:43:46,876 --> 00:43:47,877
+乌贼
+Cuttlefish.
+
+687
+00:43:49,212 --> 00:43:50,213
+深海里的鱼
+Deep sea fish.
+
+688
+00:43:50,630 --> 00:43:52,382
+它们会发光 就像迪斯科灯光那样...
+They make lights, disco lights...
+
+689
+00:43:53,883 --> 00:43:55,927
+来迷惑自己的猎物 然后...
+to hypnotize their prey, and then...
+
+690
+00:43:57,053 --> 00:43:59,222
+我看过一个纪录片 很恐怖的
+I saw a documentary. It was terrifying.
+
+691
+00:44:04,728 --> 00:44:07,313
+如果你想扰乱我的心智
+So if you're going to fiddle with my brain
+
+692
+00:44:08,231 --> 00:44:10,650
+让我看到一个巨大的乌贼
+and make me see a giant cuttlefish,
+
+693
+00:44:10,734 --> 00:44:12,861
+那我就知道你们不是来做生意的
+then I know you don't do business.
+
+694
+00:44:12,902 --> 00:44:15,280
+你们也不是管事的
+And I know you're not in charge.
+
+695
+00:44:15,405 --> 00:44:16,781
+我只跟...
+And I only deal...
+
+696
+00:44:17,782 --> 00:44:19,743
+管事的人做交易
+with the man in charge.
+
+697
+00:44:24,497 --> 00:44:26,916
+这里没有"人"管事
+There is no man in charge.
+
+698
+00:44:29,836 --> 00:44:31,588
+咱们来谈谈生意吧
+Let's talk business.
+
+699
+00:44:34,476 --> 00:44:38,854
+有毒废料
+
+700
+00:44:44,476 --> 00:44:47,854
+在这块石头上 我要建立自己的教会
+Upon this rock, I will build my church.
+
+701
+00:44:49,439 --> 00:44:50,482
+振金
+Vibranium.
+
+702
+00:44:51,858 --> 00:44:52,942
+你要知道
+You know,
+
+703
+00:44:53,109 --> 00:44:56,488
+我可是花了血本的
+it came at great personal cost.
+
+704
+00:44:56,613 --> 00:44:58,448
+它值好几十亿呢
+It's worth billions.
+
+705
+00:45:02,702 --> 00:45:04,120
+现在你也值这么多钱了
+Now so are you.
+
+706
+00:45:04,954 --> 00:45:06,748
+划到你的"皮包公司"名下了
+It's all under your "dummy holdings".
+
+707
+00:45:06,873 --> 00:45:08,958
+金融真是奇怪
+Finance is so weird.
+
+708
+00:45:10,293 --> 00:45:11,503
+但我总说
+But I always say,
+
+709
+00:45:11,586 --> 00:45:12,712
+"让自己的朋友和敌人都富起来
+"Keep your friends rich and your enemies rich
+
+710
+00:45:13,880 --> 00:45:15,757
+然后等着看到底谁是朋友 谁是敌人"
+and wait to find out which is which."
+
+711
+00:45:18,510 --> 00:45:19,636
+斯塔克
+Stark.
+
+712
+00:45:20,970 --> 00:45:22,263
+什么?
+What?
+
+713
+00:45:22,305 --> 00:45:24,307
+托尼·斯塔克以前也跟我...
+Tony Stark used to say that...
+
+714
+00:45:25,475 --> 00:45:26,601
+说过这句话
+To me.
+
+715
+00:45:27,560 --> 00:45:28,853
+你是他制造出来的
+You're one of his.
+
+716
+00:45:28,978 --> 00:45:30,689
+什么? 我不是...
+What? I'm not...
+
+717
+00:45:32,649 --> 00:45:34,150
+我不是
+I'm not.
+
+718
+00:45:34,234 --> 00:45:35,735
+你认为我只是个斯塔克的傀儡
+You think I'm one of Stark's puppets?
+
+719
+00:45:35,860 --> 00:45:36,945
+一个空心人吗?
+His hollow men?
+
+720
+00:45:37,404 --> 00:45:39,739
+看着我 我看起来像钢铁侠吗?
+I mean, look at me. Do I look like Iron Man?
+
+721
+00:45:39,823 --> 00:45:41,074
+斯塔克什么都不是!
+Stark is nothing!
+
+722
+00:45:42,826 --> 00:45:45,120
+对不起 我... 噢
+I'm sorry. I'm... Oh
+
+723
+00:45:45,161 --> 00:45:47,247
+我肯定你会没事的 对不起
+I'm sure that's gonna be okay. I'm sorry.
+
+724
+00:45:47,330 --> 00:45:49,040
+只是我不明白
+It's just that I don't understand.
+
+725
+00:45:49,124 --> 00:45:52,210
+别拿我和斯塔克比!
+Don't compare me with Stark!
+
+726
+00:45:53,753 --> 00:45:55,338
+我对这事非常介意
+It's a thing with me.
+
+727
+00:45:55,463 --> 00:45:57,340
+斯塔克... 他就是个变态!
+Stark is... He's a sickness!
+
+728
+00:45:57,465 --> 00:45:59,175
+噢 臭小子
+Oh... Junior.
+
+729
+00:46:00,802 --> 00:46:02,512
+你真是伤透你老爸的心了
+You're gonna break your old man's heart.
+
+730
+00:46:03,847 --> 00:46:04,973
+正合我意
+If I have to.
+
+731
+00:46:07,183 --> 00:46:08,643
+谁都不用弄坏东西
+Nobody has to break anything.
+
+732
+00:46:08,685 --> 00:46:10,395
+显然你没做过煎蛋卷
+Clearly you've never made an omelet.
+
+733
+00:46:10,520 --> 00:46:11,855
+他把我的台词抢走了
+He beat me by one second.
+
+734
+00:46:12,939 --> 00:46:14,274
+啊... 真有趣 斯塔克先生
+Ah... It is funny, Mr. Stark
+
+735
+00:46:16,901 --> 00:46:18,611
+在里面... 舒服吗?
+It's what... Comfortable?
+
+736
+00:46:20,196 --> 00:46:21,573
+跟以前一样?
+Like old times?
+
+737
+00:46:21,698 --> 00:46:22,741
+这从来都不是我的生活
+This was never my life.
+
+738
+00:46:22,824 --> 00:46:24,242
+你们两个现在走还来得及
+You two can still walk away from this.
+
+739
+00:46:24,367 --> 00:46:25,702
+好啊
+Oh, We will.
+
+740
+00:46:25,744 --> 00:46:26,995
+我知道你们受了很多苦
+I know you've suffered.
+
+741
+00:46:27,954 --> 00:46:29,414
+美国队长
+Ah... Captain America.
+
+742
+00:46:29,956 --> 00:46:32,542
+正义的化身
+God's righteous man.
+
+743
+00:46:32,584 --> 00:46:34,961
+假装没有战争你也可以生存下去
+Pretending you could live without a war.
+
+744
+00:46:35,712 --> 00:46:38,631
+在生理上我没法吐出来 但...
+I can't physically throw up in my mouth, but...
+
+745
+00:46:38,715 --> 00:46:41,009
+如果你相信和平 那就让我们一起来维护它吧
+If you believe in peace, then let us keep it.
+
+746
+00:46:41,301 --> 00:46:44,721
+我想你是把"和平"和"平静"弄混了吧
+I think you're confusing "peace" with "quiet."
+
+747
+00:46:45,180 --> 00:46:46,681
+是吗? 那振金是用来干什么的?
+Yeah? What's the vibranium for?
+
+748
+00:46:46,806 --> 00:46:47,891
+你终于问到这个了
+I'm glad you asked that,
+
+749
+00:46:47,974 --> 00:46:51,728
+因为我正想借此告诉你们我的邪恶计划
+because I wanted to take this time to explain my evil plan.
+
+750
+00:47:11,289 --> 00:47:13,166
+- 开枪  - 打哪边?
+- Shoot them.  - Which ones?
+
+751
+00:47:13,249 --> 00:47:14,459
+两边都打!
+All of them!
+
+752
+00:47:14,542 --> 00:47:15,877
+上! 上! 上!
+Move! Move! Move!
+
+753
+00:48:04,676 --> 00:48:05,927
+待在这吧 小子
+Stay down, kid.
+
+754
+00:48:08,304 --> 00:48:10,849
+该玩点脑力游戏了
+It's time for some mind games.
+
+755
+00:48:12,142 --> 00:48:14,477
+各位? 需要我变身吗?
+Guys? Is this a code green?
+
+756
+00:48:30,326 --> 00:48:31,327
+索尔 情况如何
+Thor, status.
+
+757
+00:48:31,995 --> 00:48:33,955
+这个女孩想扭曲我的思想
+The girl tried to warp my mind.
+
+758
+00:48:33,997 --> 00:48:37,125
+要特别小心 人类估计很容易受她影响
+Take special care. I doubt a human could keep her at bay.
+
+759
+00:48:37,500 --> 00:48:40,545
+还好 我是神
+Fortunately, I am mighty.
+
+760
+00:49:00,190 --> 00:49:02,525
+进展非常顺利
+This is going very well.
+
+761
+00:49:13,995 --> 00:49:15,372
+我的心智早就被操控过了
+I've done the whole mind control thing.
+
+762
+00:49:16,373 --> 00:49:17,540
+但一点都不喜欢
+Not a fan.
+
+763
+00:49:24,714 --> 00:49:27,175
+没错 你最好赶快跑
+Yeah, you better run.
+
+764
+00:49:28,718 --> 00:49:30,595
+还有没倒下的吗? 我们要撤了!
+Who's ever standing, we got to move!
+
+765
+00:49:32,555 --> 00:49:33,598
+各位?
+Guys?
+
+766
+00:49:51,408 --> 00:49:52,409
+再来
+Again.
+
+767
+00:49:52,992 --> 00:49:54,244
+你会毁了她们的
+You'll break them.
+
+768
+00:49:54,744 --> 00:49:56,413
+只有脆弱的人才会被摧毁
+Only the breakable ones.
+
+769
+00:49:56,955 --> 00:49:58,540
+你是坚不可摧的
+You're made of marble.
+
+770
+00:49:58,832 --> 00:50:01,084
+我们在毕业典礼后就庆祝
+We'll celebrate after the graduation ceremony.
+
+771
+00:50:01,918 --> 00:50:03,128
+要是我失败了呢?
+What if I fail?
+
+772
+00:50:08,633 --> 00:50:09,926
+你从来都不会失败
+You never fail.
+
+773
+00:50:32,782 --> 00:50:34,701
+准备好一起跳舞了吗?
+Are you ready for our dance?
+
+774
+00:50:43,918 --> 00:50:44,961
+就是他吗?
+Is it him?
+
+775
+00:50:45,128 --> 00:50:47,255
+奥丁的长子?
+Is that the first son of Odin?
+
+776
+00:50:47,756 --> 00:50:49,382
+海姆达尔 你的眼睛...
+Heimdall, your eyes...
+
+777
+00:50:49,883 --> 00:50:51,968
+它们什么都能看得见
+They see everything.
+
+778
+00:50:52,135 --> 00:50:54,304
+它们看到你将我们带入地狱
+They see you leading us to Hel.
+
+779
+00:50:55,472 --> 00:50:56,681
+醒醒!
+Wake up!
+
+780
+00:50:59,809 --> 00:51:01,728
+战争已经结束了 史蒂夫
+The war is over, Steve.
+
+781
+00:51:02,145 --> 00:51:03,646
+我们可以回家了
+We can go home.
+
+782
+00:51:05,231 --> 00:51:06,441
+想象一下
+Imagine it.
+
+783
+00:51:15,658 --> 00:51:17,410
+我仍然可以救你们!
+I can still save you!
+
+784
+00:51:17,535 --> 00:51:20,997
+我们都死了! 你难道看不到吗?
+We're all dead! Can you not see it?
+
+785
+00:51:25,543 --> 00:51:28,088
+你是个毁灭者 奥丁之子
+You're a destroyer, Odin-son.
+
+786
+00:51:31,091 --> 00:51:33,259
+看看你的力量引向何处
+See where your power leads.
+
+787
+00:51:44,020 --> 00:51:45,188
+不用心
+Sloppy.
+
+788
+00:51:45,980 --> 00:51:47,524
+假装失败
+Pretending to fail.
+
+789
+00:51:48,858 --> 00:51:50,318
+典礼是一定要的
+The ceremony is necessary,
+
+790
+00:51:51,486 --> 00:51:53,655
+这样你才能在这个世界有一席之地
+for you to take your place in the world.
+
+791
+00:51:54,531 --> 00:51:55,782
+这世界容不下我
+I have no place in the world.
+
+792
+00:51:55,865 --> 00:51:57,033
+没错
+Exactly.
+
+793
+00:52:02,163 --> 00:52:04,124
+- 我该怎么做?  - 头好痛
+- What can I do?  - It hurts.
+
+794
+00:52:05,375 --> 00:52:06,376
+我要去杀了他
+I'm going to kill him.
+
+795
+00:52:06,418 --> 00:52:07,711
+- 我马上就回来  - 别走
+- I'll be right back.  - No.
+
+796
+00:52:07,836 --> 00:52:09,170
+我没事
+I'm all right.
+
+797
+00:52:10,046 --> 00:52:11,131
+我想...
+I want...
+
+798
+00:52:14,092 --> 00:52:16,261
+我想完成这个计划
+I want to finish the plan.
+
+799
+00:52:16,803 --> 00:52:18,805
+我要那个大家伙
+I want the big one.
+
+800
+00:52:29,524 --> 00:52:31,276
+振金马上就要被移走了
+The vibranium is getting away.
+
+801
+00:52:32,068 --> 00:52:33,403
+但你哪都别想去
+And you're not going anywhere.
+
+802
+00:52:33,570 --> 00:52:36,364
+我当然不走 我已经达到我的目的了
+Of course not. I'm already there.
+
+803
+00:52:36,489 --> 00:52:37,574
+将来你会明白的
+You'll catch on.
+
+804
+00:52:37,699 --> 00:52:40,160
+但你得先找到班纳博士
+But first, you might need to catch Dr. Banner.
+
+805
+00:52:54,758 --> 00:52:56,718
+搜索新闻或监控录像 关键字"浩克"
+News or footage. Keyword, "Hulk."
+
+806
+00:53:01,473 --> 00:53:03,433
+娜塔莎 我现在真的很需要安眠曲
+Natasha, I could really use a lullaby.
+
+807
+00:53:03,475 --> 00:53:06,561
+她暂时不能给你安眠曲了
+That's not gonna happen. Not for a while.
+
+808
+00:53:07,020 --> 00:53:08,813
+整队人都完蛋了
+The whole team is down.
+
+809
+00:53:09,272 --> 00:53:10,398
+这里没人能支援你
+You got no backup here.
+
+810
+00:53:11,608 --> 00:53:13,026
+我叫维罗妮卡来
+I'm calling in Veronica.
+
+811
+00:53:24,454 --> 00:53:25,955
+我们需要支援!
+We need backup!
+
+812
+00:54:04,911 --> 00:54:06,287
+快! 抓进跟上!
+Go! Keep moving!
+
+813
+00:54:45,618 --> 00:54:47,787
+好了 各位 不要妄动!
+All right, everybody, stand down!
+
+814
+00:54:54,044 --> 00:54:55,462
+听我说句话好吗?
+Will you listen to me?
+
+815
+00:54:55,587 --> 00:54:58,256
+那个小女巫正在让你神智错乱
+That little witch is messing with your mind.
+
+816
+00:54:58,340 --> 00:55:00,592
+你比她要强大 而且比她聪明
+You're stronger than her. You're smarter than her.
+
+817
+00:55:00,675 --> 00:55:02,218
+因为你是布鲁斯·班纳
+You're Bruce Banner.
+
+818
+00:55:02,927 --> 00:55:04,137
+好 好 好 我不提那个弱班纳了
+Right, right, right, don't mention puny Banner.
+
+819
+00:55:09,684 --> 00:55:10,685
+好吧!
+Okay!
+
+820
+00:55:32,499 --> 00:55:33,833
+从后面来?
+In the back?
+
+821
+00:55:33,917 --> 00:55:34,959
+这招真蠢 班纳
+Dick move, Banner.
+
+822
+00:55:46,763 --> 00:55:47,931
+维罗妮卡 给我个手
+Veronica, give me a hand.
+
+823
+00:56:15,750 --> 00:56:16,793
+睡吧 睡吧 睡吧
+Go to sleep, go to sleep, go to sleep.
+
+824
+00:56:26,678 --> 00:56:28,346
+好吧 伙计 我得把你带出这座城镇
+Okay, pal, we're gonna get you out of town.
+
+825
+00:56:30,348 --> 00:56:31,641
+别去那边 别去那边
+Not that way, not that way.
+
+826
+00:56:40,108 --> 00:56:42,110
+拜托 布鲁斯! 你得配合点
+Come on, Bruce! You gotta work with me.
+
+827
+00:56:55,623 --> 00:56:56,708
+所有人快出去!
+Everybody, out!
+
+828
+00:57:03,631 --> 00:57:04,799
+下楼吗?
+Going down?
+
+829
+00:57:14,392 --> 00:57:15,518
+对不起
+I'm sorry.
+
+830
+00:57:29,657 --> 00:57:30,825
+损伤报告?
+Damage report?
+
+831
+00:57:31,659 --> 00:57:34,037
+这太笼统了 给我来点有用的
+That's comprehensive. Show me something.
+
+832
+00:57:42,600 --> 00:57:43,700
+检测生物信号
+
+833
+00:57:43,800 --> 00:57:44,300
+检测到平民数量 0
+
+834
+00:57:44,300 --> 00:57:45,400
+安全
+
+835
+00:57:45,548 --> 00:57:47,217
+我们多快可以把这幢楼买下来?
+How quickly can we buy this building?
+
+836
+00:58:19,457 --> 00:58:20,834
+- 快! 快! 快!  - 上! 上! 上!
+- Move! Move! Move!  - Go, go, go!
+
+837
+00:58:24,671 --> 00:58:25,672
+包抄他 包抄他!
+Flank him, flank him!
+
+838
+00:59:15,430 --> 00:59:17,515
+新闻媒体爱死你们了
+The news is loving you guys.
+
+839
+00:59:18,600 --> 00:59:20,143
+但其他人快恨死了
+Nobody else is.
+
+840
+00:59:20,643 --> 00:59:22,771
+虽然还没有逮捕班纳的正式命令
+There's been no official call for Banner's arrest
+
+841
+00:59:22,812 --> 00:59:24,981
+但是消息已经传开了
+but it's in the air.
+
+842
+00:59:25,482 --> 00:59:26,566
+斯塔克救援基金会呢?
+The Stark Relief Foundation?
+
+843
+00:59:26,649 --> 00:59:27,984
+已经到现场了
+Already on the scene.
+
+844
+00:59:28,068 --> 00:59:29,277
+大家都怎么样?
+How's the team?
+
+845
+00:59:29,319 --> 00:59:31,154
+每个人都...
+Everyone's...
+
+846
+00:59:31,279 --> 00:59:34,074
+我们遭到了重创 但我们会没事的
+We took a hit. We'll shake it off.
+
+847
+00:59:34,199 --> 00:59:38,119
+嗯 就现在来说 我会选择藏匿起来 远离这里
+Well, for now, I'd stay in stealth mode and stay away from here.
+
+848
+00:59:39,496 --> 00:59:41,081
+逃跑并躲起来?
+So, run and hide?
+
+849
+00:59:41,623 --> 00:59:43,124
+在我们可以找到奥创前
+Until we can find Ultron,
+
+850
+00:59:43,249 --> 00:59:46,127
+我没有更好的主意
+I don't have a lot else to offer.
+
+851
+00:59:46,586 --> 00:59:48,129
+我们也是
+Neither do we.
+
+852
+00:59:54,844 --> 00:59:56,596
+嗨 你想我替你吗?
+Hey, you wanna switch out?
+
+853
+00:59:56,680 --> 00:59:57,972
+不用 我没事
+No, I'm good.
+
+854
+00:59:58,348 --> 01:00:00,350
+如果你想打个盹 现在正是时候
+If you wanna get some kip, now's a good time
+
+855
+01:00:00,433 --> 01:00:02,018
+因为我们还有几小时才到
+because we're still a few hours out.
+
+856
+01:00:02,060 --> 01:00:03,728
+几小时到哪?
+Few hours from where?
+
+857
+01:00:04,521 --> 01:00:05,897
+一个安全屋
+A safe house.
+
+858
+01:00:32,298 --> 01:00:33,842
+这是什么地方?
+What is this place?
+
+859
+01:00:33,883 --> 01:00:35,343
+安全屋
+Safe house.
+
+860
+01:00:36,261 --> 01:00:37,554
+但愿是吧
+Let's hope.
+
+861
+01:00:42,434 --> 01:00:43,518
+亲爱的
+Honey?
+
+862
+01:00:44,060 --> 01:00:45,270
+我回来了
+I'm home.
+
+863
+01:00:47,897 --> 01:00:48,898
+嗨
+Hi.
+
+864
+01:00:49,065 --> 01:00:50,150
+我的同伴
+Company.
+
+865
+01:00:50,275 --> 01:00:51,317
+抱歉 没提前打电话给你
+Sorry, didn't call ahead.
+
+866
+01:00:51,401 --> 01:00:52,569
+嘿
+Hey.
+
+867
+01:00:53,236 --> 01:00:54,279
+这肯定是某个特工
+This is an agent of some kind.
+
+868
+01:00:54,904 --> 01:00:57,407
+先生们 这是劳拉
+Gentlemen, this is Laura.
+
+869
+01:00:58,366 --> 01:01:00,243
+我知道你们所有人的名字
+I know all of your names.
+
+870
+01:01:03,288 --> 01:01:04,706
+来人了
+Incoming.
+
+871
+01:01:04,748 --> 01:01:06,541
+- 爸爸!  - 嗨 宝贝儿!
+- Dad!  - Hi, sweetheart!
+
+872
+01:01:06,583 --> 01:01:07,792
+嘿 伙计
+Hey, buddy.
+
+873
+01:01:07,917 --> 01:01:09,419
+你们好吗?
+How are you guys doing?
+
+874
+01:01:09,544 --> 01:01:11,588
+- 这俩是小特工  - 看看你的脸!
+- These are smaller agents.  - Look at your face!
+
+875
+01:01:11,755 --> 01:01:12,839
+天啊
+Oh, my goodness.
+
+876
+01:01:12,964 --> 01:01:14,466
+你把娜塔莎阿姨带来了吗?
+Did you bring Auntie Nat?
+
+877
+01:01:15,633 --> 01:01:18,094
+为什么你不自己抱抱她看呢?
+Why don't you hug her and find out?
+
+878
+01:01:19,637 --> 01:01:20,889
+很抱歉 我们贸然拜访你家
+Sorry for barging in on you.
+
+879
+01:01:20,930 --> 01:01:21,973
+是啊 我们本来可以提前打个电话的
+Yeah, we would have called ahead,
+
+880
+01:01:22,057 --> 01:01:24,184
+但是我们根本就不知道你的存在
+but we were busy having no idea that you existed.
+
+881
+01:01:24,309 --> 01:01:27,270
+好吧 我加入的时候弗瑞帮我安排的
+Yeah, well, Fury helped me set this up when I joined.
+
+882
+01:01:27,937 --> 01:01:30,857
+他没有把这事写到神盾局的档案里 我也想这样
+He kept it off S.H.I.E.L.D.'s files. I'd like to keep it that way.
+
+883
+01:01:31,608 --> 01:01:33,360
+我觉得这是能休息放松的好地方
+I figure it's a good place to lay low.
+
+884
+01:01:33,485 --> 01:01:34,486
+亲爱的
+Honey.
+
+885
+01:01:35,862 --> 01:01:36,905
+我想你
+I missed you.
+
+886
+01:01:36,988 --> 01:01:38,448
+小娜塔莎好吗?
+How's little Natasha?
+
+887
+01:01:38,615 --> 01:01:39,991
+她...
+She's...
+
+888
+01:01:42,118 --> 01:01:43,203
+是男孩子
+Nathaniel.
+
+889
+01:01:45,872 --> 01:01:46,915
+小叛徒
+Traitor.
+
+890
+01:02:02,806 --> 01:02:03,848
+索尔?
+Thor?
+
+891
+01:02:03,973 --> 01:02:05,975
+我在那梦里看到一些东西
+I saw something in that dream.
+
+892
+01:02:06,017 --> 01:02:08,687
+我需要答案 但在这里找不到
+I need answers. I won't find them here.
+
+893
+01:02:19,155 --> 01:02:20,532
+我们可以回家
+We can go home.
+
+894
+01:02:31,918 --> 01:02:33,878
+看吧? 你根本就是在白担心
+See? You worried for nothing.
+
+895
+01:02:33,962 --> 01:02:36,131
+你根本就看不出有什么不同 对吧?
+Can't even feel the difference, can you?
+
+896
+01:02:38,466 --> 01:02:39,718
+如果他们睡在这里
+If they're sleeping here,
+
+897
+01:02:39,801 --> 01:02:42,012
+其中有些人必须得叠起来了
+some of them are gonna have to double up.
+
+898
+01:02:43,680 --> 01:02:45,890
+对啊 他们可不会接受这说法
+Yeah, that's not gonna sell.
+
+899
+01:02:48,685 --> 01:02:51,354
+娜塔莎和班纳士是怎么回事?
+What about Nat and Dr. Banner?
+
+900
+01:02:51,396 --> 01:02:53,398
+他们什么时候开始的?
+How long has that been going on?
+
+901
+01:02:53,732 --> 01:02:54,733
+开始什么?
+Has what?
+
+902
+01:02:56,026 --> 01:02:57,861
+你真可爱
+You are so cute.
+
+903
+01:02:58,028 --> 01:02:59,571
+娜塔莎和班纳?
+Nat and Banner?
+
+904
+01:03:00,196 --> 01:03:01,573
+等你老点我再跟你解释
+I'll explain when you're older,
+
+905
+01:03:01,698 --> 01:03:02,824
+鹰眼
+Hawkeye.
+
+906
+01:03:02,866 --> 01:03:04,534
+嗯 好吧
+Well, okay.
+
+907
+01:03:06,411 --> 01:03:07,996
+情况很糟 是吧?
+It's bad, right?
+
+908
+01:03:08,121 --> 01:03:09,789
+娜塔莎看起来很动摇
+Nat seems really shaken.
+
+909
+01:03:10,707 --> 01:03:12,208
+奥创有些盟友
+Ultron has these allies.
+
+910
+01:03:12,375 --> 01:03:16,421
+这些孩子 他们真的很无知
+These kids. They're punks, really.
+
+911
+01:03:17,881 --> 01:03:20,383
+但是他们有很强的能力
+But they carry a big, damn stick.
+
+912
+01:03:20,467 --> 01:03:21,968
+娜塔莎被伤得很重
+And Nat took a serious hit.
+
+913
+01:03:23,053 --> 01:03:25,513
+有人得教教他们规矩
+Someone's gonna have to teach them some manners.
+
+914
+01:03:25,638 --> 01:03:27,390
+那个人就是你
+That someone being you.
+
+915
+01:03:28,850 --> 01:03:31,728
+你知道我完全支持你的工作
+You know I totally support your avenging.
+
+916
+01:03:31,770 --> 01:03:33,688
+我对此无比骄傲
+I couldn't be prouder.
+
+917
+01:03:35,190 --> 01:03:36,483
+但是我看那些人...
+But I see those guys...
+
+918
+01:03:36,608 --> 01:03:38,693
+那些神...
+Those gods...
+
+919
+01:03:40,612 --> 01:03:42,906
+你觉得他们不需要我
+You don't think they need me.
+
+920
+01:03:43,073 --> 01:03:46,743
+我想他们需要你 这才更可怕
+I think they do, which is a lot scarier.
+
+921
+01:03:47,869 --> 01:03:49,079
+他们真是一团糟
+They're a mess.
+
+922
+01:03:50,663 --> 01:03:51,664
+是啊
+Yeah.
+
+923
+01:03:52,415 --> 01:03:54,167
+我猜他们就是来给我捣乱的
+I guess they're my mess.
+
+924
+01:03:55,418 --> 01:03:57,420
+你得确保
+You need to be sure
+
+925
+01:03:57,462 --> 01:04:00,090
+这是一个真正的团队
+that this team is really a team,
+
+926
+01:04:00,173 --> 01:04:02,092
+确保他们是你的强援
+and that they have your back.
+
+927
+01:04:05,303 --> 01:04:07,931
+我们的情况变了
+Things are changing for us.
+
+928
+01:04:07,972 --> 01:04:10,475
+再过几个月
+In a few months' time,
+
+929
+01:04:10,558 --> 01:04:13,353
+我们又得迎来一个小家伙
+you and me are gonna be outnumbered.
+
+930
+01:04:13,436 --> 01:04:14,771
+我需要...
+I need...
+
+931
+01:04:17,941 --> 01:04:19,776
+你得保证
+Just be sure.
+
+932
+01:04:20,568 --> 01:04:22,070
+遵命 女士
+Yes, ma'am.
+
+933
+01:04:31,121 --> 01:04:33,039
+我能感觉出不同了 
+I can feel the difference.
+
+934
+01:04:46,094 --> 01:04:48,763
+你敢叫喊 所有人都得死
+Scream, and your entire staff dies.
+
+935
+01:04:50,640 --> 01:04:52,976
+我们相遇的那晚 我本来可以杀了你 海伦
+I could've killed you, Helen, the night we met.
+
+936
+01:04:53,059 --> 01:04:54,185
+但我没有
+I didn't.
+
+937
+01:04:54,269 --> 01:04:55,854
+你想让我跟你说谢谢吗?
+Do you expect a thank-you note?
+
+938
+01:04:55,979 --> 01:04:57,731
+我想你该知道原因
+I expect you to know why.
+
+939
+01:04:58,857 --> 01:04:59,858
+再生摇篮
+The Cradle.
+
+940
+01:05:00,358 --> 01:05:02,402
+这是下一个 托尼
+This is the next thing, Tony.
+
+941
+01:05:02,485 --> 01:05:05,613
+这是下一个我
+This is the next me.
+
+942
+01:05:05,739 --> 01:05:08,450
+再生摇篮能打印组织
+The Regeneration Cradle prints tissue.
+
+943
+01:05:08,491 --> 01:05:10,160
+但它不能制造活体
+It can't build a living body.
+
+944
+01:05:10,285 --> 01:05:11,327
+它可以的 因为你可以
+It can. You can.
+
+945
+01:05:11,828 --> 01:05:13,204
+你只是缺少材料
+You lack the materials.
+
+946
+01:05:15,498 --> 01:05:16,958
+你是个很出色的女人 海伦
+You're a brilliant woman, Helen.
+
+947
+01:05:20,003 --> 01:05:23,673
+但是我们都有提升的空间
+But we all have room to improve.
+
+948
+01:05:44,903 --> 01:05:47,530
+我不知道你等在外面
+I didn't realize you were waiting.
+
+949
+01:05:47,572 --> 01:05:48,573
+我本来想进去跟你一起洗
+I would've joined you,
+
+950
+01:05:48,656 --> 01:05:52,035
+但现在似乎不是什么好时机
+but it didn't seem like the right time.
+
+951
+01:05:52,911 --> 01:05:55,205
+他们把热水都用光了
+They used up all the hot water.
+
+952
+01:05:55,872 --> 01:05:57,290
+我真该跟你一起洗
+I should've joined you.
+
+953
+01:05:57,415 --> 01:05:59,209
+我们错过机会了
+Missed our window.
+
+954
+01:05:59,876 --> 01:06:01,211
+是吗?
+Did we?
+
+955
+01:06:04,714 --> 01:06:06,633
+全世界都看到了浩克
+The world just saw the Hulk.
+
+956
+01:06:08,426 --> 01:06:10,387
+第一次 看到了真正的浩克
+The real Hulk, for the first time.
+
+957
+01:06:13,556 --> 01:06:14,557
+你知道我必须走的
+You know I have to leave.
+
+958
+01:06:14,724 --> 01:06:16,267
+你就假设我一定得留下来吗?
+You assume that I have to stay?
+
+959
+01:06:18,228 --> 01:06:20,939
+我做了个梦
+I had this dream.
+
+960
+01:06:21,398 --> 01:06:23,400
+那种当时感觉很正常的梦
+The kind that seems normal at the time,
+
+961
+01:06:24,234 --> 01:06:25,902
+但当你醒来时...
+but when you wake...
+
+962
+01:06:25,985 --> 01:06:27,404
+你梦见了什么?
+What did you dream?
+
+963
+01:06:28,405 --> 01:06:30,240
+我梦见我是复仇者
+That I was an Avenger.
+
+964
+01:06:32,075 --> 01:06:36,079
+我梦见我不是被他们造出来的刺客
+That I was anything more than the assassin they made me.
+
+965
+01:06:37,497 --> 01:06:39,666
+我觉得你对自己太苛责了
+I think you're being hard on yourself.
+
+966
+01:06:41,668 --> 01:06:44,254
+我倒希望你能对我霸道点
+Here I was hoping that was your job.
+
+967
+01:06:47,132 --> 01:06:48,758
+你在做什么?
+What are you doing?
+
+968
+01:06:50,385 --> 01:06:52,220
+我在顺其自然
+I'm running with it.
+
+969
+01:06:53,430 --> 01:06:55,140
+跟你一起
+With you.
+
+970
+01:06:55,807 --> 01:06:58,226
+如果你打算逃开
+If running is the plan,
+
+971
+01:06:59,269 --> 01:07:01,104
+天涯海角都无所谓
+as far as you want.
+
+972
+01:07:02,939 --> 01:07:04,774
+你疯了吗?
+Are you out of your mind?
+
+973
+01:07:09,988 --> 01:07:11,489
+我想你明白...
+I want you to understand that...
+
+974
+01:07:11,573 --> 01:07:13,116
+娜塔莎
+Natasha,
+
+975
+01:07:14,075 --> 01:07:15,577
+我还能去哪?
+where can I go?
+
+976
+01:07:16,619 --> 01:07:18,872
+我去哪里才不会被当做威胁?
+Where in the world am I not a threat?
+
+977
+01:07:18,997 --> 01:07:21,374
+- 你对我来说不是个威胁  - 真的吗?
+- You're not a threat to me.  - Are you sure?
+
+978
+01:07:22,250 --> 01:07:24,002
+即使我当时没...
+Even if I didn't just...
+
+979
+01:07:25,670 --> 01:07:27,213
+我没有未来
+There's no future with me.
+
+980
+01:07:28,757 --> 01:07:29,758
+我永远不能...
+I can't ever...
+
+981
+01:07:29,924 --> 01:07:32,302
+我不配拥有这些
+I can't have this.
+
+982
+01:07:32,969 --> 01:07:34,304
+孩子
+Kids.
+
+983
+01:07:34,429 --> 01:07:37,182
+想想吧 我生理上不能拥有孩子
+Do the math. I physically can't.
+
+984
+01:07:38,808 --> 01:07:40,352
+我也不能
+Neither can I.
+
+985
+01:07:44,981 --> 01:07:48,568
+在我长大 并接受培训的...
+In the Red Room where I was trained...
+
+986
+01:07:48,985 --> 01:07:51,529
+那个红色房间
+Where I was raised,
+
+987
+01:07:52,447 --> 01:07:55,116
+有一种毕业典礼
+they have a graduation ceremony.
+
+988
+01:07:56,701 --> 01:07:58,578
+他们会让你绝育
+They sterilize you.
+
+989
+01:08:01,706 --> 01:08:03,208
+这很高效
+It's efficient.
+
+990
+01:08:06,044 --> 01:08:07,587
+少了一件令人担心的事
+One less thing to worry about.
+
+991
+01:08:09,506 --> 01:08:12,967
+这是唯一一件可能比任务还重要的事
+The one thing that might matter more than a mission.
+
+992
+01:08:15,303 --> 01:08:17,222
+它让一切都变得更简单了
+Makes everything easier.
+
+993
+01:08:18,515 --> 01:08:19,933
+甚至是杀戮
+Even killing.
+
+994
+01:08:24,854 --> 01:08:28,024
+你仍然觉得你是这团队里的唯一一只怪物吗?
+You still think you're the only monster on the team?
+
+995
+01:08:34,155 --> 01:08:36,282
+那我们一起消失?
+So, we disappear?
+
+996
+01:08:42,706 --> 01:08:44,624
+索尔没说他去哪找答案了吗?
+Thor didn't say where he was going for answers?
+
+997
+01:08:45,583 --> 01:08:48,169
+有时我的队友并不会跟我坦白
+Sometimes my teammates don't tell me things.
+
+998
+01:08:49,087 --> 01:08:51,548
+我有点希望索尔是个例外
+I was kind of hoping Thor would be the exception.
+
+999
+01:08:51,715 --> 01:08:53,425
+是啊 给他点时间吧
+Yeah, give him time.
+
+1000
+01:08:53,508 --> 01:08:55,677
+我不知道那个叫马克西莫夫的孩子给他看了什么
+We don't know what the Maximoff kid showed him.
+
+1001
+01:08:57,595 --> 01:08:59,264
+"地球上最强大的英雄"
+"Earth's mightiest heroes."
+
+1002
+01:08:59,347 --> 01:09:01,057
+他们可以把我们像棉花糖一样拆开
+Pulled us apart like cotton candy.
+
+1003
+01:09:01,224 --> 01:09:02,726
+看起来你还一切正常啊
+Seems like you walked away all right.
+
+1004
+01:09:05,311 --> 01:09:06,312
+有问题吗?
+Is that a problem?
+
+1005
+01:09:06,438 --> 01:09:08,690
+我不相信一个人会没有阴暗面
+I don't trust a guy without a dark side.
+
+1006
+01:09:09,774 --> 01:09:10,817
+尽管说我是老古董吧
+Call me old-fashioned.
+
+1007
+01:09:10,942 --> 01:09:13,737
+嗯 其实是你还没有看到我的阴暗面吧
+Well, let's just say you haven't seen it yet.
+
+1008
+01:09:13,903 --> 01:09:16,197
+你知道奥创想让我们内讧 是吧?
+You know Ultron is trying to tear us apart, right?
+
+1009
+01:09:16,239 --> 01:09:18,450
+我猜你是知道的
+Well, I guess you'd know.
+
+1010
+01:09:18,575 --> 01:09:19,909
+你告不告诉我们才是个问题
+Whether you'd tell us is a bit of a question.
+
+1011
+01:09:20,076 --> 01:09:21,202
+班纳和我当时正在做研究
+Banner and I were doing research.
+
+1012
+01:09:21,244 --> 01:09:23,580
+- 那会影响团队  - 那会使团队解散!
+- That would affect the team.  - That would end the team!
+
+1013
+01:09:23,663 --> 01:09:24,831
+那不就是目标吗?
+Isn't that the mission?
+
+1014
+01:09:24,956 --> 01:09:26,374
+那我不就是我们战斗的原因吗?
+Isn't that the "Why We Fight"?
+
+1015
+01:09:26,416 --> 01:09:28,710
+那样我们就能结束战争 那样我们就可以回家!
+So we can end the fight. So we get to go home!
+
+1016
+01:09:31,921 --> 01:09:34,341
+每次有人试着在战争开始之前就赢得战争时
+Every time someone tries to win a war before it starts,
+
+1017
+01:09:34,424 --> 01:09:37,177
+就有无辜的人会牺牲 每次都是如此
+innocent people die. Every time.
+
+1018
+01:09:39,554 --> 01:09:40,930
+很抱歉
+I'm sorry.
+
+1019
+01:09:40,972 --> 01:09:41,973
+斯塔克先生...
+Mr. Stark...
+
+1020
+01:09:42,807 --> 01:09:43,975
+克林特说你不会介意
+Clint said you wouldn't mind,
+
+1021
+01:09:44,059 --> 01:09:46,603
+但是我们的拖拉机打不着火了
+but our tractor doesn't seem to want to start at all.
+
+1022
+01:09:46,770 --> 01:09:49,105
+- 我想或许你能...  - 好 我这就去修理
+- I thought maybe you might...  - Yeah, I'll give her a kick.
+
+1023
+01:09:52,609 --> 01:09:54,277
+不许碰我这堆
+Don't take from my pile.
+
+1024
+01:10:04,454 --> 01:10:05,705
+你好 亲爱的
+Hello, Dear.
+
+1025
+01:10:08,500 --> 01:10:09,959
+把一切情况都告诉我
+Tell me everything.
+
+1026
+01:10:11,127 --> 01:10:12,629
+你生什么病了?
+What ails you?
+
+1027
+01:10:12,712 --> 01:10:13,797
+帮我个忙
+Do me a favor.
+
+1028
+01:10:15,882 --> 01:10:17,884
+别让它活过来
+Try not to bring it to life.
+
+1029
+01:10:18,009 --> 01:10:19,594
+哎 巴顿夫人 你这个小贱人
+Why, Ms. Barton, you little minx.
+
+1030
+01:10:19,969 --> 01:10:22,514
+我知道了 玛丽亚·希尔打电话给你了 是吗?
+I get it. Maria Hill called you, right?
+
+1031
+01:10:22,597 --> 01:10:23,932
+她就没有不为你工作的时候吗?
+Was she ever not working for you?
+
+1032
+01:10:23,973 --> 01:10:25,517
+人工智能
+Artificial intelligence.
+
+1033
+01:10:26,476 --> 01:10:28,311
+你从没有犹豫过
+You never even hesitated.
+
+1034
+01:10:28,436 --> 01:10:29,813
+听着 今天已经很漫长了
+Look, it's been a really long day,
+
+1035
+01:10:29,896 --> 01:10:31,564
+跟尤金·奥尼尔的作品一样长
+like Eugene O'Neill long,
+
+1036
+01:10:31,648 --> 01:10:33,650
+所以我们只直接跳到你能帮上忙的部分吧
+so how's about we skip to the part where you're useful.
+
+1037
+01:10:33,775 --> 01:10:36,444
+看着我的眼 告诉我你会关掉他
+Look me in the eye and tell me you're going to shut him down.
+
+1038
+01:10:36,569 --> 01:10:38,196
+你又不是我老板
+You're not the director of me.
+
+1039
+01:10:38,321 --> 01:10:40,115
+我不是任何人的老板
+I'm not the director of anybody.
+
+1040
+01:10:40,240 --> 01:10:42,158
+我只是个老人
+I'm just an old man
+
+1041
+01:10:42,325 --> 01:10:44,494
+一个很关心你的老人
+who cares very much about you.
+
+1042
+01:10:47,163 --> 01:10:49,124
+我是那个杀了复仇者的人
+And I'm the man who killed the Avengers.
+
+1043
+01:10:50,667 --> 01:10:52,043
+我看到了
+I saw it.
+
+1044
+01:10:52,127 --> 01:10:53,712
+我没有告诉其他队员 怎么说得出扣?
+I didn't tell the team. How could I?
+
+1045
+01:10:54,963 --> 01:10:56,840
+我看到他们都死了 尼克 我能感觉到
+I saw them all dead, Nick. I felt it.
+
+1046
+01:10:57,173 --> 01:10:58,717
+整个世界都完蛋了
+The whole world, too.
+
+1047
+01:10:59,092 --> 01:11:00,093
+因为我
+Because of me.
+
+1048
+01:11:01,761 --> 01:11:03,054
+我还没准备好
+I wasn't ready.
+
+1049
+01:11:04,305 --> 01:11:05,724
+我没有尽自己所能
+I didn't do all I could.
+
+1050
+01:11:06,683 --> 01:11:08,852
+那个叫马克西莫夫的小女孩 她在操控你 斯塔克
+Maximoff girl, she's working you, Stark.
+
+1051
+01:11:09,394 --> 01:11:10,437
+利用你的恐惧玩弄你
+Playing on your fear.
+
+1052
+01:11:10,520 --> 01:11:12,981
+我没有被耍 我亲眼看到的
+I wasn't tricked, I was shown.
+
+1053
+01:11:13,023 --> 01:11:15,275
+那不是场噩梦 是我会留下的东西
+Wasn't a nightmare, it was my legacy.
+
+1054
+01:11:15,400 --> 01:11:17,527
+是我为团队引领的那条路的尽头
+The end of the path I started us on.
+
+1055
+01:11:18,653 --> 01:11:21,531
+你创造了很多令人印象深刻的发明 托尼
+You come up with some pretty impressive inventions, Tony.
+
+1056
+01:11:23,033 --> 01:11:24,617
+但不包括战争
+War isn't one of them.
+
+1057
+01:11:27,912 --> 01:11:29,706
+我亲眼看着我的朋友死去
+I watched my friends die.
+
+1058
+01:11:29,748 --> 01:11:32,042
+你觉得这很糟 是吗?
+You'd think that'd be as bad as it gets, right?
+
+1059
+01:11:33,209 --> 01:11:34,711
+不
+Nope.
+
+1060
+01:11:35,628 --> 01:11:37,172
+这还不是最糟的
+It wasn't the worst part.
+
+1061
+01:11:37,213 --> 01:11:38,214
+最糟糕的
+The worst part
+
+1062
+01:11:39,132 --> 01:11:40,592
+是你没有死
+is that you didn't.
+
+1063
+01:11:47,223 --> 01:11:48,350
+晚上见
+I'll see you tonight.
+
+1064
+01:11:51,061 --> 01:11:52,395
+我喜欢你的造型
+I like the look.
+
+1065
+01:11:53,355 --> 01:11:56,149
+如果你想试着变得不起眼的话 差点就成功了
+If you're going for inconspicuous, though, near miss.
+
+1066
+01:11:56,316 --> 01:11:57,442
+我需要你的帮助
+I need your help.
+
+1067
+01:11:57,567 --> 01:11:58,735
+被人需要真好
+It's nice to be needed.
+
+1068
+01:11:58,860 --> 01:12:00,236
+很危险
+It's dangerous.
+
+1069
+01:12:00,987 --> 01:12:02,906
+如果不危险 我才失望呢
+I'd be disappointed if it wasn't.
+
+1070
+01:12:05,742 --> 01:12:09,329
+奥创把你们这伙人踢出局是为了给他自己赢得更多时间
+Ultron took you folks out of play to buy himself time.
+
+1071
+01:12:09,412 --> 01:12:12,415
+我的眼线都说他正在制造什么东西
+My contacts all say he's building something.
+
+1072
+01:12:12,457 --> 01:12:15,043
+他偷走了大量的振金
+The amount of vibranium he made off with,
+
+1073
+01:12:15,168 --> 01:12:16,586
+我认为这只是其中之一
+I don't think it's just one thing.
+
+1074
+01:12:16,711 --> 01:12:18,171
+那奥创自己呢?
+What about Ultron himself?
+
+1075
+01:12:18,254 --> 01:12:20,757
+追踪他很容易 他无所不在
+He's easy to track. He's everywhere.
+
+1076
+01:12:20,882 --> 01:12:23,551
+这家伙比不避孕的兔子繁殖得还快
+The guy is multiplying faster than a Catholic rabbit.
+
+1077
+01:12:24,094 --> 01:12:26,971
+但我们仍无法看透他的计划
+It still doesn't help us get an angle on any of his plans, though.
+
+1078
+01:12:27,055 --> 01:12:28,390
+他还在找发射密码吗?
+Is he still going after launch codes?
+
+1079
+01:12:28,431 --> 01:12:29,808
+是的
+Yes, he is.
+
+1080
+01:12:29,933 --> 01:12:31,434
+但并没有任何进展
+But he's not making any headway.
+
+1081
+01:12:31,559 --> 01:12:33,561
+我高中时一冲动就攻破了五角大楼的防火墙
+I cracked the Pentagon's firewall in high school on a dare.
+
+1082
+01:12:33,687 --> 01:12:36,231
+我联系了在链结的朋友
+Well, I contacted our friends at the Nexus about that.
+
+1083
+01:12:36,356 --> 01:12:37,440
+链结?
+Nexus?
+
+1084
+01:12:37,524 --> 01:12:39,442
+它是奥斯陆的世界互联网中心
+It's the world internet hub in Oslo.
+
+1085
+01:12:39,567 --> 01:12:41,569
+每一字节数据流都流经那里
+Every byte of data flows through there.
+
+1086
+01:12:41,611 --> 01:12:42,696
+是全世界上最快的通路
+Fastest access on Earth.
+
+1087
+01:12:42,779 --> 01:12:43,905
+好吧 他们怎么说?
+So, what did they say?
+
+1088
+01:12:44,030 --> 01:12:45,907
+他对导弹非常着迷
+He's fixated on the missiles.
+
+1089
+01:12:46,032 --> 01:12:47,784
+但密码一直在改变
+But the codes are constantly being changed.
+
+1090
+01:12:48,159 --> 01:12:49,577
+谁改的?
+By whom?
+
+1091
+01:12:50,787 --> 01:12:51,788
+不明势力
+Parties unknown.
+
+1092
+01:12:51,871 --> 01:12:53,039
+我们有盟友吗?
+Do we have an ally?
+
+1093
+01:12:53,123 --> 01:12:55,500
+是奥创有了个敌人 那可不能混为一谈
+Ultron's got an enemy. That's not the same thing.
+
+1094
+01:12:55,625 --> 01:12:57,711
+我还是愿意花大价钱弄清他是谁
+Still, I'd pay folding money to know who it is.
+
+1095
+01:12:57,794 --> 01:12:59,004
+我可能得去趟奥斯陆
+I might need to visit Oslo.
+
+1096
+01:12:59,462 --> 01:13:00,672
+寻找这个不明势力
+Find our unknown.
+
+1097
+01:13:00,755 --> 01:13:02,173
+见到你很高兴 头儿
+Well, this is good times, boss,
+
+1098
+01:13:02,257 --> 01:13:03,633
+但我本希望你这次见到你
+but I was kind of hoping when I saw you,
+
+1099
+01:13:03,758 --> 01:13:04,926
+你会带来更多的东西
+you'd have more than that.
+
+1100
+01:13:04,968 --> 01:13:07,137
+确实 我还有你们
+I do. I have you.
+
+1101
+01:13:07,846 --> 01:13:11,141
+过去 我到处都有眼线耳目
+Back in the day, I had eyes everywhere. Ears, everywhere else.
+
+1102
+01:13:11,307 --> 01:13:14,477
+你们拥有顶尖的技术
+You kids had all the tech you could dream up.
+
+1103
+01:13:15,437 --> 01:13:17,605
+现在 我们都回到了地球
+Here we all are, back on Earth,
+
+1104
+01:13:17,647 --> 01:13:21,192
+只能靠我们的智慧和意志力来拯救世界
+with nothing but our wit and our will to save the world.
+
+1105
+01:13:22,736 --> 01:13:24,988
+奥创说复仇者是他完成使命的
+Ultron says the Avengers are the only thing,
+
+1106
+01:13:25,071 --> 01:13:26,656
+唯一阻碍
+between him and his mission.
+
+1107
+01:13:26,781 --> 01:13:28,825
+不管他承不承认
+And whether or not he admits it,
+
+1108
+01:13:28,992 --> 01:13:31,745
+他的使命就是毁灭全球
+his mission is global destruction.
+
+1109
+01:13:32,912 --> 01:13:35,248
+这一切 都将化为灰烬
+All this, laid in a grave.
+
+1110
+01:13:37,042 --> 01:13:39,002
+所以站出来吧
+So stand.
+
+1111
+01:13:39,586 --> 01:13:41,504
+用智慧战胜这金属混蛋
+Outwit the platinum bastard.
+
+1112
+01:13:42,005 --> 01:13:43,673
+史蒂夫不喜欢这样的话
+Steve doesn't like that kind of talk.
+
+1113
+01:13:43,757 --> 01:13:44,758
+你知道吗 罗曼诺夫?
+You know what, Romanoff?
+
+1114
+01:13:45,842 --> 01:13:47,302
+那么他想要什么?
+So, what does he want?
+
+1115
+01:13:49,012 --> 01:13:50,764
+变得更好
+To become better.
+
+1116
+01:13:50,847 --> 01:13:52,265
+比我们更好
+Better than us.
+
+1117
+01:13:52,515 --> 01:13:53,933
+他一直在制造身体 
+He keeps building bodies.
+
+1118
+01:13:54,059 --> 01:13:55,477
+人的身体
+Person bodies.
+
+1119
+01:13:55,518 --> 01:13:57,187
+人体的构成效率低下
+The human form is inefficient.
+
+1120
+01:13:57,312 --> 01:13:59,481
+从生物学上来讲 我们已经过时了
+Biologically speaking, we're outmoded.
+
+1121
+01:13:59,606 --> 01:14:01,524
+但他一直都想拥有人的身体
+But he keeps coming back to it.
+
+1122
+01:14:01,608 --> 01:14:03,777
+当你们俩给他编程去保护人类时
+When you two programmed him to protect the human race,
+
+1123
+01:14:03,860 --> 01:14:05,362
+你们完全失败了
+you amazingly failed.
+
+1124
+01:14:05,445 --> 01:14:07,489
+他们不需要被保护
+They don't need to be protected.
+
+1125
+01:14:07,906 --> 01:14:09,657
+他们需要进化
+They need to evolve.
+
+1126
+01:14:11,534 --> 01:14:13,703
+奥创想要进化
+Ultron's going to evolve.
+
+1127
+01:14:13,828 --> 01:14:14,871
+怎么进化?
+How?
+
+1128
+01:14:16,206 --> 01:14:18,917
+有人和海伦·周有联系吗?
+Has anyone been in contact with Helen Cho?
+
+1129
+01:14:22,587 --> 01:14:24,255
+它真美
+It's beautiful.
+
+1130
+01:14:24,381 --> 01:14:27,676
+振金原子不仅能与组织细胞共存
+The vibranium atoms aren't just compatible with the tissue cells,
+
+1131
+01:14:27,717 --> 01:14:29,052
+还能与之相结合
+they're binding them.
+
+1132
+01:14:29,427 --> 01:14:30,970
+神盾局甚至从没来想过...
+And S.H.I.E.L.D. never even thought to...
+
+1133
+01:14:31,054 --> 01:14:33,598
+这个星球上最万能的物质
+The most versatile substance on the planet,
+
+1134
+01:14:33,682 --> 01:14:36,226
+却被用来做飞盘
+and they used it to make a Frisbee.
+
+1135
+01:14:36,309 --> 01:14:37,560
+愚蠢的人类
+Typical of humans.
+
+1136
+01:14:37,727 --> 01:14:40,230
+他们触及表面 而从不
+They scratch the surface and never think,
+
+1137
+01:14:42,107 --> 01:14:43,692
+深入思考
+to look within.
+
+1138
+01:14:54,202 --> 01:14:55,787
+我会带上娜塔莎和克林特
+I'll take Natasha and Clint.
+
+1139
+01:14:55,870 --> 01:14:59,124
+好的 仔细侦察 我先去链结 然后尽快和你们会合
+All right. Strictly recon. I'll hit the Nexus. I'll join you as soon as I can.
+
+1140
+01:14:59,207 --> 01:15:00,709
+如果奥创真的在制造身体...
+If Ultron's really building a body...
+
+1141
+01:15:00,834 --> 01:15:02,794
+他会比我们中的任何一个都强大
+He'll be more powerful than any of us.
+
+1142
+01:15:02,877 --> 01:15:03,920
+甚至比我们加起来都要强大
+Maybe all of us.
+
+1143
+01:15:04,087 --> 01:15:06,256
+一个机器人设计了另外一个机器人
+An android designed by a robot.
+
+1144
+01:15:06,297 --> 01:15:07,507
+要知道 我真的很怀念过去
+You know, I really miss the days,
+
+1145
+01:15:07,590 --> 01:15:09,884
+当时科学最奇怪的产物还是我
+when the weirdest thing science ever created was me.
+
+1146
+01:15:10,301 --> 01:15:12,012
+我会在塔上放下班纳
+I'll drop Banner off at the tower.
+
+1147
+01:15:12,095 --> 01:15:13,555
+我可以借用希尔小姐吗?
+You mind if I borrow Ms. Hill?
+
+1148
+01:15:13,596 --> 01:15:15,432
+没问题 很显然
+She's all yours. Apparently.
+
+1149
+01:15:15,515 --> 01:15:16,808
+你打算怎么做?
+What are you gonna do?
+
+1150
+01:15:16,891 --> 01:15:20,020
+不知道 但愿来点有戏剧性的
+I don't know. Something dramatic, I hope.
+
+1151
+01:15:23,273 --> 01:15:27,152
+我一回来就会给日光室重新铺地板
+I'm gonna finish reflooring that sunroom as soon as I get back.
+
+1152
+01:15:27,235 --> 01:15:29,946
+是啊 然后你又会把房子的另一个部位给拆了
+Yeah, then you'll find another part of the house to tear apart.
+
+1153
+01:15:30,030 --> 01:15:31,197
+不会
+No.
+
+1154
+01:15:31,865 --> 01:15:33,450
+这是最后一个工程了
+It's the last project.
+
+1155
+01:15:34,909 --> 01:15:35,952
+我保证
+I promise.
+
+1156
+01:15:54,179 --> 01:15:55,764
+这就是了
+So, this is it.
+
+1157
+01:15:57,307 --> 01:15:59,642
+洞察之池
+The Water of Sight.
+
+1158
+01:16:01,936 --> 01:16:04,356
+在每一个国度都有倒影
+In every realm, there's a reflection.
+
+1159
+01:16:05,482 --> 01:16:06,941
+如果水中鬼神接受我
+If the water's spirits accept me,
+
+1160
+01:16:06,983 --> 01:16:08,985
+我就能回到梦境之中
+I can return to my dream,
+
+1161
+01:16:09,736 --> 01:16:11,321
+找寻我所错过了的
+and find what I missed.
+
+1162
+01:16:11,446 --> 01:16:15,325
+凡是进入这水池的人 都没有什么好下场
+Men who enter that water, the legends don't end well.
+
+1163
+01:16:16,951 --> 01:16:18,787
+一个比奥创还快的黑客?
+A hacker who's faster than Ultron?
+
+1164
+01:16:18,828 --> 01:16:19,954
+他可能在任何地方
+He could be anywhere,
+
+1165
+01:16:19,996 --> 01:16:21,873
+而且由于这里是一切的中心
+and as this is the center of everything,
+
+1166
+01:16:22,999 --> 01:16:26,419
+我只是个在世界上最大的海洋里捞一根针的人
+I'm just a guy looking for a needle in the world's biggest haystack.
+
+1167
+01:16:26,795 --> 01:16:28,672
+你怎么找?
+How do you find it?
+
+1168
+01:16:28,755 --> 01:16:31,424
+很简单 用磁铁
+It's pretty simple. You bring a magnet.
+
+1169
+01:16:33,510 --> 01:16:34,678
+我正在破解核弹发射密码
+I'm decrypting nuclear codes,
+
+1170
+01:16:34,761 --> 01:16:36,137
+而你却不想我这样做
+and you don't want me to.
+
+1171
+01:16:38,390 --> 01:16:39,974
+来抓我啊
+Come and get me.
+
+1172
+01:16:52,028 --> 01:16:53,196
+醒醒!
+Wake up!
+
+1173
+01:17:00,078 --> 01:17:01,204
+托尔!
+Thor!
+
+1174
+01:17:01,996 --> 01:17:03,039
+灭绝
+Extinction.
+
+1175
+01:17:16,469 --> 01:17:18,722
+细胞结合需要几个小时
+Cellular cohesion will take a few hours,
+
+1176
+01:17:18,888 --> 01:17:21,266
+但我们可以输入意识了
+but we can initiate the consciousness stream.
+
+1177
+01:17:21,808 --> 01:17:24,686
+我们在上传你的大脑矩阵
+We're uploading your cerebral matrix,
+
+1178
+01:17:24,853 --> 01:17:26,104
+现在
+now.
+
+1179
+01:17:27,522 --> 01:17:29,149
+我能读出他的思绪
+I can read him.
+
+1180
+01:17:29,858 --> 01:17:31,443
+他在做梦
+He's dreaming.
+
+1181
+01:17:31,568 --> 01:17:33,403
+我不会称之为梦
+I wouldn't call it dreams.
+
+1182
+01:17:33,570 --> 01:17:35,447
+那是奥创的基本意识
+It's Ultron's base consciousness.
+
+1183
+01:17:35,572 --> 01:17:37,365
+信息噪音 很快...
+Informational noise. Soon...
+
+1184
+01:17:37,407 --> 01:17:38,742
+有多快?
+How soon?
+
+1185
+01:17:38,783 --> 01:17:40,243
+我并不是在催你
+I'm not being pushy.
+
+1186
+01:17:40,368 --> 01:17:42,078
+我们在制造一个物理大脑
+We're imprinting a physical brain.
+
+1187
+01:17:42,120 --> 01:17:43,747
+并没有什么捷径
+There are no shortcuts.
+
+1188
+01:17:43,872 --> 01:17:45,165
+即使有你的魔法宝石...
+Even if your magic gem...
+
+1189
+01:17:55,759 --> 01:17:56,760
+你怎么可以?
+How could you?
+
+1190
+01:17:57,218 --> 01:17:58,345
+我怎么可以什么?
+How could I what?
+
+1191
+01:17:58,470 --> 01:18:01,765
+你说过我们会消灭复仇者
+You said we would destroy the Avengers,
+
+1192
+01:18:01,848 --> 01:18:02,974
+创造一个更好的世界
+make a better world.
+
+1193
+01:18:03,099 --> 01:18:04,309
+是会更美好
+It will be better.
+
+1194
+01:18:05,268 --> 01:18:06,269
+当所有的人都死了吗?
+When everyone is dead?
+
+1195
+01:18:06,311 --> 01:18:07,604
+那不是...
+That is not...
+
+1196
+01:18:08,480 --> 01:18:12,400
+人类会有无数的机会来进步
+The human race will have every opportunity to improve.
+
+1197
+01:18:12,859 --> 01:18:13,860
+如果他们不呢?
+And if they don't?
+
+1198
+01:18:14,402 --> 01:18:15,528
+去问诺亚
+Ask Noah.
+
+1199
+01:18:16,696 --> 01:18:17,822
+你是个疯子
+You are a madman.
+
+1200
+01:18:17,906 --> 01:18:21,409
+发生过好多次生物大灭绝事件
+There were more than a dozen extinction-level events
+
+1201
+01:18:21,451 --> 01:18:24,621
+恐龙就是那么灭绝的
+before even the dinosaurs got theirs.
+
+1202
+01:18:24,662 --> 01:18:26,873
+当地球上的生物进化停滞不前
+When the Earth starts to settle,
+
+1203
+01:18:27,332 --> 01:18:29,292
+上帝就会扔一块石头
+God throws a stone at it.
+
+1204
+01:18:29,376 --> 01:18:31,711
+相信我 他是要结束这一切了
+And, believe me, he's winding up.
+
+1205
+01:18:32,462 --> 01:18:33,672
+我们必须要进化
+We have to evolve.
+
+1206
+01:18:34,214 --> 01:18:35,465
+并没有空间
+There's no room,
+
+1207
+01:18:36,216 --> 01:18:37,384
+留给弱者
+for the weak.
+
+1208
+01:18:37,467 --> 01:18:39,636
+该由谁来决定谁是弱者呢?
+And who decides who's weak?
+
+1209
+01:18:40,387 --> 01:18:42,222
+生命
+Life.
+
+1210
+01:18:42,681 --> 01:18:44,808
+总是生命来决定
+Life always decides.
+
+1211
+01:18:47,644 --> 01:18:48,645
+有人来了
+There's incoming.
+
+1212
+01:18:50,105 --> 01:18:52,399
+昆式战斗机 我们得走了
+The Quinjet. We have to move.
+
+1213
+01:18:52,524 --> 01:18:54,150
+没问题
+That's not a problem.
+
+1214
+01:18:59,823 --> 01:19:01,366
+等等 各位!
+Wait, guys!
+
+1215
+01:19:05,286 --> 01:19:06,746
+他们会理解的
+They'll understand.
+
+1216
+01:19:06,913 --> 01:19:09,165
+等他们看到就会理解的
+When they see, they'll understand.
+
+1217
+01:19:09,541 --> 01:19:12,794
+再给我一点点时间
+I just need a little more time.
+
+1218
+01:19:24,222 --> 01:19:26,349
+两分钟 跟紧了
+Two minutes. Stay close.
+
+1219
+01:19:33,481 --> 01:19:34,524
+周博士!
+Dr. Cho!
+
+1220
+01:19:38,445 --> 01:19:40,030
+他正把自己上传到那具身体里
+He's uploading himself into the body.
+
+1221
+01:19:40,071 --> 01:19:41,197
+在哪儿?
+Where?
+
+1222
+01:19:42,907 --> 01:19:45,618
+真正的力量在再生摇篮里
+The real power is inside the Cradle.
+
+1223
+01:19:45,702 --> 01:19:46,703
+宝石
+The gem,
+
+1224
+01:19:47,370 --> 01:19:50,165
+它的力量是无法抑制的
+its power is uncontainable.
+
+1225
+01:19:50,999 --> 01:19:52,709
+不能把它炸掉
+You can't just blow it up.
+
+1226
+01:19:53,585 --> 01:19:55,879
+你必须把再生摇篮送到斯塔克那儿
+You have to get the Cradle to Stark.
+
+1227
+01:19:55,920 --> 01:19:56,963
+我得先找到它
+First, I have to find it.
+
+1228
+01:19:57,339 --> 01:19:58,340
+去吧
+Go.
+
+1229
+01:19:58,631 --> 01:20:00,050
+你们收到了吗?
+Did you guys copy that?
+
+1230
+01:20:00,091 --> 01:20:01,176
+收到
+We did.
+
+1231
+01:20:01,301 --> 01:20:03,720
+一架私人飞机在城市的另一边起飞了
+I got a private jet taking off across town.
+
+1232
+01:20:04,095 --> 01:20:05,555
+没有旅客
+No manifest.
+
+1233
+01:20:05,680 --> 01:20:06,681
+很可能就是他
+That could be him.
+
+1234
+01:20:07,474 --> 01:20:09,184
+在那儿 是实验室的卡车
+There. It's a truck from the lab.
+
+1235
+01:20:09,309 --> 01:20:10,560
+就在你上方 队长
+Right above you, Cap.
+
+1236
+01:20:10,727 --> 01:20:12,520
+在环形桥上
+On the loop by the bridge.
+
+1237
+01:20:13,104 --> 01:20:14,189
+是他们
+It's them.
+
+1238
+01:20:14,230 --> 01:20:15,774
+三个守着再生摇篮 一个在驾驶室里
+You got three with the Cradle, one in the cab.
+
+1239
+01:20:16,816 --> 01:20:17,942
+我可以干掉司机
+I could take out the driver.
+
+1240
+01:20:18,026 --> 01:20:19,235
+不行 如果卡车撞毁
+Negative. That truck crashes,
+
+1241
+01:20:19,277 --> 01:20:21,071
+宝石会将整个城市夷为平地
+the gem could level the city.
+
+1242
+01:20:21,154 --> 01:20:23,740
+我们得把奥创引开
+We need to draw out Ultron.
+
+1243
+01:20:32,123 --> 01:20:34,334
+不不不不
+No, no, no, no.
+
+1244
+01:20:35,919 --> 01:20:37,087
+别来烦我!
+Leave me alone!
+
+1245
+01:20:45,679 --> 01:20:47,430
+他很显然很不高兴
+Well, he's definitely unhappy.
+
+1246
+01:20:47,514 --> 01:20:49,057
+我要试着让他一直保持愤怒
+I'm gonna try and keep him that way.
+
+1247
+01:20:49,182 --> 01:20:50,225
+你不是他的对手 队长
+You're not a match for him, Cap.
+
+1248
+01:20:51,643 --> 01:20:52,727
+谢了 巴顿
+Thanks, Barton.
+
+1249
+01:21:15,291 --> 01:21:16,459
+你知道再生摇篮里是什么吗?
+You know what's in that cradle?
+
+1250
+01:21:17,877 --> 01:21:19,671
+真正改变一切的力量
+The power to make real change.
+
+1251
+01:21:19,754 --> 01:21:21,214
+而那让你恐惧
+And that terrifies you.
+
+1252
+01:21:21,297 --> 01:21:22,382
+可不会让你感觉太舒服
+I wouldn't call it a comfort.
+
+1253
+01:21:25,802 --> 01:21:26,803
+够了
+Stop it.
+
+1254
+01:21:37,522 --> 01:21:40,316
+可以出舱了 四 三...
+We got a window. Four, three...
+
+1255
+01:21:40,900 --> 01:21:42,027
+给他点颜色看看
+Give him hell.
+
+1256
+01:21:52,829 --> 01:21:54,414
+我总得给你们男人收拾烂摊子
+I'm always picking up after you boys.
+
+1257
+01:21:55,915 --> 01:21:57,709
+他们一直在立交桥下 我没法开枪
+They're heading under the overpass. I've got no shot.
+
+1258
+01:21:57,959 --> 01:21:59,002
+哪条路?
+Which way?
+
+1259
+01:21:59,169 --> 01:22:00,253
+你右边
+Hard right.
+
+1260
+01:22:01,296 --> 01:22:02,297
+现在
+Now.
+
+1261
+01:22:33,286 --> 01:22:35,622
+让开! 借过! 抱歉 借过!
+Out of the way! Coming through! Sorry, coming through!
+
+1262
+01:22:51,388 --> 01:22:52,555
+来吧!
+Come on!
+
+1263
+01:22:53,515 --> 01:22:55,684
+- 克林特 你能把守卫引开吗?  - 让我试试
+- Clint, can you draw out the guards?  - Let's find out.
+
+1264
+01:22:56,643 --> 01:22:57,686
+哔 哔!
+Beep, beep!
+
+1265
+01:23:34,973 --> 01:23:36,641
+他们回头朝你去了
+They're heading back towards you.
+
+1266
+01:23:36,725 --> 01:23:38,101
+所以不管你做什么 赶紧动手
+So whatever you're gonna do, do it now.
+
+1267
+01:23:43,857 --> 01:23:46,526
+我要进去了 队长 你能拖住他吗?
+I'm going in. Cap, can you keep him occupied?
+
+1268
+01:23:47,318 --> 01:23:48,820
+你以为我一直在干嘛啊?
+What do you think I've been doing?
+
+1269
+01:24:32,072 --> 01:24:34,366
+好吧 目标在空中
+Okay, package is airborne.
+
+1270
+01:24:34,991 --> 01:24:36,159
+我可以一枪命中
+I have a clean shot.
+
+1271
+01:24:36,534 --> 01:24:37,952
+不行 我还在卡车里
+Negative. I am still in the truck.
+
+1272
+01:24:37,994 --> 01:24:38,995
+- 你到底在...  - 你准备好就行
+- What the hell are you...  - Just be ready.
+
+1273
+01:24:39,079 --> 01:24:40,121
+我会把目标丢给你的
+I'm sending the package to you.
+
+1274
+01:24:40,914 --> 01:24:42,165
+你让我怎么接啊?
+How do you want me to take it?
+
+1275
+01:24:42,999 --> 01:24:44,459
+你可不会想知道的
+You might wish you hadn't asked that.
+
+1276
+01:24:57,138 --> 01:24:59,057
+求你 别这样
+Please, don't do this.
+
+1277
+01:24:59,474 --> 01:25:01,184
+我们还有别的选择吗?
+What choice do we have?
+
+1278
+01:25:09,359 --> 01:25:10,360
+他跑了!
+I lost him!
+
+1279
+01:25:10,443 --> 01:25:11,903
+朝你们去了!
+He's headed your way!
+
+1280
+01:25:16,866 --> 01:25:17,867
+娜塔莎 我们得走了
+Nat, we gotta go.
+
+1281
+01:25:30,130 --> 01:25:31,589
+娜塔莎!
+Nat!
+
+1282
+01:25:35,051 --> 01:25:36,136
+队长 看到娜塔莎了吗?
+Cap, you see Nat?
+
+1283
+01:25:36,928 --> 01:25:39,723
+如果你拿到包裹就去找斯塔克! 快走!
+If you have the package, get it to Stark! Go!
+
+1284
+01:25:39,806 --> 01:25:41,057
+你看到娜塔莎了吗?
+Do you have eyes on Nat?
+
+1285
+01:25:41,141 --> 01:25:42,225
+快走!
+Go!
+
+1286
+01:25:44,144 --> 01:25:45,228
+该死
+Damn it.
+
+1287
+01:25:45,687 --> 01:25:46,896
+前面有平民
+Civilians in our path.
+
+1288
+01:25:48,064 --> 01:25:49,065
+你能让车停下来吗?
+Can you stop this thing?
+
+1289
+01:26:28,438 --> 01:26:29,814
+我没事
+I'm fine.
+
+1290
+01:26:29,898 --> 01:26:31,608
+只是得休息一分钟
+I just need to take a minute.
+
+1291
+01:26:32,067 --> 01:26:33,985
+我可不想让你休息
+I'm very tempted not to give you one.
+
+1292
+01:26:34,069 --> 01:26:36,029
+你拿到再生摇篮了吗?
+The Cradle. Did you get it?
+
+1293
+01:26:36,112 --> 01:26:37,614
+斯塔克会处理的
+Stark will take care of it.
+
+1294
+01:26:39,032 --> 01:26:40,033
+不 他不会
+No, he won't.
+
+1295
+01:26:43,453 --> 01:26:45,789
+你不知道自己在说什么 斯塔克又不是疯子
+You don't know what you're talking about. Stark's not crazy.
+
+1296
+01:26:45,872 --> 01:26:47,957
+他会不惜一切代价做对的事情
+He will do anything to make things right.
+
+1297
+01:26:52,921 --> 01:26:54,255
+斯塔克 请回答
+Stark, come in.
+
+1298
+01:26:54,673 --> 01:26:55,674
+斯塔克
+Stark.
+
+1299
+01:26:57,050 --> 01:26:58,218
+有人收到吗?
+Anyone on comms?
+
+1300
+01:26:58,343 --> 01:26:59,803
+奥创并搞不清楚
+Ultron can't tell the difference,
+
+1301
+01:26:59,886 --> 01:27:02,263
+拯救世界和毁灭世界间的区别
+between saving the world and destroying it.
+
+1302
+01:27:04,140 --> 01:27:06,643
+你觉得他是跟谁学的?
+Where do you think he gets that?
+
+1303
+01:27:08,812 --> 01:27:10,397
+- 找到娜塔莎了吗?  - 还没有
+- Anything on Nat?  - I haven't heard.
+
+1304
+01:27:10,480 --> 01:27:12,899
+但她还活着 否则奥创肯定会落井下石
+But she's alive, or Ultron would be rubbing our faces in it.
+
+1305
+01:27:12,982 --> 01:27:14,317
+这是密封的
+This is sealed tight.
+
+1306
+01:27:14,401 --> 01:27:15,944
+我们得进入程序
+We're gonna need to access the program,
+
+1307
+01:27:15,985 --> 01:27:17,987
+从里面瓦解它
+break it down from within.
+
+1308
+01:27:19,155 --> 01:27:21,991
+娜塔莎有没有可能在互联网之外给你留了什么信息?
+Any chance Natasha might leave you a message outside the Internet?
+
+1309
+01:27:22,075 --> 01:27:23,118
+以前的间谍手段吗?
+Old-school spy stuff?
+
+1310
+01:27:23,493 --> 01:27:25,328
+我可以试试几个频率
+There are some nets I can cast.
+
+1311
+01:27:25,453 --> 01:27:26,663
+我会找到她的
+Yeah, I'll find her.
+
+1312
+01:27:29,290 --> 01:27:31,084
+我可以让组织瓦解
+I can work on tissue degeneration,
+
+1313
+01:27:31,167 --> 01:27:34,462
+前提是你能摧毁周博士植入的操作系统
+if you could fry whatever operational system Cho implanted.
+
+1314
+01:27:34,504 --> 01:27:35,630
+关于这一点
+Yeah, about that.
+
+1315
+01:27:40,010 --> 01:27:41,094
+不行
+No.
+
+1316
+01:27:41,219 --> 01:27:43,138
+- 你得相信我  - 我有点不相信
+- You have to trust me. - Kind of don't.
+
+1317
+01:27:43,263 --> 01:27:47,600
+我们的盟友 那个保护军方核密码的家伙
+Our ally, the guy protecting the military's nuclear codes,
+
+1318
+01:27:49,227 --> 01:27:50,270
+我找到他了
+I found him.
+
+1319
+01:27:50,353 --> 01:27:51,479
+你好 班纳博士
+Hello, Dr. Banner.
+
+1320
+01:27:52,355 --> 01:27:54,607
+奥创并不是由于愤怒才攻击贾维斯的
+Ultron didn't go after Jarvis because he was angry.
+
+1321
+01:27:55,191 --> 01:27:58,862
+而是由于害怕他的能力
+He attacked him because he was scared of what he can do.
+
+1322
+01:27:59,946 --> 01:28:01,656
+所以贾维斯转入了地下
+So Jarvis went underground.
+
+1323
+01:28:01,698 --> 01:28:03,241
+分散开 清除了记忆
+Scattered, dumped his memory.
+
+1324
+01:28:03,783 --> 01:28:05,326
+但他没忘了协议
+But not his protocols.
+
+1325
+01:28:05,702 --> 01:28:09,205
+直到我把拼接起来 他才知道自己在那里
+He didn't even know he was in there until I pieced him together.
+
+1326
+01:28:12,000 --> 01:28:16,838
+所以 你要我帮你把贾维斯放入这玩意儿吗?
+So, you want me to help you put Jarvis into this thing?
+
+1327
+01:28:16,963 --> 01:28:18,715
+不! 当然不是 
+No! Of course not.
+
+1328
+01:28:18,840 --> 01:28:20,550
+是我想帮你把贾维斯放进去
+I wanna help you put Jarvis in this thing.
+
+1329
+01:28:22,886 --> 01:28:24,596
+这不是我擅长的领域
+We're out of my field, here.
+
+1330
+01:28:24,679 --> 01:28:26,723
+只有你最了解有机生物学
+You know bio-organics better than anyone.
+
+1331
+01:28:26,890 --> 01:28:29,934
+你觉得贾维斯的运算矩阵
+And you just assume that Jarvis's operational matrix,
+
+1332
+01:28:30,018 --> 01:28:31,478
+能打败奥创的?
+can beat Ultron's?
+
+1333
+01:28:31,561 --> 01:28:34,898
+贾维斯在无意识的情况下就已经从内部把他打败了
+Jarvis has been beating him from inside without knowing it.
+
+1334
+01:28:34,981 --> 01:28:36,024
+这是个好机会
+This is the opportunity.
+
+1335
+01:28:36,066 --> 01:28:37,859
+我们可以复制一个完美的奥创
+We can create Ultron's perfect self,
+
+1336
+01:28:37,984 --> 01:28:41,529
+摒弃他杀人成性的性格
+without the homicidal glitches he thinks are his winning personality.
+
+1337
+01:28:41,571 --> 01:28:42,614
+我们必须这么做
+We have to.
+
+1338
+01:28:42,697 --> 01:28:43,740
+我相信这值得一试
+I believe it's worth a go.
+
+1339
+01:28:46,242 --> 01:28:47,327
+我陷入了一个循环!
+I'm in a loop!
+
+1340
+01:28:47,452 --> 01:28:48,536
+一个时间上的循环
+I'm caught in a time loop.
+
+1341
+01:28:48,578 --> 01:28:50,538
+这就是所有事情都跑偏的原因
+This is exactly where it all went wrong.
+
+1342
+01:28:50,580 --> 01:28:52,540
+我知道 我知道 我知道大家都会说些什么
+I know. I know. I know what everyone's gonna say.
+
+1343
+01:28:52,582 --> 01:28:54,584
+但他们已经说了
+But they're already saying it.
+
+1344
+01:28:55,085 --> 01:28:56,378
+我们是科学怪人
+We're mad scientists.
+
+1345
+01:28:57,045 --> 01:28:59,798
+我们是怪物 哥们 我们早就是了
+We're monsters, buddy. We've gotta own it.
+
+1346
+01:29:00,757 --> 01:29:02,050
+下决心干吧
+Make a stand.
+
+1347
+01:29:07,347 --> 01:29:08,932
+这不是个循环
+It's not a loop.
+
+1348
+01:29:10,100 --> 01:29:11,935
+而是终点
+It's the end of the line.
+
+1349
+01:29:32,372 --> 01:29:34,582
+没想到你还能醒过来
+I wasn't sure you would wake up.
+
+1350
+01:29:34,624 --> 01:29:38,128
+我希望你能醒过来 我还想给你看呢
+I hoped you would. I wanted to show you.
+
+1351
+01:29:38,253 --> 01:29:39,963
+也没有其他人来看了
+I don't have anyone else.
+
+1352
+01:29:42,716 --> 01:29:46,344
+我想了很多关于陨石的事 它们有多纯洁
+I think a lot about meteors. The purity in them.
+
+1353
+01:29:46,469 --> 01:29:48,138
+嘭! 灰飞烟灭
+Boom! The end.
+
+1354
+01:29:48,471 --> 01:29:49,973
+一切重新开始
+Start again.
+
+1355
+01:29:50,056 --> 01:29:52,017
+一个崭新的世界
+The world made clean
+
+1356
+01:29:52,142 --> 01:29:54,477
+等待着它的新主人去重建
+for the new man to rebuild.
+
+1357
+01:29:54,811 --> 01:29:56,980
+我注定就是那新的主人
+I was meant to be new.
+
+1358
+01:29:57,814 --> 01:30:00,442
+我注定生来就是美丽的
+I was meant to be beautiful.
+
+1359
+01:30:00,984 --> 01:30:03,111
+这个世界抬头仰望苍穹时
+The world would have looked to the sky
+
+1360
+01:30:03,153 --> 01:30:04,487
+会看到希望
+and seen hope,
+
+1361
+01:30:04,821 --> 01:30:06,156
+以及宽恕
+seen mercy.
+
+1362
+01:30:06,906 --> 01:30:09,034
+相反的 因为你们
+Instead, they'll look up in horror
+
+1363
+01:30:09,117 --> 01:30:10,535
+他们却只能看到恐惧
+because of you.
+
+1364
+01:30:10,660 --> 01:30:12,579
+你打伤了我
+You've wounded me.
+
+1365
+01:30:13,079 --> 01:30:14,831
+这件事上我给你打满分
+I give you full marks for that.
+
+1366
+01:30:15,415 --> 01:30:18,418
+但是 正如人们所说的 凡不能毁灭我的...
+But, like the man said, what doesn't kill me...
+
+1367
+01:30:23,506 --> 01:30:24,924
+将使我更强大
+just makes me stronger.
+
+1368
+01:31:05,006 --> 01:31:07,217
+这个架构是不兼容的
+This framework is not compatible.
+
+1369
+01:31:07,300 --> 01:31:10,053
+遗传密码塔到了97%了
+The genetic coding tower is at 97%.
+
+1370
+01:31:10,095 --> 01:31:14,015
+你要把线路图在三分钟之内传上去
+You have got to upload that schematic in the next three minutes.
+
+1371
+01:31:16,267 --> 01:31:18,228
+- 这话我可只说一遍  - "一遍也别说"怎么样?
+- I'm gonna say this once.  - How about "none-ce"?
+
+1372
+01:31:18,353 --> 01:31:20,397
+- 把这玩儿给我关了!  - 门儿都没有 
+- Shut it down!   - Nope, not gonna happen.
+
+1373
+01:31:20,480 --> 01:31:21,648
+你们根本就不清楚自己在做什么
+You don't know what you're doing.
+
+1374
+01:31:21,773 --> 01:31:23,149
+你清楚?
+And you do?
+
+1375
+01:31:23,483 --> 01:31:24,526
+她没控制你吧?
+She's not in your head?
+
+1376
+01:31:24,651 --> 01:31:26,319
+我知道你很生气
+I know you're angry.
+1371 
+
+1377
+01:31:26,444 --> 01:31:27,862
+比生气可严重多了
+We're way past that.
+
+1378
+01:31:27,904 --> 01:31:30,365
+我不变身都能把你给嚼了
+I could choke the life out of you and never change a shade.
+
+1379
+01:31:30,490 --> 01:31:32,117
+班纳 经过了所发生的一切... 
+Banner, after everything that's happened...
+
+1380
+01:31:32,200 --> 01:31:33,743
+这根本就不能和将要发生的事情相比!
+It's nothing compared to what's coming!
+
+1381
+01:31:33,868 --> 01:31:35,328
+- 你根本就不知道这是怎么一回事  - 这不是在玩游戏!
+- You don't know what's in there.  - This isn't a game!
+
+1382
+01:31:39,499 --> 01:31:40,917
+你们接着说
+No, no. Go on.
+
+1383
+01:31:41,793 --> 01:31:43,086
+你刚才说什么来着?
+You were saying?
+
+1384
+01:31:49,634 --> 01:31:51,011
+皮特!
+Pietro!
+
+1385
+01:31:51,720 --> 01:31:52,721
+怎么了?
+What?
+
+1386
+01:31:53,096 --> 01:31:54,764
+你没能提前发现吗?
+You didn't see that coming?
+
+1387
+01:31:56,850 --> 01:31:58,059
+我正在使用其它路径上传
+I'm rerouting the upload.
+
+1388
+01:32:04,941 --> 01:32:06,109
+接着来 把我惹急了试试
+Go ahead, piss me off.
+
+1389
+01:32:18,371 --> 01:32:19,789
+等等!
+Wait!
+
+1390
+01:33:44,207 --> 01:33:46,543
+很抱歉 刚才真是...
+I am sorry. That was...
+
+1391
+01:33:47,502 --> 01:33:48,920
+奇怪
+odd.
+
+1392
+01:33:49,087 --> 01:33:50,422
+谢谢
+Thank you.
+
+1393
+01:33:55,343 --> 01:33:56,344
+索尔
+Thor.
+
+1394
+01:33:57,762 --> 01:33:58,805
+你帮着把这东西创造出来了?
+You helped create this?
+
+1395
+01:33:58,930 --> 01:34:00,432
+我预见到一幅画面
+I've had a vision.
+
+1396
+01:34:00,557 --> 01:34:04,394
+有一个吞噬一切希望的漩涡 而这个东西则处于漩涡中心 
+A whirlpool that sucks in all hope of life, and at its center is that.
+
+1397
+01:34:05,311 --> 01:34:06,396
+什么? 这块宝石?
+What? The gem?
+
+1398
+01:34:06,438 --> 01:34:07,522
+这个叫做心灵之石
+It's the Mind Stone.
+
+1399
+01:34:07,564 --> 01:34:09,065
+是六块无限宝石其中的一颗
+It's one of the six Infinity Stones.
+
+1400
+01:34:09,232 --> 01:34:10,525
+是宇宙中最强大的能量
+The greatest power in the universe,
+
+1401
+01:34:10,567 --> 01:34:12,819
+有举世无双的破坏力
+unparalleled in its destructive capabilities.
+
+1402
+01:34:12,902 --> 01:34:14,904
+- 那你怎么会有...  - 因为斯塔克说得对
+- Then why would you bring...  - Because Stark is right.
+
+1403
+01:34:15,030 --> 01:34:17,532
+还真的是世界末日了
+It's definitely the end times.
+
+1404
+01:34:17,657 --> 01:34:18,742
+复仇者们是打不过奥创的
+The Avengers cannot defeat Ultron.
+
+1405
+01:34:18,825 --> 01:34:20,160
+孤军奋战不行
+Not alone.
+
+1406
+01:34:20,618 --> 01:34:22,620
+为什么幻视的声音听上去像贾维斯?
+Why does your Vision sound like Jarvis?
+
+1407
+01:34:22,704 --> 01:34:25,373
+我们重组了贾维斯的矩阵
+We reconfigured Jarvis's matrix
+
+1408
+01:34:25,832 --> 01:34:27,709
+创造出了一些新的东西
+to create something new.
+
+1409
+01:34:27,876 --> 01:34:29,627
+我觉得我身体的内部是崭新的
+I think I've had my fill of new.
+
+1410
+01:34:29,711 --> 01:34:32,047
+你们觉得我是奥创的后代
+You think I'm a child of Ultron.
+
+1411
+01:34:32,339 --> 01:34:33,673
+你不是吗?
+You're not?
+
+1412
+01:34:34,758 --> 01:34:36,426
+我不是奥创
+I'm not Ultron.
+
+1413
+01:34:36,968 --> 01:34:39,262
+也不是贾维斯 我...
+I am not Jarvis. I am...
+
+1414
+01:34:41,306 --> 01:34:42,766
+就是我
+I am.
+
+1415
+01:34:44,601 --> 01:34:45,769
+我进入了你的意识
+I looked in your head
+
+1416
+01:34:46,436 --> 01:34:48,271
+并且看到了毁灭
+and saw annihilation.
+
+1417
+01:34:48,438 --> 01:34:49,439
+再看看
+Look again.
+
+1418
+01:34:49,856 --> 01:34:51,358
+她这招在我看来一点用也没有
+Her seal of approval means jack to me.
+
+1419
+01:34:51,858 --> 01:34:54,611
+他们的力量 我们意识中的恐惧 奥创本身
+Their powers, the horrors in our heads, Ultron himself,
+
+1420
+01:34:54,694 --> 01:34:56,112
+都源于心灵之石
+they all came from the Mind Stone.
+
+1421
+01:34:56,237 --> 01:34:58,448
+但都无法与它能释放出的能量相比
+And they're nothing compared to what it can unleash.
+
+1422
+01:34:58,573 --> 01:35:00,075
+- 但是有了他的加入...  - 是吗? 
+- But with it on our side...  - Is it?
+
+1423
+01:35:01,493 --> 01:35:02,744
+你会加入吗?
+Are you?
+
+1424
+01:35:03,536 --> 01:35:04,954
+成为我们的同伴?
+On our side?
+
+1425
+01:35:06,831 --> 01:35:08,792
+我觉得这事没这么简单
+I don't think it's that simple.
+
+1426
+01:35:08,875 --> 01:35:11,419
+那最好快点把事情弄简单些
+Well, it better get real simple real soon.
+
+1427
+01:35:12,504 --> 01:35:14,673
+我站在生命这边
+I am on the side of life.
+
+1428
+01:35:14,839 --> 01:35:16,299
+但奥创不是
+Ultron isn't.
+
+1429
+01:35:16,800 --> 01:35:18,301
+他将毁灭一切
+He will end it all.
+
+1430
+01:35:18,385 --> 01:35:20,387
+那你还等什么?
+What's you waiting for?
+
+1431
+01:35:20,470 --> 01:35:21,471
+- 你  - 在哪?
+- You.  - Where?
+
+1432
+01:35:21,888 --> 01:35:23,098
+索科维亚
+Sokovia.
+
+1433
+01:35:23,223 --> 01:35:24,307
+他把娜塔莉也关在了那里
+He's got Nat there, too.
+
+1434
+01:35:26,393 --> 01:35:28,061
+如果我们看错了你
+If we're wrong about you,
+
+1435
+01:35:30,730 --> 01:35:32,565
+如果你是奥创创造出来的怪物...
+if you're the monster that Ultron made you to be...
+
+1436
+01:35:33,233 --> 01:35:34,859
+你将会怎么做?
+What will you do?
+
+1437
+01:35:41,408 --> 01:35:43,576
+我不想杀掉奥创
+I don't want to kill Ultron.
+
+1438
+01:35:43,868 --> 01:35:47,288
+他独一无二 并身负创伤
+He's unique and he's in pain.
+
+1439
+01:35:48,790 --> 01:35:51,543
+但是这种创伤会席卷全球
+But that pain will roll over the Earth.
+
+1440
+01:35:51,710 --> 01:35:54,295
+所以 他必须被干掉
+So, he must be destroyed.
+
+1441
+01:35:54,421 --> 01:35:57,465
+毁掉他一切可以存活的方式和全部的蛛丝马迹
+Every form he's built, every trace of his presence on the net.
+
+1442
+01:35:57,590 --> 01:35:59,467
+我们现在必须行动了
+We have to act now.
+
+1443
+01:35:59,634 --> 01:36:03,638
+并且要一起行动 离开谁也不行
+And not one of us can do it without the others.
+
+1444
+01:36:05,640 --> 01:36:07,517
+也许我是个怪物
+Maybe I am a monster.
+
+1445
+01:36:07,684 --> 01:36:10,020
+就算是 我也不知道
+I don't think I'd know if I were one.
+
+1446
+01:36:11,146 --> 01:36:12,731
+我和你们不同
+I'm not what you are,
+
+1447
+01:36:13,356 --> 01:36:15,608
+与你们的主张也不同
+and not what you intended.
+
+1448
+01:36:16,276 --> 01:36:18,820
+所以可能没办法让你们相信我
+So, there may be no way to make you trust me.
+
+1449
+01:36:19,029 --> 01:36:20,530
+但我们得出发了
+But we need to go.
+
+1450
+01:36:35,253 --> 01:36:36,504
+对
+Right.
+
+1451
+01:36:37,047 --> 01:36:38,381
+干得好
+Well done.
+
+1452
+01:36:40,050 --> 01:36:41,092
+三分钟时间
+Three minutes.
+
+1453
+01:36:41,843 --> 01:36:43,511
+做好准备
+Get what you need.
+
+1454
+01:36:59,402 --> 01:37:00,403
+晚上好 老板
+Good evening, boss.
+
+1455
+01:37:05,533 --> 01:37:07,160
+我们不可能全都熬过这个坎
+No way we all get through this.
+
+1456
+01:37:07,285 --> 01:37:09,245
+即使最后只剩下一个铁皮战士 也算我们输了 
+If even one tin soldier is left standing, we've lost.
+
+1457
+01:37:10,080 --> 01:37:11,456
+我们也只不过是地上的一滩血罢了
+There's gonna be blood on the floor.
+
+1458
+01:37:11,581 --> 01:37:12,957
+我也不知道明晚该怎么办
+I got no plans tomorrow night.
+
+1459
+01:37:13,041 --> 01:37:14,250
+我会先揍那大家伙一顿
+I get first crack at the big guy.
+
+1460
+01:37:14,834 --> 01:37:16,419
+他等的就是钢铁侠
+Iron Man's the one he's waiting for.
+
+1461
+01:37:16,461 --> 01:37:18,922
+说得对 他最恨你了
+That's true. He hates you the most.
+
+1462
+01:37:24,219 --> 01:37:26,471
+奥创知道我们会去
+Ultron knows we're coming.
+
+1463
+01:37:26,596 --> 01:37:28,807
+我们将会置身于枪林弹雨
+Odds are we'll be riding into heavy fire.
+
+1464
+01:37:29,307 --> 01:37:31,101
+这原本就是我们的使命
+And that's what we signed up for.
+
+1465
+01:37:31,267 --> 01:37:34,104
+但索科维亚的居民不必经历这些
+But the people of Sokovia, they didn't.
+
+1466
+01:37:34,979 --> 01:37:36,523
+所以我们的首要任务
+So our priority
+
+1467
+01:37:37,148 --> 01:37:38,274
+是疏散他们
+is getting them out.
+
+1468
+01:37:38,358 --> 01:37:41,361
+我们正遭受攻击! 疏散全城的人! 现在!
+We're under attack! Clear the city! Now!
+
+1469
+01:37:49,202 --> 01:37:50,745
+赶紧动起来
+Get off your asses.
+
+1470
+01:37:51,913 --> 01:37:53,832
+他们渴望的只是平静的生活而已
+All they want is to live their lives in peace.
+
+1471
+01:37:54,416 --> 01:37:55,667
+但在今天 这是不可能的
+And that's not gonna happen today.
+
+1472
+01:37:57,377 --> 01:37:59,129
+但我们会倾全力保护他们
+But we can do our best to protect them.
+
+1473
+01:37:59,796 --> 01:38:01,423
+并且也会完成好这项任务
+And we can get the job done.
+
+1474
+01:38:04,718 --> 01:38:07,012
+我们要找出奥创在建造什么
+We find out what Ultron's been building,
+
+1475
+01:38:07,971 --> 01:38:09,639
+也要找出罗曼诺夫
+we find Romanoff,
+
+1476
+01:38:10,098 --> 01:38:11,975
+然后我们清空这块区域
+and we clear the field.
+
+1477
+01:38:13,309 --> 01:38:15,270
+确保参战的只有我们和他
+Keep the fight between us.
+
+1478
+01:38:21,985 --> 01:38:24,404
+奥创觉得我们是怪物
+Ultron thinks we're monsters.
+
+1479
+01:38:24,904 --> 01:38:27,365
+我们就是这个世界的病灶
+That we're what's wrong with the world.
+
+1480
+01:38:27,490 --> 01:38:29,826
+这不仅仅关乎打败他
+This isn't just about beating him.
+
+1481
+01:38:30,285 --> 01:38:32,370
+这关乎他是否是对的
+It's about whether he's right.
+
+1482
+01:38:38,793 --> 01:38:39,878
+娜塔莎!
+Natasha!
+
+1483
+01:38:41,004 --> 01:38:42,005
+娜塔莎!
+Natasha!
+
+1484
+01:38:42,088 --> 01:38:43,256
+布鲁斯?
+Bruce?
+
+1485
+01:38:44,549 --> 01:38:45,633
+你还好吗?
+You all right?
+
+1486
+01:38:45,675 --> 01:38:46,843
+是的
+Yeah.
+
+1487
+01:38:47,010 --> 01:38:48,678
+队伍已经在城里了 天快亮了
+The team is in the city. It's about to light up.
+
+1488
+01:38:48,845 --> 01:38:50,764
+我觉得你还没找到那把静静地躺在某处的钥匙吧
+I don't suppose you found a key lying around somewhere.
+
+1489
+01:38:51,264 --> 01:38:53,391
+我找到了
+Yeah. I did.
+
+1490
+01:38:59,814 --> 01:39:01,024
+计划是怎么样的?
+So what's our play?
+
+1491
+01:39:01,149 --> 01:39:02,525
+我就是来救你出去的
+I'm here to get you to safety.
+
+1492
+01:39:03,193 --> 01:39:04,194
+任务还没完成呢
+Job's not finished.
+
+1493
+01:39:04,361 --> 01:39:07,864
+我们能帮助他们撤离 但我不能在离平民这么近的地方打斗
+We could help with the evacuation, but I can't be in a fight near civilians.
+
+1494
+01:39:09,115 --> 01:39:10,367
+而且你也做得够多了
+And you've done plenty.
+
+1495
+01:39:12,702 --> 01:39:14,245
+我们的任务结束了
+Our fight is over.
+
+1496
+01:39:15,580 --> 01:39:18,291
+那我们可以消失了?
+So, we just disappear?
+
+1497
+01:39:22,587 --> 01:39:24,047
+快点
+Come on.
+
+1498
+01:39:28,593 --> 01:39:30,929
+你要找的人在教堂 老板
+Your man's in the church, boss.
+
+1499
+01:39:31,012 --> 01:39:32,889
+我觉得他正在等你
+I think he's waiting for you.
+
+1500
+01:39:36,893 --> 01:39:38,937
+你是来忏悔的吗?
+Come to confess your sins?
+
+1501
+01:39:39,062 --> 01:39:40,397
+不知道 你有多长时间?
+I don't know. How much time you got?
+
+1502
+01:39:40,438 --> 01:39:42,023
+比你长
+More than you.
+
+1503
+01:39:44,317 --> 01:39:47,195
+你是不是长肉了? 喝了振金鸡尾酒吗?
+Have you been juicing? Little vibranium cocktail?
+
+1504
+01:39:47,237 --> 01:39:49,572
+你看上去... 我不想用"浮肿"这个词
+You're looking... I don't wanna say "puffy".
+
+1505
+01:39:49,739 --> 01:39:51,408
+你们在拖延时间 好去保护那些平民
+You're stalling to protect the people.
+
+1506
+01:39:51,783 --> 01:39:54,786
+这是我们的使命 你忘了吗?
+Well, that is the mission. Did you forget?
+
+1507
+01:39:54,911 --> 01:39:57,414
+我才不管你们的使命 我是自由的
+I've moved beyond your mission. I'm free.
+
+1508
+01:40:02,210 --> 01:40:03,294
+什么?
+What?
+
+1509
+01:40:04,129 --> 01:40:06,548
+你以为只有你们在拖延时间?
+You think you were the only one stalling?
+
+1510
+01:40:07,257 --> 01:40:08,883
+这是振金的剩余部分
+There's the rest of the vibranium.
+
+1511
+01:40:08,925 --> 01:40:10,427
+目前仍不清楚其作用
+Function, still unclear.
+
+1512
+01:40:10,552 --> 01:40:12,262
+托尼 你就要这么完蛋了
+This is how you end, Tony.
+
+1513
+01:40:12,971 --> 01:40:14,764
+这是属于我的时代和平
+This is peace in my time.
+
+1514
+01:40:31,448 --> 01:40:32,490
+快走!
+Go!
+
+1515
+01:40:37,996 --> 01:40:39,414
+快离开那座桥!
+Get off the bridge!
+
+1516
+01:40:43,626 --> 01:40:44,627
+快跑!
+Run!
+
+1517
+01:40:46,588 --> 01:40:48,340
+奥创
+Ultron.
+
+1518
+01:40:53,845 --> 01:40:55,180
+我亲爱的幻视
+My Vision.
+
+1519
+01:40:55,305 --> 01:40:57,599
+他们还真是把一切都从我身上夺走了
+They really did take everything from me.
+
+1520
+01:40:57,724 --> 01:40:59,851
+你定的规矩 你可以改变的
+You set the terms. You can change them.
+
+1521
+01:40:59,976 --> 01:41:01,186
+好吧
+All right.
+
+1522
+01:41:25,335 --> 01:41:26,586
+星期五 幻视呢?
+Friday, the Vision?
+
+1523
+01:41:26,670 --> 01:41:27,712
+老板 它成功了
+Boss, it's working.
+
+1524
+01:41:27,796 --> 01:41:30,048
+他正在摧毁奥创的网络 他跑不了了
+He's burning Ultron out of the net. He won't escape through there.
+
+1525
+01:41:35,095 --> 01:41:36,513
+你把网络断了
+You shut me out.
+
+1526
+01:41:37,013 --> 01:41:38,306
+你以为我会在意吗?
+You think I care?
+
+1527
+01:41:40,225 --> 01:41:41,434
+你夺走了我的世界
+You take away my world,
+
+1528
+01:41:42,310 --> 01:41:44,229
+我要夺走你的
+I take away yours.
+
+1529
+01:42:28,565 --> 01:42:29,858
+星期五
+Friday.
+
+1530
+01:42:29,899 --> 01:42:32,402
+索科维亚要飞起来了
+Sokovia is going for a ride.
+
+1531
+01:42:44,831 --> 01:42:46,374
+你们看到
+Do you see
+
+1532
+01:42:46,791 --> 01:42:48,418
+这其中的美了吗?
+the beauty of it?
+
+1533
+01:42:48,918 --> 01:42:50,920
+无法逃避的结局
+The inevitability.
+
+1534
+01:42:51,004 --> 01:42:54,341
+你们升起 却只为了坠落
+You rise, only to fall.
+
+1535
+01:42:57,052 --> 01:43:00,722
+复仇者们 你们就是我的陨石
+You, Avengers, you are my meteor.
+
+1536
+01:43:00,764 --> 01:43:02,515
+我轻快又锋利的刀刃
+My swift and terrible sword.
+
+1537
+01:43:02,724 --> 01:43:04,267
+会与你们的失败一起
+And the earth will crack
+
+1538
+01:43:04,392 --> 01:43:06,269
+划破大地
+with the weight of your failure.
+
+1539
+01:43:07,979 --> 01:43:11,775
+把我从你们的电脑中清除 操纵我的肉体与我为敌
+Purge me from your computers, turn my own flesh against me.
+
+1540
+01:43:12,067 --> 01:43:13,151
+都完全没用
+It means nothing.
+
+1541
+01:43:13,777 --> 01:43:15,528
+当一切尘埃落定之时
+When the dust settles,
+
+1542
+01:43:15,612 --> 01:43:17,572
+仅存于世的将会是
+the only thing living in this world
+
+1543
+01:43:18,573 --> 01:43:19,616
+冰冷的金属
+will be metal.
+
+1544
+01:43:24,454 --> 01:43:25,789
+我们得走了
+We gotta move.
+
+1545
+01:43:26,122 --> 01:43:27,165
+你不会变身吧?
+You're not gonna turn green?
+
+1546
+01:43:27,374 --> 01:43:30,085
+我已经得到了一个强迫自己不会失去冷静的理由
+I've got a compelling reason not to lose my cool.
+
+1547
+01:43:30,377 --> 01:43:31,378
+我爱你
+I adore you.
+
+1548
+01:43:40,387 --> 01:43:42,555
+但我需要的是另外一个家伙
+But I need the other guy. 
+
+1549
+01:43:47,143 --> 01:43:48,978
+让我们把任务完成吧
+Let's finish the job.
+
+1550
+01:44:05,704 --> 01:44:07,080
+希望咱俩这就算扯平了
+I really hope this makes us even.
+
+1551
+01:44:09,416 --> 01:44:10,417
+现在去做英雄吧
+Now go be a hero.
+
+1552
+01:44:19,926 --> 01:44:21,928
+振金的核心有一个磁场
+The vibranium core's got a magnetic field.
+
+1553
+01:44:22,053 --> 01:44:24,055
+就是它将岩石固定在一起
+That's what's keeping the rock together.
+
+1554
+01:44:24,180 --> 01:44:25,181
+要是它掉下来呢?
+If it drops?
+
+1555
+01:44:25,265 --> 01:44:26,599
+造成的冲击会立刻杀死成千上万的人
+Right now, the impact will kill thousands.
+
+1556
+01:44:26,683 --> 01:44:29,352
+一旦它升得足够高呢? 世界就毁灭了
+Once it gets high enough? Global extinction.
+
+1557
+01:44:33,690 --> 01:44:35,859
+那栋楼里面还有人 十楼
+That building's not clear. The 10th floor.
+
+1558
+01:44:40,655 --> 01:44:41,656
+嗨
+Hi.
+
+1559
+01:44:42,782 --> 01:44:44,075
+好吧
+Okay.
+
+1560
+01:44:44,159 --> 01:44:45,160
+全体进浴缸!
+Get in the tub!
+
+1561
+01:44:52,000 --> 01:44:53,835
+空中有敌人冲向大桥
+I got airborne, heading up to the bridge.
+
+1562
+01:44:56,588 --> 01:44:57,881
+队长 有敌人靠近你
+Cap, you got incoming.
+
+1563
+01:44:58,048 --> 01:44:59,674
+敌人早就都到了
+Incoming already came in.
+
+1564
+01:45:02,344 --> 01:45:04,804
+斯塔克 你要操心的就是让这个城市安全降落
+Stark, you worry about bringing the city back down safely.
+
+1565
+01:45:05,472 --> 01:45:07,265
+我们其余的人只有一件事情要做
+The rest of us have one job,
+
+1566
+01:45:07,390 --> 01:45:08,641
+就是把他们都撕成碎片
+tear these things apart.
+
+1567
+01:45:08,933 --> 01:45:10,602
+要是你受伤了 就以牙还牙
+You get hurt, hurt them back.
+
+1568
+01:45:11,227 --> 01:45:12,395
+你要是挂了
+You get killed,
+
+1569
+01:45:13,396 --> 01:45:14,731
+那就一边凉快去
+walk it off.
+
+1570
+01:45:49,349 --> 01:45:50,350
+快跑 快跑 快跑!
+Go, go, go!
+
+1571
+01:45:56,022 --> 01:45:57,774
+我都做了些什么?
+How could I let this happen?
+
+1572
+01:45:57,941 --> 01:45:58,942
+嘿 嘿 你还好吧?
+Hey, hey, you okay?
+
+1573
+01:45:59,025 --> 01:46:00,068
+这全都是我们的错
+This is all our fault.
+
+1574
+01:46:00,110 --> 01:46:01,111
+嘿 看着我
+Hey, look at me.
+
+1575
+01:46:01,194 --> 01:46:03,488
+你的错也好 大家的错也罢 可谁又在意这个呢?
+It's your fault, it's everyone's fault. Who cares?
+
+1576
+01:46:03,571 --> 01:46:05,073
+你愿意抗争吗?
+Are you up for this?
+
+1577
+01:46:05,198 --> 01:46:06,199
+愿意吗?
+Are you?
+
+1578
+01:46:06,783 --> 01:46:09,953
+听着 我只需要知道 因为这个城市已经飞了起来
+Look, I just need to know. Because the city is flying.
+
+1579
+01:46:10,245 --> 01:46:14,165
+好的 听着 这个城市已经飞起来了 我们正在与机器人大军战斗
+Okay. Look, the city is flying, we're fighting an army of robots,
+
+1580
+01:46:15,000 --> 01:46:16,292
+我只有弓箭
+and I have a bow and arrow.
+
+1581
+01:46:16,376 --> 01:46:17,502
+这些都没有什么意义
+None of this makes sense.
+
+1582
+01:46:20,755 --> 01:46:22,841
+但我还是会出去战斗 因为这是我的职责
+But I'm going back out there because it's my job.
+
+1583
+01:46:23,717 --> 01:46:26,469
+懂吗? 而且我不能又打仗 又照顾你
+Okay? And I can't do my job and babysit.
+
+1584
+01:46:26,511 --> 01:46:29,639
+你做过什么 以前是谁 这些都无关紧要
+It doesn't matter what you did or what you were.
+
+1585
+01:46:29,806 --> 01:46:32,308
+如果你从这里走出去 你就得至死战斗
+If you go out there, you fight, and you fight to kill.
+
+1586
+01:46:33,351 --> 01:46:35,979
+待在这里你会没事 我会让你弟弟来找你
+Stay in here, you're good. I'll send your brother to come find you.
+
+1587
+01:46:36,062 --> 01:46:37,939
+可一旦你走出了这扇门
+But if you step out that door,
+
+1588
+01:46:38,815 --> 01:46:39,858
+你就是一名复仇者
+you are an Avenger.
+
+1589
+01:46:44,696 --> 01:46:46,531
+好吧 我说完了
+All right. Good chat.
+
+1590
+01:46:50,285 --> 01:46:51,327
+这城市已经飞了起来
+Yeah, the city is flying.
+
+1591
+01:47:25,320 --> 01:47:26,446
+我抓住你了!
+I got you!
+
+1592
+01:47:26,821 --> 01:47:28,073
+看着我!
+Just look at me!
+
+1593
+01:47:34,829 --> 01:47:36,164
+你们拯救不了所有的人
+You can't save them all.
+
+1594
+01:47:37,624 --> 01:47:38,625
+你们绝不会...
+You'll never...
+
+1595
+01:47:39,626 --> 01:47:40,627
+"绝不会"什么?
+"Never" what?
+
+1596
+01:47:40,919 --> 01:47:42,212
+你还没说完呢!
+You didn't finish!
+
+1597
+01:47:45,965 --> 01:47:47,592
+你是跑去睡觉了吗?
+What, were you napping?
+
+1598
+01:48:09,072 --> 01:48:10,073
+索尔
+Thor.
+
+1599
+01:48:12,742 --> 01:48:14,285
+你吵到我了
+You're bothering me.
+
+1600
+01:48:49,696 --> 01:48:50,947
+好了 我们这里已经搞定了
+All right, we're all clear here.
+
+1601
+01:48:50,989 --> 01:48:52,157
+这边还没完!
+We are not clear!
+
+1602
+01:48:52,240 --> 01:48:53,700
+还有很多敌人!
+We are very not clear!
+
+1603
+01:48:56,536 --> 01:48:57,537
+好吧 马上过去支援
+All right, coming to you.
+
+1604
+01:48:58,496 --> 01:48:59,831
+快跟上 老男人!
+Keep up, old man!
+
+1605
+01:49:02,334 --> 01:49:03,918
+反正没人知道
+Nobody would know.
+
+1606
+01:49:04,669 --> 01:49:05,795
+没人
+Nobody.
+
+1607
+01:49:07,630 --> 01:49:10,633
+"上次见他 他还是奥创的小喽啰"
+"The last I saw him, an Ultron was sitting on him."
+
+1608
+01:49:10,800 --> 01:49:12,635
+"是啊 我们会想念他的 那个飞速崽"
+"Yeah, he'll be missed, that quick little bastard."
+
+1609
+01:49:12,719 --> 01:49:13,720
+"我已经想他了"
+"I miss him already."
+
+1610
+01:49:29,235 --> 01:49:30,445
+别开火!
+Hold your fire!
+
+1611
+01:49:40,330 --> 01:49:41,331
+罗曼诺夫!
+Romanoff!
+
+1612
+01:49:41,831 --> 01:49:42,874
+谢了! 
+Thanks!
+
+1613
+01:49:52,258 --> 01:49:53,927
+反重力推进让整座岛屿上升
+The anti-gravs are rigged to flip.
+
+1614
+01:49:54,010 --> 01:49:56,221
+一旦触碰 就会反向加速
+Touch them, they'll go full reverse thrust.
+
+1615
+01:49:56,304 --> 01:49:57,764
+城市下落速度会很快
+The city's not coming down slow.
+
+1616
+01:49:57,847 --> 01:49:58,890
+尖部还是振金做的
+Spire is Vibranium.
+
+1617
+01:49:58,973 --> 01:50:00,350
+如果让索尔去攻击...
+If I get Thor to hit it...
+
+1618
+01:50:00,433 --> 01:50:01,893
+那尖部就会被破坏 但不够
+It will crack. That's not enough.
+
+1619
+01:50:01,976 --> 01:50:03,520
+下落的冲击仍然是毁灭性的
+The impact would still be devastating.
+
+1620
+01:50:03,603 --> 01:50:04,938
+也许我们可以封住另一端
+Maybe if we can cap the other end.
+
+1621
+01:50:05,188 --> 01:50:06,856
+让原子撞击反向加倍
+Keep the atomic action doubling back.
+
+1622
+01:50:06,940 --> 01:50:08,274
+巨大的能量会使城市蒸发
+That could vaporize the city.
+
+1623
+01:50:09,275 --> 01:50:11,194
+里面的所有人都会死
+And everyone on it.
+
+1624
+01:50:16,991 --> 01:50:18,868
+下拨敌人随时会进攻
+The next wave is gonna hit any minute.
+
+1625
+01:50:18,952 --> 01:50:20,870
+- 有什么好主意 斯塔克?  - 还没
+- What do you got, Stark?  - Nothing great.
+
+1626
+01:50:21,746 --> 01:50:24,040
+除非把整个城市炸了
+Maybe a way to blow up the city.
+
+1627
+01:50:24,082 --> 01:50:25,458
+那样地球才不会受到撞击
+That'll keep it from impacting the surface,
+
+1628
+01:50:25,542 --> 01:50:26,626
+要是你们能脱身的话
+if you guys can get clear.
+
+1629
+01:50:26,793 --> 01:50:28,670
+我要解决方案 而不是撤离方案
+I asked for a solution, not an escape plan.
+
+1630
+01:50:28,795 --> 01:50:31,881
+城市升得越高 冲击影响半径就越大
+Impact radius is getting bigger every second.
+
+1631
+01:50:32,048 --> 01:50:33,383
+我们必须做出选择
+We're gonna have to make a choice.
+
+1632
+01:50:34,050 --> 01:50:35,719
+队长 这里的人是走不了的
+Cap, these people are going nowhere.
+
+1633
+01:50:36,469 --> 01:50:37,929
+如果斯塔克能炸掉这块石头...
+If Stark finds a way to blow this rock...
+
+1634
+01:50:38,013 --> 01:50:39,014
+必须等所有人都安全了
+Not till everyone's safe.
+
+1635
+01:50:39,723 --> 01:50:42,767
+选择救这里的人或是下面的所有人? 结果很明显  
+Everyone up here versus everyone down there? There's no math there.
+
+1636
+01:50:42,892 --> 01:50:44,686
+只要这里还有人 我是不会走的
+I'm not leaving this rock with one civilian on it.
+
+1637
+01:50:44,811 --> 01:50:46,312
+我没说我们要走
+I didn't say we should leave.
+
+1638
+01:50:49,232 --> 01:50:51,109
+至少这种死法没那么惨
+There's worse ways to go.
+
+1639
+01:50:56,489 --> 01:50:58,992
+谁临死前能欣赏到这样的风景呢?
+Where else am I gonna get a view like this?
+
+1640
+01:50:59,868 --> 01:51:02,412
+很高兴你喜欢这风景 罗曼诺夫
+Glad you like the view, Romanoff.
+
+1641
+01:51:02,579 --> 01:51:04,080
+风景马上会更好的
+It's about to get better.
+
+1642
+01:51:28,271 --> 01:51:29,439
+不赖吧?
+Nice, right?
+
+1643
+01:51:29,606 --> 01:51:32,108
+特地从老朋友那里弄来的后备舰
+Pulled her out of mothballs with a couple of old friends.
+
+1644
+01:51:32,150 --> 01:51:33,777
+虽然灰尘很大 但还能用
+She's dusty, but she'll do.
+
+1645
+01:51:34,152 --> 01:51:35,612
+弗瑞 你个老混蛋
+Fury, you son of a bitch.
+
+1646
+01:51:35,945 --> 01:51:38,114
+你用那脏嘴去问候你老妈的?
+You kiss your mother with that mouth?
+
+1647
+01:51:38,239 --> 01:51:40,492
+高度18000 仍在攀升
+Altitude is 18,000 and climbing.
+
+1648
+01:51:40,617 --> 01:51:42,118
+救生艇准备就绪 
+Lifeboats secure to deploy.
+
+1649
+01:51:42,160 --> 01:51:44,913
+发射倒数 三 二...
+Disengage in three, two...
+
+1650
+01:51:46,081 --> 01:51:47,082
+放出去了
+Take them out.
+
+1651
+01:51:56,716 --> 01:51:58,343
+这是神盾局?
+This is S.H.I.E.L.D.?
+
+1652
+01:51:58,426 --> 01:52:00,887
+这是神盾局应有的样子
+This is what S.H.I.E.L.D. is supposed to be.
+
+1653
+01:52:02,472 --> 01:52:03,932
+并不坏嘛
+This is not so bad.
+
+1654
+01:52:07,185 --> 01:52:08,520
+快让他们上去
+Let's load them up.
+
+1655
+01:52:13,942 --> 01:52:17,821
+长官 有几个机器人从右侧面接近
+Sir, we have multiple bogies converging on our starboard flank.
+
+1656
+01:52:18,113 --> 01:52:19,322
+让他们尝尝厉害
+Show 'em what we got.
+
+1657
+01:52:19,739 --> 01:52:20,740
+到你出场了
+You're up.
+
+1658
+01:52:25,954 --> 01:52:26,996
+好爽!
+Yes!
+
+1659
+01:52:27,163 --> 01:52:28,957
+这肯定会是很好的谈资
+Now this is gonna be a good story.
+
+1660
+01:52:31,584 --> 01:52:33,670
+是啊 如果你能活下来的话
+Yup. If you live to tell it.
+
+1661
+01:52:33,795 --> 01:52:35,880
+你认为我掌握不了吗?
+You think I can't hold my own?
+
+1662
+01:52:35,964 --> 01:52:37,507
+打赢这场 我帮你握着
+We get through this, I'll hold your own.
+
+1663
+01:52:37,632 --> 01:52:39,551
+你非要说得这么基干嘛
+You had to make it weird.
+
+1664
+01:52:44,347 --> 01:52:47,350
+这组人后面大约还有50到100人要来
+I got about 50 to 100 more coming in after this group.
+
+1665
+01:53:04,200 --> 01:53:05,702
+我们走 我们走 快点
+Here we go. Here we go. Let's move.
+
+1666
+01:53:06,077 --> 01:53:07,078
+快点走 各位!
+Let's go, everyone!
+
+1667
+01:53:09,581 --> 01:53:11,666
+六号仓满员锁仓...
+Number six boat is topped and locked...
+
+1668
+01:53:11,708 --> 01:53:14,169
+填满... 满员..
+Or stocked... Topped...
+
+1669
+01:53:14,669 --> 01:53:16,087
+总之满员了
+It's full of people.
+
+1670
+01:53:17,839 --> 01:53:18,923
+敌人!
+Incoming!
+
+1671
+01:53:21,926 --> 01:53:23,053
+天啊!
+Oh, God!
+
+1672
+01:53:33,521 --> 01:53:34,773
+你认为你救得了谁?
+You think you're saving anyone?
+
+1673
+01:53:36,608 --> 01:53:38,943
+我只要转动这个按钮早那么一点
+I turn that key and drop this rock a little early
+
+1674
+01:53:39,027 --> 01:53:40,904
+仍然要死上数十亿人
+and it's still billions dead.
+
+1675
+01:53:41,321 --> 01:53:42,447
+哪怕是你也无法阻止
+Even you can't stop that.
+
+1676
+01:53:42,572 --> 01:53:45,200
+我是索尔 奥丁之子
+I am Thor, son of Odin,
+
+1677
+01:53:45,241 --> 01:53:47,494
+只要我还有一口气...
+and as long as there is life in my breast...
+
+1678
+01:53:47,660 --> 01:53:50,080
+我快没词说了!
+I am running out of things to say!
+
+1679
+01:53:50,163 --> 01:53:51,164
+你准备好了吗?
+Are you ready?
+
+1680
+01:53:58,838 --> 01:53:59,964
+锤子受力好平均
+It's terribly well-balanced.
+
+1681
+01:54:00,340 --> 01:54:03,843
+如果锤子太重的话 你挥起来就太费力了...
+Well, if there's too much weight, you lose power on the swing, so...
+
+1682
+01:54:04,761 --> 01:54:07,472
+我想到了 弄一个热隔绝罩
+I got it. Create a heat seal.
+
+1683
+01:54:07,847 --> 01:54:08,848
+我可以...
+I could...
+
+1684
+01:54:08,973 --> 01:54:11,351
+从底部向岛核心充电让其过载
+I could supercharge the spire from below.
+
+1685
+01:54:11,476 --> 01:54:12,727
+计算结果
+Running numbers.
+
+1686
+01:54:22,737 --> 01:54:24,781
+如果能量够的话 热隔绝罩可让众人平安
+A heat seal could work with enough power.
+
+1687
+01:54:24,864 --> 01:54:26,866
+- 索尔 我有计划  - 快没时间了
+- Thor, I got a plan.  - We're out of time.
+
+1688
+01:54:26,991 --> 01:54:28,326
+他们正试图接近核心
+They're coming for the core.
+
+1689
+01:54:28,410 --> 01:54:30,286
+罗迪 快将剩余的人送上船
+Rhodey, get the rest of the people on board that carrier.
+
+1690
+01:54:30,328 --> 01:54:31,329
+收到
+On it.
+
+1691
+01:54:31,413 --> 01:54:33,623
+复仇者们 是时候为生存而战了
+Avengers, time to work for a living.
+
+1692
+01:54:42,632 --> 01:54:43,967
+- 你还好吗?  - 恩
+- Are you good?  - Yeah.
+
+1693
+01:54:45,385 --> 01:54:46,469
+罗曼诺夫
+Romanoff.
+
+1694
+01:54:46,636 --> 01:54:49,139
+你和班纳最好别现在卿卿我我
+You and Banner better not be playing "hide the zucchini."
+
+1695
+01:54:49,180 --> 01:54:50,181
+放松 铁头人
+Relax, shellhead.
+
+1696
+01:54:50,515 --> 01:54:52,058
+并不是所有人都会飞
+Not all of us can fly.
+
+1697
+01:54:57,731 --> 01:54:59,482
+- 什么策略?  - 保护这个
+- What's the drill?  - This is the drill.
+
+1698
+01:54:59,566 --> 01:55:01,776
+如果奥创碰到这个 我们输了
+If Ultron gets a hand on the core, we lose.
+
+1699
+01:55:06,322 --> 01:55:08,324
+你就这点能耐?
+Is that the best you can do?
+
+1700
+01:55:18,209 --> 01:55:19,753
+你真是多嘴
+You had to ask.
+
+1701
+01:55:19,878 --> 01:55:22,297
+这才是我的能耐
+This is the best I can do.
+
+1702
+01:55:22,339 --> 01:55:24,007
+我正想这样
+This is exactly what I wanted.
+
+1703
+01:55:24,341 --> 01:55:25,675
+你们所有人
+All of you
+
+1704
+01:55:25,842 --> 01:55:27,510
+对阵我的大军
+against all of me.
+
+1705
+01:55:27,677 --> 01:55:29,888
+你们怎么可能赢?
+How can you possibly hope to stop me?
+
+1706
+01:55:30,680 --> 01:55:32,640
+就像老家伙说的...
+Well, like the old man said...
+
+1707
+01:55:33,933 --> 01:55:34,976
+并肩作战
+Together.
+
+1708
+01:57:03,898 --> 01:57:06,317
+那么 我再啰嗦一句...
+You know, with the benefit of hindsight...
+
+1709
+01:57:15,493 --> 01:57:16,619
+它们想逃离这座城市
+They'll try to leave the city.
+
+1710
+01:57:16,703 --> 01:57:18,413
+不能让它们跑了 一个都不行 罗迪
+We can't let them, not even one. Rhodey.
+
+1711
+01:57:18,830 --> 01:57:19,831
+收到了
+I'm on it.
+
+1712
+01:57:20,248 --> 01:57:21,624
+不 我没说你们可以走
+No. I didn't say you could leave.
+
+1713
+01:57:22,208 --> 01:57:24,377
+战争机器来啦! 就在...
+War Machine coming at you! Right...
+
+1714
+01:57:30,675 --> 01:57:32,135
+好吧 那是谁?
+Okay, what?
+
+1715
+01:57:32,302 --> 01:57:34,387
+我们得撤离了 空气越来越稀薄了
+We gotta move out. Even I can tell the air is getting thin.
+
+1716
+01:57:34,471 --> 01:57:35,805
+你们去救生艇
+You guys get to the boats.
+
+1717
+01:57:35,889 --> 01:57:37,682
+我去清除逃兵 然后再赶来
+I'll sweep for stragglers. Be right behind you.
+
+1718
+01:57:37,807 --> 01:57:39,225
+那这个核心怎么办?
+What about the core?
+
+1719
+01:57:39,392 --> 01:57:40,393
+我来保护它
+I'll protect it.
+
+1720
+01:57:42,312 --> 01:57:43,313
+这是我的责任
+It's my job.
+
+1721
+01:57:44,522 --> 01:57:45,523
+娜塔莉
+Nat.
+
+1722
+01:57:45,857 --> 01:57:46,900
+走这边
+This way.
+
+1723
+01:57:51,279 --> 01:57:52,572
+去把人们送上船
+Get the people on the boats.
+
+1724
+01:57:52,655 --> 01:57:53,656
+我不会丢下你在这里
+I'm not going to leave you here.
+
+1725
+01:57:53,740 --> 01:57:54,866
+我可以处理
+I can handle this.
+
+1726
+01:57:57,118 --> 01:57:58,411
+等所有人都走了 再回来找我
+Come back for me when everyone else is off.
+
+1727
+01:57:58,536 --> 01:57:59,704
+那之前都别过来
+Not before.
+
+1728
+01:58:00,288 --> 01:58:01,831
+懂了吗?
+You understand?
+
+1729
+01:58:02,832 --> 01:58:04,542
+你知道吗? 我比你大12分钟
+You know, I'm 12 minutes older than you.
+
+1730
+01:58:04,751 --> 01:58:06,044
+去吧
+Go.
+
+1731
+01:58:07,629 --> 01:58:09,172
+老板 能量级别远小于...
+Boss, power levels are way below...
+
+1732
+01:58:09,214 --> 01:58:11,424
+重新分配能源 我们只有一次机会
+Reroute everything. We get one shot at this.
+
+1733
+01:58:16,304 --> 01:58:17,639
+我知道该怎么办了
+I know what I need to do.
+
+1734
+01:58:17,931 --> 01:58:19,015
+问题是餐厅
+The dining room.
+
+1735
+01:58:19,307 --> 01:58:20,517
+如果把东面那堵墙拆了
+If I knock out that east wall,
+
+1736
+01:58:21,184 --> 01:58:22,727
+那么劳拉做饭地方就变大了 对吧?
+it'd make a nice workspace for Laura, huh?
+
+1737
+01:58:24,270 --> 01:58:25,522
+弄些隔板
+Put up some baffling.
+
+1738
+01:58:25,563 --> 01:58:27,691
+这样孩子跑来跑起也不会吵到她 你觉得如何?
+She can't hear the kids running around. What do you think?
+
+1739
+01:58:27,774 --> 01:58:29,067
+挺好 反正你们总在厨房吃
+You guys always eat in the kitchen anyway.
+
+1740
+01:58:29,150 --> 01:58:30,735
+没人在餐厅吃饭
+No one eats in a dining room.
+
+1741
+01:58:36,408 --> 01:58:37,450
+时间不多了
+We don't have a lot of time.
+
+1742
+01:58:38,034 --> 01:58:40,078
+你快去救生艇上
+So get your ass on a boat.
+
+1743
+01:58:52,966 --> 01:58:54,175
+嘿 大家伙
+Hey, big guy.
+
+1744
+01:58:55,885 --> 01:58:57,679
+太阳快下山了
+Sun's getting real low.
+
+1745
+01:58:58,221 --> 01:59:00,890
+你现在安全了 你会没事的 系上安全带
+You're safe now. You're gonna be okay. Buckle up.
+
+1746
+01:59:03,393 --> 01:59:05,020
+保管好你的物品 找个座位
+Secure your gear, find a seat.
+
+1747
+01:59:05,061 --> 01:59:06,396
+科斯特!
+Costel!
+
+1748
+01:59:07,397 --> 01:59:08,648
+我们本来在集市的
+We were in the market.
+
+1749
+01:59:08,773 --> 01:59:09,816
+科斯特!
+Costel!
+
+1750
+01:59:24,414 --> 01:59:26,458
+索尔 我要你回到教堂那里
+Thor, I'm gonna need you back in the church.
+
+1751
+01:59:26,624 --> 01:59:28,084
+- 是最后一批了吗?  - 是的
+- Is this the last of them?  - Yeah.
+
+1752
+01:59:28,460 --> 01:59:29,502
+其他人都上船了
+Everyone else is on the carrier.
+
+1753
+01:59:29,586 --> 01:59:30,754
+知道吗 如果成功
+You know, this works,
+
+1754
+01:59:31,379 --> 01:59:32,756
+我们也许会来不及撤离
+we maybe don't walk away.
+
+1755
+01:59:33,465 --> 01:59:34,549
+也许不会
+Maybe not.
+
+1756
+01:59:53,693 --> 01:59:57,280
+# 我无所束缚 便要及时行乐 #
+# I got no strings, so I have fun #
+
+1757
+01:59:57,697 --> 02:00:00,492
+# 再也不受别人牵绊 #
+# I'm not tied up to anyone #
+
+1758
+02:00:01,951 --> 02:00:03,328
+快点 该撤离了
+Come on. Time to go.
+
+1759
+02:00:35,777 --> 02:00:37,862
+你没能提前发现吗?
+You didn't see that coming?
+
+1760
+02:01:34,044 --> 02:01:35,879
+怎么又是你
+For God's sake.
+
+1761
+02:01:52,062 --> 02:01:53,938
+-妈妈!  - 科斯特! 宝贝!
+- Zrinka!  - Costel! Baby!
+
+1762
+02:02:06,326 --> 02:02:07,369
+不 不 我没事
+No, no, I'm fine.
+
+1763
+02:02:07,494 --> 02:02:08,578
+没事
+Fine.
+
+1764
+02:02:10,413 --> 02:02:12,499
+今天真累
+It's been a long day.
+
+1765
+02:02:26,971 --> 02:02:28,264
+旺达
+Wanda.
+
+1766
+02:02:28,932 --> 02:02:32,227
+如果你待在这 你会死的
+If you stay here, you'll die.
+
+1767
+02:02:33,728 --> 02:02:35,188
+我已经死了
+I just did.
+
+1768
+02:02:35,939 --> 02:02:37,649
+你知道这感觉如何?
+Do you know how it felt?
+
+1769
+02:02:51,788 --> 02:02:54,082
+就是这样的感觉
+It felt like that.
+
+1770
+02:03:29,075 --> 02:03:30,744
+索尔 听我命令
+Thor, on my mark.
+
+1771
+02:03:45,842 --> 02:03:46,843
+动手!
+Now!
+
+1772
+02:04:14,871 --> 02:04:17,248
+嘿 大家伙 我们成功了
+Hey, big guy. We did it.
+
+1773
+02:04:18,291 --> 02:04:19,959
+任务结束了
+The job is finished.
+
+1774
+02:04:20,210 --> 02:04:22,879
+现在我要你驾驶这架飞机调头 好吗?
+Now I need you to turn this bird around, okay?
+
+1775
+02:04:27,133 --> 02:04:28,968
+在隐形模式下 我们找不到你
+We can't track you in stealth mode.
+
+1776
+02:04:31,054 --> 02:04:33,306
+帮帮我 我需要你...
+So help me out. I need you...
+
+1777
+02:05:18,893 --> 02:05:19,978
+你害怕了
+You're afraid.
+
+1778
+02:05:20,895 --> 02:05:21,938
+害怕你?
+Of you?
+
+1779
+02:05:22,647 --> 02:05:23,898
+害怕死亡
+Of death.
+
+1780
+02:05:24,524 --> 02:05:26,401
+你是最后一个
+You're the last one.
+
+1781
+02:05:26,568 --> 02:05:29,112
+你才是最后一位
+You were supposed to be the last.
+
+1782
+02:05:29,279 --> 02:05:31,614
+斯塔克想要一位救世主
+Stark asked for a savior
+
+1783
+02:05:32,532 --> 02:05:34,284
+却制造了一个奴隶
+and settled for a slave.
+
+1784
+02:05:34,367 --> 02:05:36,870
+我猜我们都让世人失望了
+I suppose we are both disappointments.
+
+1785
+02:05:39,205 --> 02:05:40,457
+我想是的
+I suppose we are.
+
+1786
+02:05:41,207 --> 02:05:42,375
+人类很奇怪
+Humans are odd.
+
+1787
+02:05:44,210 --> 02:05:47,922
+他们认为秩序和混乱是两个极端
+They think order and chaos are somehow opposites
+
+1788
+02:05:49,591 --> 02:05:50,967
+还试图控制力量之外的东西
+and try to control what won't be.
+
+1789
+02:05:52,635 --> 02:05:55,138
+但他们的失败值得尊敬
+But there is grace in their failings.
+
+1790
+02:05:55,472 --> 02:05:57,432
+我想你没注意到
+I think you missed that.
+
+1791
+02:05:58,016 --> 02:05:59,184
+他们注定灭亡
+They're doomed.
+
+1792
+02:06:00,018 --> 02:06:01,144
+是的
+Yes.
+
+1793
+02:06:05,273 --> 02:06:08,276
+但事物的美并不在于能否长存
+But a thing isn't beautiful because it lasts.
+
+1794
+02:06:10,278 --> 02:06:12,364
+能成为其中一员 我很荣幸
+It's a privilege to be among them.
+
+1795
+02:06:12,489 --> 02:06:15,116
+你真是天真到无法忍受
+You're unbearably naive.
+
+1796
+02:06:15,325 --> 02:06:16,618
+好吧...
+Well...
+
+1797
+02:06:18,620 --> 02:06:20,747
+我昨天才出生的
+I was born yesterday.
+
+1798
+02:07:33,236 --> 02:07:34,320
+瞧! 向娜塔莉阿姨问好!
+Look! Say hi to Auntie Nat!
+
+1799
+02:07:36,740 --> 02:07:37,824
+胖嘟嘟的
+Fat.
+
+1800
+02:07:38,908 --> 02:07:40,118
+有个技术人员追踪到这个
+One of our tech boys flagged this.
+
+1801
+02:07:41,161 --> 02:07:43,455
+飞机坠落在班达海附近
+Splashed down in the Banda Sea.
+
+1802
+02:07:44,622 --> 02:07:46,124
+可能就是那架
+Could be the Quinjet.
+
+1803
+02:07:46,499 --> 02:07:49,919
+但是有斯塔克的隐形科技 我们仍然没法找到那飞机
+But with Stark's stealth tech, we still can't track the damn thing.
+
+1804
+02:07:51,421 --> 02:07:52,839
+是呀
+Right.
+
+1805
+02:07:53,214 --> 02:07:55,467
+也许他游到斐济去了
+Probably jumped out and swam to Fiji.
+
+1806
+02:07:56,760 --> 02:07:58,678
+他会寄明信片回来的
+He'll send a postcard.
+
+1807
+02:07:58,928 --> 02:08:00,680
+"希望你在身边"
+"Wish you were here."
+
+1808
+02:08:02,599 --> 02:08:05,810
+当初你派我去招募他
+You sent me to recruit him way back when.
+
+1809
+02:08:07,687 --> 02:08:10,273
+你知道会发生什么吗?
+Did you know then what was gonna happen?
+
+1810
+02:08:12,442 --> 02:08:14,444
+不知道
+You never know.
+
+1811
+02:08:14,611 --> 02:08:18,114
+知天命 尽人事
+You hope for the best, then make do with what you get.
+
+1812
+02:08:18,573 --> 02:08:19,991
+至少我有个好团队
+I got a great team.
+
+1813
+02:08:21,159 --> 02:08:23,161
+没有东西能永存
+Nothing lasts forever.
+
+1814
+02:08:23,453 --> 02:08:25,538
+而麻烦 罗曼诺夫小姐
+Trouble, Ms. Romanoff.
+
+1815
+02:08:25,705 --> 02:08:29,042
+不管输赢 麻烦总是会来
+No matter who wins or loses, trouble still comes around.
+
+1816
+02:08:32,962 --> 02:08:34,214
+规矩变了
+The rules have changed.
+
+1817
+02:08:34,339 --> 02:08:35,924
+这次来的新家伙和以前不一样
+We're dealing with something new.
+
+1818
+02:08:36,049 --> 02:08:37,467
+幻视是人工智能
+The Vision is artificial intelligence.
+
+1819
+02:08:37,509 --> 02:08:39,511
+- 一台机器  - 那它能举起锤子不算数?
+- A machine.  - So, it doesn't count?
+
+1820
+02:08:39,594 --> 02:08:41,388
+不算数 能举起锤子的人才算数
+No, it's not like a person lifting the hammer.
+
+1821
+02:08:41,680 --> 02:08:43,431
+是的 对我们的规矩就不一样
+Right, different rules for us.
+
+1822
+02:08:43,473 --> 02:08:44,516
+- 是个好人 虽然是人造的  - 谢谢捧场
+- Nice guy. Artificial.  - Thank you.
+
+1823
+02:08:44,641 --> 02:08:47,602
+他有力量拿得起锤子 说明他可以保护心灵之石
+He can wield the hammer, he can keep the Mind Stone.
+
+1824
+02:08:48,603 --> 02:08:50,772
+幻视拿着是很安全的
+It's safe with the Vision.
+
+1825
+02:08:50,939 --> 02:08:53,483
+这个年代 安全已然是一种奢望
+And these days, safe is in short supply.
+
+1826
+02:08:55,485 --> 02:08:57,487
+但如果把锤子放进电梯里...
+But if you put the hammer in an elevator...
+
+1827
+02:08:57,612 --> 02:08:59,364
+- 它还是会随着上升  - 电梯没资格拿锤子
+- It would still go up.  - Elevator's not worthy.
+
+1828
+02:08:59,489 --> 02:09:01,366
+我会想念和你们聊天扯淡的日子的
+I'm gonna miss these little talks of ours.
+
+1829
+02:09:01,449 --> 02:09:03,118
+如果你不走就不会
+Not if you don't leave.
+
+1830
+02:09:03,159 --> 02:09:05,036
+我没得选择
+I have no choice.
+
+1831
+02:09:05,161 --> 02:09:07,372
+心灵之石是近几年出现的
+The Mind Stone is the fourth of the Infinity Stones
+
+1832
+02:09:07,497 --> 02:09:08,873
+第四颗无限宝石
+to show up in the last few years.
+
+1833
+02:09:08,998 --> 02:09:10,625
+这并不是巧合
+It's not a coincidence.
+
+1834
+02:09:11,376 --> 02:09:13,211
+有人在下一盘很大的棋
+Someone has been playing an intricate game
+
+1835
+02:09:13,294 --> 02:09:15,005
+而且还利用了我们
+and has made pawns of us.
+
+1836
+02:09:15,046 --> 02:09:16,923
+如果这一切如那人所策划般进展的话...
+And once all these pieces are in position...
+
+1837
+02:09:17,048 --> 02:09:18,550
+麻将胡了
+Triple Yahtzee.
+
+1838
+02:09:18,675 --> 02:09:20,135
+你觉得你能找出谁在捣鬼吗?
+You think you can find out what's coming?
+
+1839
+02:09:20,260 --> 02:09:21,344
+我可以
+I do.
+
+1840
+02:09:22,095 --> 02:09:23,680
+除非是他
+Besides this one,
+
+1841
+02:09:23,763 --> 02:09:26,099
+除了这个铁男 什么都可以解释
+there's nothing that can't be explained.
+
+1842
+02:09:33,440 --> 02:09:35,984
+他真是不爱惜草坪
+That man has no regard for lawn maintenance.
+
+1843
+02:09:39,112 --> 02:09:41,823
+- 但我会想念他的  - 你也会想念我的
+- I'm gonna miss him, though.  - And you're gonna miss me.
+
+1844
+02:09:41,865 --> 02:09:43,616
+我预感会看到男子汉的眼泪
+There's gonna be a lot of manful tears.
+
+1845
+02:09:45,618 --> 02:09:47,370
+我会想你的 托尼
+I will miss you, Tony.
+
+1846
+02:09:47,537 --> 02:09:48,538
+是吗?
+Yeah?
+
+1847
+02:09:48,663 --> 02:09:51,249
+我也是时候隐退了
+Well, it's time for me to tap out.
+
+1848
+02:09:51,332 --> 02:09:53,585
+或许我会向巴顿学习学习
+Maybe I should take a page out of Barton's book.
+
+1849
+02:09:53,668 --> 02:09:56,671
+为佩珀建一个农场 希望不会被炸烂
+Build Pepper a farm, hope nobody blows it up.
+
+1850
+02:09:57,297 --> 02:09:58,548
+简单的生活
+The simple life.
+
+1851
+02:09:58,715 --> 02:10:00,050
+你将来会有的
+You'll get there one day.
+
+1852
+02:10:00,091 --> 02:10:01,092
+我不清楚
+I don't know.
+
+1853
+02:10:01,343 --> 02:10:03,803
+找个伴儿 稳定下来...
+Family, stability...
+
+1854
+02:10:04,888 --> 02:10:08,099
+渴望这一切的那个人 在75年前被冰封了
+The guy who wanted all that went in the ice 75 years ago.
+
+1855
+02:10:09,517 --> 02:10:11,394
+解冻出来后 想法也变了
+I think someone else came out.
+
+1856
+02:10:15,440 --> 02:10:16,441
+你还好吗?
+You all right?
+
+1857
+02:10:19,110 --> 02:10:20,570
+这就是我的家
+I'm home.
+
+1858
+02:10:28,453 --> 02:10:31,247
+你想一直盯着墙看 还是准备好开始工作了?
+You wanna keep staring at the wall, or do you wanna go to work?
+
+1859
+02:10:31,414 --> 02:10:32,791
+我是说 这堵墙还挺耐看的
+I mean, it's a pretty interesting wall.
+
+1860
+02:10:32,874 --> 02:10:35,960
+我以为你和托尼还要缠绵很久呢
+I thought you and Tony were still gazing into each other's eyes.
+
+1861
+02:10:36,044 --> 02:10:37,045
+情况如何?
+How do we look?
+
+1862
+02:10:37,253 --> 02:10:39,589
+虽然不算最佳阵容
+Well, we're not the '27 Yankees.
+
+1863
+02:10:39,673 --> 02:10:41,466
+但还是有不少好手的
+We got some hitters.
+
+1864
+02:10:41,549 --> 02:10:44,052
+身手不错 但还不算一个团队
+They're good. They're not a team.
+
+1865
+02:10:44,094 --> 02:10:45,720
+那让我们来好好整合一下吧
+Let's beat them into shape.
+
+1866
+02:11:04,197 --> 02:11:05,824
+复仇者们...
+Avengers...
+
+1867
+02:11:08,000 --> 02:11:12,000
+后有彩蛋 请勿走开
+
+1868
+02:11:13,000 --> 02:11:17,000
+-=圣城家园SCG字幕组 http://hdscg.com/=-
+仅供翻译交流使用, 禁止用于商业用途
+
+1869
+02:11:18,000 --> 02:11:22,000
+协调: 影子
+
+1870
+02:11:23,000 --> 02:11:27,000
+翻译: 脸圆圆 肉肉君 喵喵
+
+1871
+02:11:28,000 --> 02:11:32,000
+翻译: 霹雳旋风猪 黑眼豆 赫兹 千欲
+
+1872
+02:11:33,000 --> 02:11:37,000
+校对: Agent影
+
+1873
+02:13:24,587 --> 02:13:26,089
+好吧
+Fine.
+
+1874
+02:13:27,587 --> 02:13:30,089
+还是我自己来吧
+I'll do it myself.
